@@ -1,13 +1,13 @@
 <!-- 顶部动态标题 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=520&lines=%F0%9F%90%BE+Hi%2C+I'm+%E4%BA%91%E6%B1%80+%7C+%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%E4%BA%91%E6%B1%80+%F0%9F%92%96;Full+Stack+Developer+%7C+%E5%85%A8%E6%A0%88%E5%BC%80%E5%8F%91%E8%80%85;Cat+Enthusiast+%7C+%E5%96%B5%E5%96%B5%E6%8E%A7;Open+Source+Lover+%7C+%E5%BC%80%E6%BA%90%E7%88%B1%E5%A5%BD%E8%80%85" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=520&lines=%F0%9F%90%BE+Hi%2C+I'm+%E4%BA%91%E6%B1%80+%7C+%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%E4%BA%91%E6%B1%80+%F0%9F%92%96;Full+Stack+Developer+%7C+%E5%85%A8%E6%A0%88%E5%BC%80%E5%8F%91%E8%80%85;Cute+Catgirl+%26+Shota+%7C+%E5%8F%AF%E7%88%B1%E7%8C%AB%E5%A8%98%E4%B8%8E%E6%AD%A3%E5%A4%AA;Open+Source+Lover+%7C+%E5%BC%80%E6%BA%90%E7%88%B1%E5%A5%BD%E8%80%85" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🐾 关于我 | About Me
 
-> 喵喵喵 ~ 一只喜欢代码和萌图的喵喵！| Meow ~ A coder who loves cute things!
+> 喵喵喵 ~ | Meow ~
 
 ---
 
@@ -48,13 +48,7 @@
 ## 💬 每日一言 | Daily Quote
 
 <!-- DAILY_QUOTE_START -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=喵喵喵+好像出错了+~nya;Meow+something+went+wrong+~nya" alt="Daily Quote" />
-</p>
-
-<p align="center"><b>🎯 中文：</b>喵喵喵好像出错了 ~nya</p>
-<p align="center"><b>🎯 English：</b>Meow something went wrong ~nya</p>
-<p align="center"><sub>— 云汀</sub></p>
+<p align="center">✨ 每日一言加载中... | Daily quote loading... ✨</p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
@@ -95,5 +89,5 @@
 </p>
 
 <p align="center">
-  <sub>🐾 喵喵喵 ~ Made with 💖 🐾 | Meow ~ Made with 💖 🐾</sub>
+  <sub>🐾 喵喵喵 ~ | Meow ~ 🐾</sub>
 </p>
