@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=fcc4c103" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=24845f89" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=33ad" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=3e20" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E4%B8%80%E4%BB%A5%E8%B4%AF%E4%B9%8B%E7%9A%84%E5%8A%AA%E5%8A%9B%EF%BC%8C%E4%B8%8D%E5%BE%97%E6%87%88%E6%80%A0%E7%9A%84%E4%BA%BA%E7%94%9F%E3%80%82;Consistent%2Befforts%2Bshall%2Bnot%2Bbe%2Bslackened%2Bin%2Blife." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E8%BF%99%E9%A2%97%E7%B3%96%E5%BE%AE%E5%BE%AE%E5%8F%91%E9%BB%91%EF%BC%8C%E4%B8%80%E5%AE%9A%E4%B8%8D%E8%83%BD%E5%90%83%E4%BA%86%E3%80%82%E8%A2%AB%E6%8F%A1%E7%9A%84%E5%A4%AA%E7%B4%A7%EF%BC%8C%E5%B7%B2%E7%BB%8F%E6%9C%89%E7%82%B9%E7%A2%8E%E4%BA%86%E3%80%82;This%20sugar%20is%20slightly%20blackened%20and%20must%20not%20be%20eaten.The%20grip%20was%20too%20tight%2C%20and%20it%20was%20already%20a%20little%20broken." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>一以贯之的努力，不得懈怠的人生。</p>
-<p align="center"><b>🎯 English：</b>Consistent efforts shall not be slackened in life.</p>
-<p align="center"><sub>— 天才基本法</sub></p>
+<p align="center"><b>🎯 中文：</b>这颗糖微微发黑，一定不能吃了。被握的太紧，已经有点碎了。</p>
+<p align="center"><b>🎯 English：</b>This sugar is slightly blackened and must not be eaten.The grip was too tight, and it was already a little broken.</p>
+<p align="center"><sub>— 魔道祖师</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
@@ -106,7 +106,7 @@
           
           echo "$README" | sed -n '1,/<!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=fcc4c103" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=24845f89" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->/,$p' | tail -n +2 >> temp.md
           
@@ -118,13 +118,13 @@
           
           NEW_FOX="<!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=33ad" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=3e20" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->"
           
           echo "$README" | sed -n '1,/<!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=33ad" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=3e20" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->/,$p' | tail -n +2 >> temp.md
           
@@ -173,22 +173,22 @@
           
           NEW_QUOTE="<!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E4%B8%80%E4%BB%A5%E8%B4%AF%E4%B9%8B%E7%9A%84%E5%8A%AA%E5%8A%9B%EF%BC%8C%E4%B8%8D%E5%BE%97%E6%87%88%E6%80%A0%E7%9A%84%E4%BA%BA%E7%94%9F%E3%80%82;Consistent%2Befforts%2Bshall%2Bnot%2Bbe%2Bslackened%2Bin%2Blife." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E8%BF%99%E9%A2%97%E7%B3%96%E5%BE%AE%E5%BE%AE%E5%8F%91%E9%BB%91%EF%BC%8C%E4%B8%80%E5%AE%9A%E4%B8%8D%E8%83%BD%E5%90%83%E4%BA%86%E3%80%82%E8%A2%AB%E6%8F%A1%E7%9A%84%E5%A4%AA%E7%B4%A7%EF%BC%8C%E5%B7%B2%E7%BB%8F%E6%9C%89%E7%82%B9%E7%A2%8E%E4%BA%86%E3%80%82;This%20sugar%20is%20slightly%20blackened%20and%20must%20not%20be%20eaten.The%20grip%20was%20too%20tight%2C%20and%20it%20was%20already%20a%20little%20broken." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>一以贯之的努力，不得懈怠的人生。</p>
-<p align="center"><b>🎯 English：</b>Consistent efforts shall not be slackened in life.</p>
-<p align="center"><sub>— 天才基本法</sub></p>
+<p align="center"><b>🎯 中文：</b>这颗糖微微发黑，一定不能吃了。被握的太紧，已经有点碎了。</p>
+<p align="center"><b>🎯 English：</b>This sugar is slightly blackened and must not be eaten.The grip was too tight, and it was already a little broken.</p>
+<p align="center"><sub>— 魔道祖师</sub></p>
 <!-- DAILY_QUOTE_END -->"
           
           echo "$README" | sed -n '1,/<!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E4%B8%80%E4%BB%A5%E8%B4%AF%E4%B9%8B%E7%9A%84%E5%8A%AA%E5%8A%9B%EF%BC%8C%E4%B8%8D%E5%BE%97%E6%87%88%E6%80%A0%E7%9A%84%E4%BA%BA%E7%94%9F%E3%80%82;Consistent%2Befforts%2Bshall%2Bnot%2Bbe%2Bslackened%2Bin%2Blife." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E8%BF%99%E9%A2%97%E7%B3%96%E5%BE%AE%E5%BE%AE%E5%8F%91%E9%BB%91%EF%BC%8C%E4%B8%80%E5%AE%9A%E4%B8%8D%E8%83%BD%E5%90%83%E4%BA%86%E3%80%82%E8%A2%AB%E6%8F%A1%E7%9A%84%E5%A4%AA%E7%B4%A7%EF%BC%8C%E5%B7%B2%E7%BB%8F%E6%9C%89%E7%82%B9%E7%A2%8E%E4%BA%86%E3%80%82;This%20sugar%20is%20slightly%20blackened%20and%20must%20not%20be%20eaten.The%20grip%20was%20too%20tight%2C%20and%20it%20was%20already%20a%20little%20broken." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>一以贯之的努力，不得懈怠的人生。</p>
-<p align="center"><b>🎯 English：</b>Consistent efforts shall not be slackened in life.</p>
-<p align="center"><sub>— 天才基本法</sub></p>
+<p align="center"><b>🎯 中文：</b>这颗糖微微发黑，一定不能吃了。被握的太紧，已经有点碎了。</p>
+<p align="center"><b>🎯 English：</b>This sugar is slightly blackened and must not be eaten.The grip was too tight, and it was already a little broken.</p>
+<p align="center"><sub>— 魔道祖师</sub></p>
 <!-- DAILY_QUOTE_END -->/,$p' | tail -n +2 >> temp.md
           
           mv temp.md README.md
@@ -233,12 +233,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E4%B8%80%E4%BB%A5%E8%B4%AF%E4%B9%8B%E7%9A%84%E5%8A%AA%E5%8A%9B%EF%BC%8C%E4%B8%8D%E5%BE%97%E6%87%88%E6%80%A0%E7%9A%84%E4%BA%BA%E7%94%9F%E3%80%82;Consistent%2Befforts%2Bshall%2Bnot%2Bbe%2Bslackened%2Bin%2Blife." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E8%BF%99%E9%A2%97%E7%B3%96%E5%BE%AE%E5%BE%AE%E5%8F%91%E9%BB%91%EF%BC%8C%E4%B8%80%E5%AE%9A%E4%B8%8D%E8%83%BD%E5%90%83%E4%BA%86%E3%80%82%E8%A2%AB%E6%8F%A1%E7%9A%84%E5%A4%AA%E7%B4%A7%EF%BC%8C%E5%B7%B2%E7%BB%8F%E6%9C%89%E7%82%B9%E7%A2%8E%E4%BA%86%E3%80%82;This%20sugar%20is%20slightly%20blackened%20and%20must%20not%20be%20eaten.The%20grip%20was%20too%20tight%2C%20and%20it%20was%20already%20a%20little%20broken." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>一以贯之的努力，不得懈怠的人生。</p>
-<p align="center"><b>🎯 English：</b>Consistent efforts shall not be slackened in life.</p>
-<p align="center"><sub>— 天才基本法</sub></p>
+<p align="center"><b>🎯 中文：</b>这颗糖微微发黑，一定不能吃了。被握的太紧，已经有点碎了。</p>
+<p align="center"><b>🎯 English：</b>This sugar is slightly blackened and must not be eaten.The grip was too tight, and it was already a little broken.</p>
+<p align="center"><sub>— 魔道祖师</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
