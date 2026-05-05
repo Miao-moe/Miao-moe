@@ -1,31 +1,22 @@
 <!-- 顶部动态标题 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=%F0%9F%90%BE+Hi%2C+I'm+%E4%BA%91%E6%B1%80+%F0%9F%92%96;Catgirl+%26+Shota+Enthusiast;Full+Stack+Developer;Building+NekoTune+%F0%9F%8E%B5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=520&lines=%F0%9F%90%BE+Hi%2C+I'm+%E4%BA%91%E6%B1%80+%7C+%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%E4%BA%91%E6%B1%80+%F0%9F%92%96;Full+Stack+Developer+%7C+%E5%85%A8%E6%A0%88%E5%BC%80%E5%8F%91%E8%80%85;Cat+Enthusiast+%7C+%E5%96%B5%E5%96%B5%E6%8E%A7;Open+Source+Lover+%7C+%E5%BC%80%E6%BA%90%E7%88%B1%E5%A5%BD%E8%80%85" alt="Typing SVG" />
 </p>
-
-<!-- 随机萌图区域-->
-<p align="center">
-  <img src="https://t.alcy.cc/moez" width="380" alt="随机萌图" />
-  <img src="https://t.alcy.cc/xhl" width="380" alt="小狐狸" />
-</p>
-<p align="center"><sub>✨ 萌图来源于 <a href="https://t.alcy.cc">举个栗子 API</a> ✨</sub></p>
 
 ---
 
-## 🐾 关于我
+## 🐾 关于我 | About Me
 
-> 一只喜欢代码和萌图的猫娘控 ~nya！正在构建全平台音源收集项目 🎵
+> 喵喵喵 ~ 一只喜欢代码和萌图的喵喵！| Meow ~ A coder who loves cute things!
 
-- 🎵 **NekoTune** — [全平台音源收集仓库](https://github.com/MistAperio/-NekoTune-music-source)
-- 🌸 个人博客：简约黑白风，背景有 ACG 视频 ~ 
-- 💌 联系我：
+- 💌 联系我 | Contact:
   - QQ：`536164245`
-  - 微信：`ycswjgq`
-  - 邮箱：`536164245@qq.com`
+  - 微信 | WeChat：`ycswjgq`
+  - 邮箱 | Email：`536164245@qq.com`
 
 ---
 
-## 🛠️ 技术栈
+## 🛠️ 技术栈 | Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-FF69B4?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -37,46 +28,46 @@
 
 ---
 
-## 📊 GitHub 统计
+## 🌸 萌图 | Cute Pics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=miao-moe&show_icons=true&theme=radical&hide_border=true&bg_color=2d1b2e&title_color=ff69b4&text_color=ffb6c1&icon_color=ff1493" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miao-moe&layout=compact&theme=radical&hide_border=true&bg_color=2d1b2e&title_color=ff69b4&text_color=ffb6c1" height="165" />
+  <img src="https://t.alcy.cc/moez?r=1" width="400" alt="萌图" />
+</p>
+
+<p align="center"><b>喵喵喵 ~ 好萌啊！| Meow ~ So cute!</b></p>
+<p align="center"><sub>✨ 来源于 <a href="https://t.alcy.cc">举个栗子 API</a> ✨</sub></p>
+
+---
+
+## 🦊 小狐狸 | Little Fox
+
+<p align="center">
+  <img src="https://t.alcy.cc/xhl?r=1" width="400" alt="小狐狸" />
+</p>
+
+<p align="center"><b>嘤嘤嘤 ~ 狐狸好软！| Yip yip ~ So fluffy!</b></p>
+<p align="center"><sub>✨ 来源于 <a href="https://t.alcy.cc">举个栗子 API</a> ✨</sub></p>
+
+---
+
+## 📊 GitHub 统计 | Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=miao-moe&show_icons=true&theme=radical&hide_border=true&bg_color=2d1b2e&title_color=ff69b4&text_color=ffb6c1&icon_color=ff1493&random=1" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miao-moe&layout=compact&theme=radical&hide_border=true&bg_color=2d1b2e&title_color=ff69b4&text_color=ffb6c1&random=1" height="165" />
 </p>
 
 ---
 
-## 🐱 贡献蛇形图
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/miao-moe/miao-moe/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/miao-moe/miao-moe/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/miao-moe/miao-moe/output/github-contribution-grid-snake.svg" />
-</picture>
-
----
-
-## 🌟 精选项目
-
-| 项目 | 描述 | 技术 |
-|:---|:---|:---|
-| [**NekoTune-music-source**](https://github.com/MistAperio/NekoTune-music-source) | 🎵 全平台音源收集仓库 | Node.js / API |
-| 个人博客 | 🌸 猫娘风格个人主页 | HTML / Tailwind CSS |
-
----
-
-## 💕 随机萌图
+## 🐱 贡献图 | Contribution
 
 <p align="center">
-  <img src="https://t.alcy.cc/moez" width="280" alt="随机萌图" />
-  <img src="https://t.alcy.cc/moez" width="280" alt="随机萌图" />
-  <img src="https://t.alcy.cc/moez" width="280" alt="随机萌图" />
+  <img src="https://ghchart.rshah.org/ff69b4/miao-moe" alt="GitHub Contribution Chart" />
 </p>
-<p align="center"><sub>🌸 萌图来源于 <a href="https://t.alcy.cc">举个栗子 API</a> 🌸</sub></p>
 
 ---
 
-## 🤝 找到我
+## 🤝 找到我 | Find Me
 
 <p align="center">
   <a href="https://github.com/MistAperio"><img src="https://img.shields.io/badge/MistAperio-FF69B4?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -90,5 +81,5 @@
 </p>
 
 <p align="center">
-  <sub>🐾 Made with 💖 and catnip 🐾</sub>
+  <sub>🐾 喵喵喵 ~ Made with 💖 🐾 | Meow ~ Made with 💖 🐾</sub>
 </p>
