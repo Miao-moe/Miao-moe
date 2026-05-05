@@ -26,7 +26,7 @@
 ## 🌸 萌图 | Cute Pics
 
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=1" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez" width="400" alt="萌图" />
 </p>
 
 <p align="center"><b>喵喵喵 ~ 好萌啊！| Meow ~ So cute!</b></p>
@@ -37,7 +37,7 @@
 ## 🦊 小狐狸 | Little Fox
 
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=1" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl" width="400" alt="小狐狸" />
 </p>
 
 <p align="center"><b>嘤嘤嘤 ~ 狐狸好软！| Yip yip ~ So fluffy!</b></p>
@@ -45,10 +45,30 @@
 
 ---
 
+## 💬 每日一言 | Daily Quote
+
+<!-- DAILY_QUOTE_START -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=600&lines=Talk+is+cheap.+Show+me+the+code." alt="Daily Quote" />
+</p>
+<!-- DAILY_QUOTE_END -->
+
+<p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
+
+---
+
 ## 🐱 贡献图 | Contribution
 
 <p align="center">
   <img src="https://ghchart.rshah.org/ff69b4/miao-moe" alt="GitHub Contribution Chart" />
+</p>
+
+---
+
+## 👀 访客统计 | Visitors
+
+<p align="center">
+  <img src="https://count.getloli.com/get/@miao-moe?theme=rule34" alt="Visitors" />
 </p>
 
 ---
