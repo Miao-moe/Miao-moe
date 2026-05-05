@@ -1,9 +1,9 @@
-<!-- 顶部渐变波浪头图 -->
+<!-- 顶部：粉色波浪渐变头图 -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF69B4,FFB6C1,FFC0CB,FF1493&height=200&section=header&text=🐾%20云汀%20🐾&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Cute%20Catgirl%20%26%20Shota&descAlignY=55&descAlign=50" alt="Header" />
 </p>
 
-<!-- 动态打字标题 -->
+<!-- 标题：动态打字机 -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Hi,+I'm+云汀;Full+Stack+Developer;Cute+Catgirl+%26+Shota;Open+Source+Lover" alt="Typing SVG" />
 </p>
@@ -89,7 +89,7 @@
 
 ---
 
-<!-- 底部渐变波浪 -->
+<!-- 底部：粉色波浪渐变 -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF1493,FFC0CB,FFB6C1,FF69B4&height=120&section=footer" alt="Footer" />
 </p>
