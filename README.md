@@ -49,8 +49,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=600&lines=Talk+is+cheap.+Show+me+the+code." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=喵喵喵+好像出错了+~nya;Meow+something+went+wrong+~nya" alt="Daily Quote" />
 </p>
+
+<p align="center"><b>🎯 中文：</b>喵喵喵好像出错了 ~nya</p>
+<p align="center"><b>🎯 English：</b>Meow something went wrong ~nya</p>
+<p align="center"><sub>— 云汀</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
