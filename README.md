@@ -9,11 +9,6 @@
 
 > 喵喵喵 ~ 一只喜欢代码和萌图的喵喵！| Meow ~ A coder who loves cute things!
 
-- 💌 联系我 | Contact:
-  - QQ：`536164245`
-  - 微信 | WeChat：`ycswjgq`
-  - 邮箱 | Email：`536164245@qq.com`
-
 ---
 
 ## 🛠️ 技术栈 | Tech Stack
@@ -53,8 +48,8 @@
 ## 📊 GitHub 统计 | Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=miao-moe&show_icons=true&theme=radical&hide_border=true&bg_color=2d1b2e&title_color=ff69b4&text_color=ffb6c1&icon_color=ff1493&random=1" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miao-moe&layout=compact&theme=radical&hide_border=true&bg_color=2d1b2e&title_color=ff69b4&text_color=ffb6c1&random=1" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=miao-moe&show_icons=true&theme=radical&hide_border=true&bg_color=2d1b2e&title_color=ff69b4&text_color=ffb6c1&icon_color=ff1493&cache_seconds=1800" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miao-moe&layout=compact&theme=radical&hide_border=true&bg_color=2d1b2e&title_color=ff69b4&text_color=ffb6c1&cache_seconds=1800" height="165" />
 </p>
 
 ---
@@ -67,11 +62,15 @@
 
 ---
 
-## 🤝 找到我 | Find Me
+## 💌 联系我 | Contact Me
 
 <p align="center">
-  <a href="https://github.com/MistAperio"><img src="https://img.shields.io/badge/MistAperio-FF69B4?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/MistAperio"><img src="https://img.shields.io/badge/GitHub-MistAperio-FF69B4?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:536164245@qq.com"><img src="https://img.shields.io/badge/Email-536164245@qq.com-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <b>QQ：</b>536164245 | <b>微信 | WeChat：</b>ycswjgq
 </p>
 
 ---
