@@ -26,7 +26,9 @@
 ## 🌸 萌图 | Cute Pics
 
 <!-- MOE_IMG_START -->
-<p align="center">✨ 萌图加载中... | Cute pic loading... ✨</p>
+<p align="center">
+  <img src="https://t.alcy.cc/moez?r=fcc4c103" width="400" alt="萌图" />
+</p>
 <!-- MOE_IMG_END -->
 
 <p align="center"><b>喵喵喵 ~ 好萌啊！| Meow ~ So cute!</b></p>
@@ -37,7 +39,9 @@
 ## 🦊 小狐狸 | Little Fox
 
 <!-- FOX_IMG_START -->
-<p align="center">✨ 小狐狸加载中... | Fox loading... ✨</p>
+<p align="center">
+  <img src="https://t.alcy.cc/xhl?r=33ad" width="400" alt="小狐狸" />
+</p>
 <!-- FOX_IMG_END -->
 
 <p align="center"><b>嘤嘤嘤 ~ 狐狸好软！| Yip yip ~ So fluffy!</b></p>
@@ -48,7 +52,13 @@
 ## 💬 每日一言 | Daily Quote
 
 <!-- DAILY_QUOTE_START -->
-<p align="center">✨ 每日一言加载中... | Daily quote loading... ✨</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E4%B8%80%E4%BB%A5%E8%B4%AF%E4%B9%8B%E7%9A%84%E5%8A%AA%E5%8A%9B%EF%BC%8C%E4%B8%8D%E5%BE%97%E6%87%88%E6%80%A0%E7%9A%84%E4%BA%BA%E7%94%9F%E3%80%82;Consistent%2Befforts%2Bshall%2Bnot%2Bbe%2Bslackened%2Bin%2Blife." alt="Daily Quote" />
+</p>
+
+<p align="center"><b>🎯 中文：</b>一以贯之的努力，不得懈怠的人生。</p>
+<p align="center"><b>🎯 English：</b>Consistent efforts shall not be slackened in life.</p>
+<p align="center"><sub>— 天才基本法</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
@@ -94,9 +104,11 @@
 </p>
 <!-- MOE_IMG_END -->"
           
-          echo "$README" | sed -n '1,/<!-- MOE_IMG_START -->/p' > temp.md
-          echo "$NEW_MOE" >> temp.md
-          echo "$README" | sed -n '/<!-- MOE_IMG_END -->/,$p' | tail -n +2 >> temp.md
+          echo "$README" | sed -n '1,/<!-- MOE_IMG_START -->
+<p align="center">
+  <img src="https://t.alcy.cc/moez?r=fcc4c103" width="400" alt="萌图" />
+</p>
+<!-- MOE_IMG_END -->/,$p' | tail -n +2 >> temp.md
           
           mv temp.md README.md
 
@@ -105,14 +117,16 @@
           README=$(cat README.md)
           
           NEW_FOX="<!-- FOX_IMG_START -->
-<p align=\"center\">
-  <img src=\"https://t.alcy.cc/xhl?r=${{ steps.random.outputs.rand_fox }}\" width=\"400\" alt=\"小狐狸\" />
+<p align="center">
+  <img src="https://t.alcy.cc/xhl?r=33ad" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->"
           
-          echo "$README" | sed -n '1,/<!-- FOX_IMG_START -->/p' > temp.md
-          echo "$NEW_FOX" >> temp.md
-          echo "$README" | sed -n '/<!-- FOX_IMG_END -->/,$p' | tail -n +2 >> temp.md
+          echo "$README" | sed -n '1,/<!-- FOX_IMG_START -->
+<p align="center">
+  <img src="https://t.alcy.cc/xhl?r=33ad" width="400" alt="小狐狸" />
+</p>
+<!-- FOX_IMG_END -->/,$p' | tail -n +2 >> temp.md
           
           mv temp.md README.md
 
@@ -158,18 +172,24 @@
           QUOTE_EN_ENCODED=$(url_encode "${{ steps.quote.outputs.quote_en }}")
           
           NEW_QUOTE="<!-- DAILY_QUOTE_START -->
-<p align=\"center\">
-  <img src=\"https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=${QUOTE_CN_ENCODED};${QUOTE_EN_ENCODED}\" alt=\"Daily Quote\" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E4%B8%80%E4%BB%A5%E8%B4%AF%E4%B9%8B%E7%9A%84%E5%8A%AA%E5%8A%9B%EF%BC%8C%E4%B8%8D%E5%BE%97%E6%87%88%E6%80%A0%E7%9A%84%E4%BA%BA%E7%94%9F%E3%80%82;Consistent%2Befforts%2Bshall%2Bnot%2Bbe%2Bslackened%2Bin%2Blife." alt="Daily Quote" />
 </p>
 
-<p align=\"center\"><b>🎯 中文：</b>${{ steps.quote.outputs.quote_cn }}</p>
-<p align=\"center\"><b>🎯 English：</b>${{ steps.quote.outputs.quote_en }}</p>
-<p align=\"center\"><sub>— ${{ steps.quote.outputs.from }}</sub></p>
+<p align="center"><b>🎯 中文：</b>一以贯之的努力，不得懈怠的人生。</p>
+<p align="center"><b>🎯 English：</b>Consistent efforts shall not be slackened in life.</p>
+<p align="center"><sub>— 天才基本法</sub></p>
 <!-- DAILY_QUOTE_END -->"
           
-          echo "$README" | sed -n '1,/<!-- DAILY_QUOTE_START -->/p' > temp.md
-          echo "$NEW_QUOTE" >> temp.md
-          echo "$README" | sed -n '/<!-- DAILY_QUOTE_END -->/,$p' | tail -n +2 >> temp.md
+          echo "$README" | sed -n '1,/<!-- DAILY_QUOTE_START -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E4%B8%80%E4%BB%A5%E8%B4%AF%E4%B9%8B%E7%9A%84%E5%8A%AA%E5%8A%9B%EF%BC%8C%E4%B8%8D%E5%BE%97%E6%87%88%E6%80%A0%E7%9A%84%E4%BA%BA%E7%94%9F%E3%80%82;Consistent%2Befforts%2Bshall%2Bnot%2Bbe%2Bslackened%2Bin%2Blife." alt="Daily Quote" />
+</p>
+
+<p align="center"><b>🎯 中文：</b>一以贯之的努力，不得懈怠的人生。</p>
+<p align="center"><b>🎯 English：</b>Consistent efforts shall not be slackened in life.</p>
+<p align="center"><sub>— 天才基本法</sub></p>
+<!-- DAILY_QUOTE_END -->/,$p' | tail -n +2 >> temp.md
           
           mv temp.md README.md
 
@@ -212,7 +232,13 @@
 ## 💬 每日一言 | Daily Quote
 
 <!-- DAILY_QUOTE_START -->
-<p align="center">✨ 每日一言加载中... | Daily quote loading... ✨</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E4%B8%80%E4%BB%A5%E8%B4%AF%E4%B9%8B%E7%9A%84%E5%8A%AA%E5%8A%9B%EF%BC%8C%E4%B8%8D%E5%BE%97%E6%87%88%E6%80%A0%E7%9A%84%E4%BA%BA%E7%94%9F%E3%80%82;Consistent%2Befforts%2Bshall%2Bnot%2Bbe%2Bslackened%2Bin%2Blife." alt="Daily Quote" />
+</p>
+
+<p align="center"><b>🎯 中文：</b>一以贯之的努力，不得懈怠的人生。</p>
+<p align="center"><b>🎯 English：</b>Consistent efforts shall not be slackened in life.</p>
+<p align="center"><sub>— 天才基本法</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
