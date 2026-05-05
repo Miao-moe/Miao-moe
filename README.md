@@ -26,7 +26,9 @@
 ## 🌸 萌图 | Cute Pics
 
 <!-- MOE_IMG_START -->
-<p align="center">✨ 萌图加载中... | Cute pic loading... ✨</p>
+<p align="center">
+  <img src="https://t.alcy.cc/moez?r=513fd1c7" width="400" alt="萌图" />
+</p>
 <!-- MOE_IMG_END -->
 
 <p align="center"><b>喵喵喵 ~ 好萌啊！| Meow ~ So cute!</b></p>
@@ -37,7 +39,9 @@
 ## 🦊 小狐狸 | Little Fox
 
 <!-- FOX_IMG_START -->
-<p align="center">✨ 小狐狸加载中... | Fox loading... ✨</p>
+<p align="center">
+  <img src="https://t.alcy.cc/xhl?r=8bae" width="400" alt="小狐狸" />
+</p>
 <!-- FOX_IMG_END -->
 
 <p align="center"><b>嘤嘤嘤 ~ 狐狸好软！| Yip yip ~ So fluffy!</b></p>
@@ -48,7 +52,13 @@
 ## 💬 每日一言 | Daily Quote
 
 <!-- DAILY_QUOTE_START -->
-<p align="center">✨ 每日一言加载中... | Daily quote loading... ✨</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E8%AF%B7%E4%BD%A0%2C%E9%A9%AF%E5%85%BB%E6%88%91%E5%90%A7;Please%2C%20tame%20me" alt="Daily Quote" />
+</p>
+
+<p align="center"><b>🎯 中文：</b>请你,驯养我吧</p>
+<p align="center"><b>🎯 English：</b>Please, tame me</p>
+<p align="center"><sub>— 小王子</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
