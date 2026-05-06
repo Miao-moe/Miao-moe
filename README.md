@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=513fd1c7" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=4335bdcf" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=8bae" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=ed86" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E8%AF%B7%E4%BD%A0%2C%E9%A9%AF%E5%85%BB%E6%88%91%E5%90%A7;Please%2C%20tame%20me" alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E7%81%B5%E6%B0%94%E4%B8%BA%E5%BC%95%EF%BC%8C%E7%A5%9E%E9%AD%84%E4%BD%9C%E5%88%83%EF%BC%8C%E8%A1%80%E6%88%98%E6%AD%BB%E6%84%8F%EF%BC%8C%E9%93%B8%E5%89%91%E5%BC%80%E9%94%8B%E2%80%A6%E2%80%A6;Aura%20as%20a%20guide%2C%20soul%20as%20a%20blade%2C%20blood%20fighting%20deadly%20intent%2C%20casting%20a%20sword%20to%20open%20the%20front..." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>请你,驯养我吧</p>
-<p align="center"><b>🎯 English：</b>Please, tame me</p>
-<p align="center"><sub>— 小王子</sub></p>
+<p align="center"><b>🎯 中文：</b>灵气为引，神魄作刃，血战死意，铸剑开锋……</p>
+<p align="center"><b>🎯 English：</b>Aura as a guide, soul as a blade, blood fighting deadly intent, casting a sword to open the front...</p>
+<p align="center"><sub>— 我在精神病院学斩神</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
