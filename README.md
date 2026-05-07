@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=4335bdcf" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=6e7e2a80" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=ed86" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=3b78" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E7%81%B5%E6%B0%94%E4%B8%BA%E5%BC%95%EF%BC%8C%E7%A5%9E%E9%AD%84%E4%BD%9C%E5%88%83%EF%BC%8C%E8%A1%80%E6%88%98%E6%AD%BB%E6%84%8F%EF%BC%8C%E9%93%B8%E5%89%91%E5%BC%80%E9%94%8B%E2%80%A6%E2%80%A6;Aura%20as%20a%20guide%2C%20soul%20as%20a%20blade%2C%20blood%20fighting%20deadly%20intent%2C%20casting%20a%20sword%20to%20open%20the%20front..." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E6%88%91%E6%84%BF%E4%BD%9C%E4%B8%80%E7%BC%95%E7%99%BD%E6%98%BC%E7%9A%84%E6%9C%88%E5%85%89%EF%BC%8C%E4%B8%8D%E6%B1%82%E7%9C%A9%E7%9B%AE%E7%9A%84%E8%8D%A3%E5%8D%8E%EF%BC%8C%E4%B8%8D%E6%B7%86%E4%B8%96%E4%BF%97%E7%9A%84%E6%B5%AA%E6%BD%AE%E3%80%82;I%20would%20like%20to%20be%20a%20ray%20of%20moonlight%20in%20the%20daytime%2C%20not%20seeking%20dazzling%20glory%2C%20not%20confusing%20the%20worldly%20waves." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>灵气为引，神魄作刃，血战死意，铸剑开锋……</p>
-<p align="center"><b>🎯 English：</b>Aura as a guide, soul as a blade, blood fighting deadly intent, casting a sword to open the front...</p>
-<p align="center"><sub>— 我在精神病院学斩神</sub></p>
+<p align="center"><b>🎯 中文：</b>我愿作一缕白昼的月光，不求眩目的荣华，不淆世俗的浪潮。</p>
+<p align="center"><b>🎯 English：</b>I would like to be a ray of moonlight in the daytime, not seeking dazzling glory, not confusing the worldly waves.</p>
+<p align="center"><sub>— 白昼的月亮</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
