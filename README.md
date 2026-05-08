@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=6e7e2a80" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=78b2be14" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=3b78" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=3b30" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E6%88%91%E6%84%BF%E4%BD%9C%E4%B8%80%E7%BC%95%E7%99%BD%E6%98%BC%E7%9A%84%E6%9C%88%E5%85%89%EF%BC%8C%E4%B8%8D%E6%B1%82%E7%9C%A9%E7%9B%AE%E7%9A%84%E8%8D%A3%E5%8D%8E%EF%BC%8C%E4%B8%8D%E6%B7%86%E4%B8%96%E4%BF%97%E7%9A%84%E6%B5%AA%E6%BD%AE%E3%80%82;I%20would%20like%20to%20be%20a%20ray%20of%20moonlight%20in%20the%20daytime%2C%20not%20seeking%20dazzling%20glory%2C%20not%20confusing%20the%20worldly%20waves." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E4%B8%BA%E6%89%80%E6%AC%B2%E4%B8%BA%EF%BC%8C%E4%BD%86%E5%8B%BF%E4%BC%A4%E5%AE%B3%E3%80%82;Do%20what%20you%20want%2C%20but%20don%27t%20hurt." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>我愿作一缕白昼的月光，不求眩目的荣华，不淆世俗的浪潮。</p>
-<p align="center"><b>🎯 English：</b>I would like to be a ray of moonlight in the daytime, not seeking dazzling glory, not confusing the worldly waves.</p>
-<p align="center"><sub>— 白昼的月亮</sub></p>
+<p align="center"><b>🎯 中文：</b>为所欲为，但勿伤害。</p>
+<p align="center"><b>🎯 English：</b>Do what you want, but don't hurt.</p>
+<p align="center"><sub>— 资治通鉴</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
