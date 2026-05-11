@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=0bbcf46f" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=f0229db3" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=b020" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=ddba" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E8%B5%B4%E6%AD%BB%E8%80%85%E5%90%91%E4%BD%A0%E8%87%B4%E6%95%AC%E3%80%82;To%20pay%20your%20respects%20to%20the%20dead." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E8%83%86%E5%B0%8F%E8%80%85%E8%BF%9E%E5%B9%B8%E7%A6%8F%E9%83%BD%E5%AE%B3%E6%80%95%EF%BC%8C%E7%A2%B0%E5%88%B0%E6%A3%89%E8%8A%B1%E4%B9%9F%E4%BC%9A%E5%8F%97%E4%BC%A4%E3%80%82;Cowardly%20people%20are%20afraid%20of%20happiness%2C%20and%20they%20will%20get%20hurt%20when%20they%20touch%20cotton." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>赴死者向你致敬。</p>
-<p align="center"><b>🎯 English：</b>To pay your respects to the dead.</p>
-<p align="center"><sub>— 拉丁语谚语</sub></p>
+<p align="center"><b>🎯 中文：</b>胆小者连幸福都害怕，碰到棉花也会受伤。</p>
+<p align="center"><b>🎯 English：</b>Cowardly people are afraid of happiness, and they will get hurt when they touch cotton.</p>
+<p align="center"><sub>— 人间失格</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
