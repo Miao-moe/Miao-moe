@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=f0229db3" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=1d4c3710" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=ddba" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=1fda" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E8%83%86%E5%B0%8F%E8%80%85%E8%BF%9E%E5%B9%B8%E7%A6%8F%E9%83%BD%E5%AE%B3%E6%80%95%EF%BC%8C%E7%A2%B0%E5%88%B0%E6%A3%89%E8%8A%B1%E4%B9%9F%E4%BC%9A%E5%8F%97%E4%BC%A4%E3%80%82;Cowardly%20people%20are%20afraid%20of%20happiness%2C%20and%20they%20will%20get%20hurt%20when%20they%20touch%20cotton." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E7%BA%B5%E4%BD%BF%E9%82%A3%E6%98%AF%E9%93%BA%E6%BB%A1%E7%83%88%E7%81%AB%E7%9A%84%E9%81%93%E8%B7%AF%EF%BC%8C%E4%B9%9F%E8%A6%81%E6%AC%A2%E6%AD%8C%E5%89%8D%E8%A1%8C%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7;Even%20if%20it%20is%20a%20road%20paved%20with%20fire%2C%20let%27s%20sing%20along..." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>胆小者连幸福都害怕，碰到棉花也会受伤。</p>
-<p align="center"><b>🎯 English：</b>Cowardly people are afraid of happiness, and they will get hurt when they touch cotton.</p>
-<p align="center"><sub>— 人间失格</sub></p>
+<p align="center"><b>🎯 中文：</b>纵使那是铺满烈火的道路，也要欢歌前行······</p>
+<p align="center"><b>🎯 English：</b>Even if it is a road paved with fire, let's sing along...</p>
+<p align="center"><sub>— 为了过去的孩子们</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
