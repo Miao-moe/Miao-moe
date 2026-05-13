@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=1d4c3710" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=4d65e3b2" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=1fda" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=e10f" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E7%BA%B5%E4%BD%BF%E9%82%A3%E6%98%AF%E9%93%BA%E6%BB%A1%E7%83%88%E7%81%AB%E7%9A%84%E9%81%93%E8%B7%AF%EF%BC%8C%E4%B9%9F%E8%A6%81%E6%AC%A2%E6%AD%8C%E5%89%8D%E8%A1%8C%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7%C2%B7;Even%20if%20it%20is%20a%20road%20paved%20with%20fire%2C%20let%27s%20sing%20along..." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E5%B1%B1%E6%B2%B3%E8%BF%9C%E9%98%94%EF%BC%8C%E4%BA%BA%E9%97%B4%E7%83%9F%E7%81%AB%EF%BC%8C%E6%97%A0%E4%B8%80%E6%98%AF%E4%BD%A0%EF%BC%8C%E6%97%A0%E4%B8%80%E4%B8%8D%E6%98%AF%E4%BD%A0%E3%80%82;The%20mountains%20and%20rivers%20are%20vast%2C%20and%20none%20of%20the%20fireworks%20in%20the%20world%20is%20you%2C%20and%20none%20of%20them%20is%20you." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>纵使那是铺满烈火的道路，也要欢歌前行······</p>
-<p align="center"><b>🎯 English：</b>Even if it is a road paved with fire, let's sing along...</p>
-<p align="center"><sub>— 为了过去的孩子们</sub></p>
+<p align="center"><b>🎯 中文：</b>山河远阔，人间烟火，无一是你，无一不是你。</p>
+<p align="center"><b>🎯 English：</b>The mountains and rivers are vast, and none of the fireworks in the world is you, and none of them is you.</p>
+<p align="center"><sub>— 江海共余生</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
