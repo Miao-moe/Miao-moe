@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=4d65e3b2" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=dce3784a" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=e10f" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=8295" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E5%B1%B1%E6%B2%B3%E8%BF%9C%E9%98%94%EF%BC%8C%E4%BA%BA%E9%97%B4%E7%83%9F%E7%81%AB%EF%BC%8C%E6%97%A0%E4%B8%80%E6%98%AF%E4%BD%A0%EF%BC%8C%E6%97%A0%E4%B8%80%E4%B8%8D%E6%98%AF%E4%BD%A0%E3%80%82;The%20mountains%20and%20rivers%20are%20vast%2C%20and%20none%20of%20the%20fireworks%20in%20the%20world%20is%20you%2C%20and%20none%20of%20them%20is%20you." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E6%88%91%E4%BB%AC%E6%8E%A2%E7%B4%A2%E8%A7%84%E5%BE%8B%EF%BC%8C%E4%B8%8E%E8%A7%84%E5%BE%8B%E6%9C%89%E4%BD%95%E7%9B%B8%E5%B9%B2%EF%BC%9F;What%20does%20this%20have%20to%20do%20with%20our%20exploration%20of%20regularity%3F" alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>山河远阔，人间烟火，无一是你，无一不是你。</p>
-<p align="center"><b>🎯 English：</b>The mountains and rivers are vast, and none of the fireworks in the world is you, and none of them is you.</p>
-<p align="center"><sub>— 江海共余生</sub></p>
+<p align="center"><b>🎯 中文：</b>我们探索规律，与规律有何相干？</p>
+<p align="center"><b>🎯 English：</b>What does this have to do with our exploration of regularity?</p>
+<p align="center"><sub>— 三体</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
