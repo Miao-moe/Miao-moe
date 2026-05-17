@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=99963ca3" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=24642098" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=a4a7" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=0328" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E7%8E%AB%E7%91%B0%E6%80%BB%E6%98%AF%E5%BC%80%E5%9C%A8%E8%8D%86%E6%A3%98%E4%B8%AD%E3%80%82;Roses%20always%20bloom%20in%20thorns." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E6%81%B0%E5%BD%93%E7%9A%84%E7%A4%BC%E4%BB%AA%E3%80%81%E7%AB%AF%E6%AD%A3%E7%9A%84%E9%9D%A2%E8%B2%8C%E4%B8%8E%E8%87%AA%E7%94%B1%E7%9A%84%E6%84%8F%E5%BF%97%EF%BC%8C%E4%B9%83%E6%98%AF%E4%BA%BA%E6%80%A7%E7%9A%84%E7%B2%BE%E9%AB%93%E3%80%82;Proper%20manners%2C%20decency%2C%20and%20free%20will%20are%20the%20essence%20of%20human%20nature." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>玫瑰总是开在荆棘中。</p>
-<p align="center"><b>🎯 English：</b>Roses always bloom in thorns.</p>
-<p align="center"><sub>— 塔木德</sub></p>
+<p align="center"><b>🎯 中文：</b>恰当的礼仪、端正的面貌与自由的意志，乃是人性的精髓。</p>
+<p align="center"><b>🎯 English：</b>Proper manners, decency, and free will are the essence of human nature.</p>
+<p align="center"><sub>— 寂静王冠</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
