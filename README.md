@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=0a5d7c3d" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=b48045bc" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=263a" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=9f41" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E8%97%8F%E5%A5%BD%E8%87%AA%E5%B7%B1%EF%BC%8C%E5%81%9A%E5%A5%BD%E6%B8%85%E7%90%86%E3%80%82;Hide%20yourself%20and%20clean%20up." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E5%8D%9A%E5%B0%94%E8%B5%AB%E6%96%AF%E7%94%9F%E6%B4%BB%E7%9A%84%E7%89%B9%E7%82%B9%E6%98%AF%E6%B2%A1%E6%9C%89%E7%94%9F%E6%B4%BB%E3%80%82;Life%20in%20Borges%20is%20characterized%20by%20lack%20of%20life." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>藏好自己，做好清理。</p>
-<p align="center"><b>🎯 English：</b>Hide yourself and clean up.</p>
-<p align="center"><sub>— 三体</sub></p>
+<p align="center"><b>🎯 中文：</b>博尔赫斯生活的特点是没有生活。</p>
+<p align="center"><b>🎯 English：</b>Life in Borges is characterized by lack of life.</p>
+<p align="center"><sub>— 重返暗夜（本能现实主义的恶棍列传）</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
