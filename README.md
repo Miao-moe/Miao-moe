@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=b48045bc" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=b6fe7dec" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=9f41" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=1335" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E5%8D%9A%E5%B0%94%E8%B5%AB%E6%96%AF%E7%94%9F%E6%B4%BB%E7%9A%84%E7%89%B9%E7%82%B9%E6%98%AF%E6%B2%A1%E6%9C%89%E7%94%9F%E6%B4%BB%E3%80%82;Life%20in%20Borges%20is%20characterized%20by%20lack%20of%20life." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E8%96%9B%E6%B4%8B%E7%9A%84%E5%B0%8F%E6%8C%87%E6%96%AD%E4%BA%86%EF%BC%8C%E6%9C%88%E8%80%81%E6%80%8E%E4%B9%88%E7%89%B5%E7%BA%BF%E5%91%A2%E3%80%82;Xue%20Yang%27s%20little%20finger%20was%20broken.%20How%20could%20Yue%20Lao%20get%20involved%3F" alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>博尔赫斯生活的特点是没有生活。</p>
-<p align="center"><b>🎯 English：</b>Life in Borges is characterized by lack of life.</p>
-<p align="center"><sub>— 重返暗夜（本能现实主义的恶棍列传）</sub></p>
+<p align="center"><b>🎯 中文：</b>薛洋的小指断了，月老怎么牵线呢。</p>
+<p align="center"><b>🎯 English：</b>Xue Yang's little finger was broken. How could Yue Lao get involved?</p>
+<p align="center"><sub>— 魔道祖师</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
