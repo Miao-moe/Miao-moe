@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=b6fe7dec" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=ce7eb5c5" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=1335" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=e570" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,11 +53,11 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E8%96%9B%E6%B4%8B%E7%9A%84%E5%B0%8F%E6%8C%87%E6%96%AD%E4%BA%86%EF%BC%8C%E6%9C%88%E8%80%81%E6%80%8E%E4%B9%88%E7%89%B5%E7%BA%BF%E5%91%A2%E3%80%82;Xue%20Yang%27s%20little%20finger%20was%20broken.%20How%20could%20Yue%20Lao%20get%20involved%3F" alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E4%B8%BA%E9%81%87%E4%B8%80%E4%BA%BA%E8%80%8C%E5%85%A5%E7%BA%A2%E5%B0%98%EF%BC%8C%E4%BA%BA%E5%8E%BB%E6%88%91%E4%BA%A6%E5%8E%BB%EF%BC%8C%E6%AD%A4%E7%94%9F%E4%B8%8D%E7%95%99%E5%B0%98%E3%80%82;In%20order%20to%20meet%20one%20person%20and%20get%20into%20the%20red%20dust%2C%20if%20someone%20goes%2C%20I%20will%20go%20too%2C%20and%20there%20will%20be%20no%20dust%20in%20this%20life." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>薛洋的小指断了，月老怎么牵线呢。</p>
-<p align="center"><b>🎯 English：</b>Xue Yang's little finger was broken. How could Yue Lao get involved?</p>
+<p align="center"><b>🎯 中文：</b>为遇一人而入红尘，人去我亦去，此生不留尘。</p>
+<p align="center"><b>🎯 English：</b>In order to meet one person and get into the red dust, if someone goes, I will go too, and there will be no dust in this life.</p>
 <p align="center"><sub>— 魔道祖师</sub></p>
 <!-- DAILY_QUOTE_END -->
 
