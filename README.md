@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=32bfab81" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=4e1038fe" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=6582" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=47ed" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E5%BF%83%E9%87%8C%E5%85%A8%E6%98%AF%E8%8B%A6%E7%9A%84%E4%BA%BA%EF%BC%8C%E5%8F%AA%E9%9C%80%E8%A6%81%E4%B8%80%E7%82%B9%E7%82%B9%E7%9A%84%E7%94%9C%E5%B0%B1%E8%83%BD%E5%A1%AB%E6%BB%A1%E3%80%82;The%20heart%20is%20full%20of%20bitter%20people%2C%20just%20need%20a%20little%20sweet%20to%20fill." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E5%87%A1%E4%BA%BA%E7%9A%86%E6%9C%89%E4%B8%80%E6%AD%BB%EF%BC%8C%E5%87%A1%E4%BA%BA%E7%9A%86%E9%9C%80%E4%BE%9B%E5%A5%89%E3%80%82;Every%20mortal%20dies%2C%20and%20every%20mortal%20needs%20to%20be%20offered%20up." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>心里全是苦的人，只需要一点点的甜就能填满。</p>
-<p align="center"><b>🎯 English：</b>The heart is full of bitter people, just need a little sweet to fill.</p>
-<p align="center"><sub>— 起点-末日圆环</sub></p>
+<p align="center"><b>🎯 中文：</b>凡人皆有一死，凡人皆需供奉。</p>
+<p align="center"><b>🎯 English：</b>Every mortal dies, and every mortal needs to be offered up.</p>
+<p align="center"><sub>— 冰与火之歌</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
