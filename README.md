@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=739535d8" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=ac5cc1d4" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=45f9" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=09c3" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E5%BF%83%E6%9C%89%E7%8C%9B%E8%99%8E%EF%BC%8C%E7%BB%86%E5%97%85%E8%94%B7%E8%96%87;A%20fierce%20tiger%20in%20the%20heart%2C%20sniffing%20roses" alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E8%90%BD%E6%97%A5%E6%B2%89%E6%BA%BA%E4%BA%8E%E6%A9%98%E8%89%B2%E7%9A%84%E6%B5%B7%EF%BC%8C%E6%99%9A%E9%A3%8E%E6%B2%A6%E9%99%B7%E4%BA%8E%E8%B5%A4%E8%AF%9A%E7%9A%84%E7%88%B1%E3%80%82;The%20sunset%20drowned%20in%20the%20orange%20sea%2C%20and%20the%20evening%20breeze%20fell%20into%20sincere%20love." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>心有猛虎，细嗅蔷薇</p>
-<p align="center"><b>🎯 English：</b>A fierce tiger in the heart, sniffing roses</p>
-<p align="center"><sub>— 猛虎与蔷薇</sub></p>
+<p align="center"><b>🎯 中文：</b>落日沉溺于橘色的海，晚风沦陷于赤诚的爱。</p>
+<p align="center"><b>🎯 English：</b>The sunset drowned in the orange sea, and the evening breeze fell into sincere love.</p>
+<p align="center"><sub>— 人民日报</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
