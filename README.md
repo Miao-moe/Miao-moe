@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=ac5cc1d4" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=eb396343" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=09c3" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=1f0c" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E8%90%BD%E6%97%A5%E6%B2%89%E6%BA%BA%E4%BA%8E%E6%A9%98%E8%89%B2%E7%9A%84%E6%B5%B7%EF%BC%8C%E6%99%9A%E9%A3%8E%E6%B2%A6%E9%99%B7%E4%BA%8E%E8%B5%A4%E8%AF%9A%E7%9A%84%E7%88%B1%E3%80%82;The%20sunset%20drowned%20in%20the%20orange%20sea%2C%20and%20the%20evening%20breeze%20fell%20into%20sincere%20love." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E5%87%AD%E4%B8%80%E5%B7%B1%E7%9A%84%E7%BB%8F%E5%8E%86%EF%BC%8C%E6%B2%BE%E6%B2%BE%E8%87%AA%E4%BB%A5%E4%B8%BA%E7%8B%AC%E5%85%B7%E5%86%B7%E7%9C%BC%EF%BC%8C%E9%98%85%E5%B0%BD%E4%BA%BA%E9%97%B4%EF%BC%8C%E5%AE%89%E7%9F%A5%E4%B8%8D%E6%8B%9B%E4%BA%BA%E6%9A%97%E7%AC%91%E3%80%82;Based%20on%20his%20own%20experience%2C%20he%20thought%20that%20he%20had%20a%20cold%20eye%2C%20read%20through%20the%20world%2C%20and%20knew%20that%20he%20would%20not%20invite%20people%20to%20smile." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>落日沉溺于橘色的海，晚风沦陷于赤诚的爱。</p>
-<p align="center"><b>🎯 English：</b>The sunset drowned in the orange sea, and the evening breeze fell into sincere love.</p>
-<p align="center"><sub>— 人民日报</sub></p>
+<p align="center"><b>🎯 中文：</b>凭一己的经历，沾沾自以为独具冷眼，阅尽人间，安知不招人暗笑。</p>
+<p align="center"><b>🎯 English：</b>Based on his own experience, he thought that he had a cold eye, read through the world, and knew that he would not invite people to smile.</p>
+<p align="center"><sub>— 隐身衣</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
