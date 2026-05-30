@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=faa5d69f" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=ef3d6e0b" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=de4c" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=735d" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E7%94%9F%E6%B4%BB%E5%A6%82%E6%B2%B3%EF%BC%8C%E8%87%AA%E5%B7%B1%E5%B0%B1%E6%98%AF%E8%87%AA%E5%B7%B1%E7%9A%84%E8%88%B9%E3%80%82;Life%20is%20like%20a%20river%2C%20you%20are%20your%20own%20boat." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E4%B8%8A%EF%BC%8C%E6%9C%89%E7%A7%8D%E5%90%8D%E4%B8%BA%E6%AD%BB%E5%90%8E%E6%96%87%E7%9A%84%E5%A5%87%E8%BF%B9%E3%80%82;In%20this%20world%2C%20there%20is%20a%20miracle%20called%20afterlife." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>生活如河，自己就是自己的船。</p>
-<p align="center"><b>🎯 English：</b>Life is like a river, you are your own boat.</p>
-<p align="center"><sub>— 你也走了很远的路吧</sub></p>
+<p align="center"><b>🎯 中文：</b>这个世界上，有种名为死后文的奇迹。</p>
+<p align="center"><b>🎯 English：</b>In this world, there is a miracle called afterlife.</p>
+<p align="center"><sub>— 死后文</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
