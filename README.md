@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=040295eb" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=36fc9b85" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=957e" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=fb0a" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E8%8E%AB%E8%A7%81%E4%B9%8E%E9%9A%90%EF%BC%8C%E8%8E%AB%E6%98%BE%E4%B9%8E%E5%BE%AE%EF%BC%8C%E6%95%85%E5%90%9B%E5%AD%90%E6%85%8E%E5%85%B6%E7%8B%AC%E4%B9%9F%E3%80%82;There%20was%20no%20invisibility%2C%20no%20appearance%2C%20so%20the%20gentleman%20was%20cautious." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E6%82%B2%E4%BC%A4%E5%B0%B1%E5%A6%82%E6%B9%96%E9%9D%A2%E4%B8%8A%E6%B3%A2%E7%BA%B9%EF%BC%8C%E5%9C%A8%E5%BF%83%E4%B8%AD%E6%89%A9%E6%95%A3%E5%BC%80%E6%9D%A5%E3%80%82;Sadness%20is%20like%20ripples%20on%20the%20lake%2C%20spreading%20in%20the%20heart." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>莫见乎隐，莫显乎微，故君子慎其独也。</p>
-<p align="center"><b>🎯 English：</b>There was no invisibility, no appearance, so the gentleman was cautious.</p>
-<p align="center"><sub>— 礼记·中庸</sub></p>
+<p align="center"><b>🎯 中文：</b>悲伤就如湖面上波纹，在心中扩散开来。</p>
+<p align="center"><b>🎯 English：</b>Sadness is like ripples on the lake, spreading in the heart.</p>
+<p align="center"><sub>— 文学少女</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
