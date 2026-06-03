@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=36fc9b85" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=e67a6af4" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=fb0a" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=5fba" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E6%82%B2%E4%BC%A4%E5%B0%B1%E5%A6%82%E6%B9%96%E9%9D%A2%E4%B8%8A%E6%B3%A2%E7%BA%B9%EF%BC%8C%E5%9C%A8%E5%BF%83%E4%B8%AD%E6%89%A9%E6%95%A3%E5%BC%80%E6%9D%A5%E3%80%82;Sadness%20is%20like%20ripples%20on%20the%20lake%2C%20spreading%20in%20the%20heart." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E7%AE%A1%E4%BB%96%E6%98%AF%E4%B8%8D%E6%98%AF%E4%BA%BA%E9%9D%A2%E5%85%BD%E5%BF%83%EF%BC%8C%E6%88%91%E4%BB%AC%E5%8F%AA%E8%A6%81%E6%B4%BB%E7%9D%80%E5%B0%B1%E8%A1%8C%E3%80%82;Whether%20he%20is%20human%20or%20not%2C%20we%20just%20need%20to%20live." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>悲伤就如湖面上波纹，在心中扩散开来。</p>
-<p align="center"><b>🎯 English：</b>Sadness is like ripples on the lake, spreading in the heart.</p>
-<p align="center"><sub>— 文学少女</sub></p>
+<p align="center"><b>🎯 中文：</b>管他是不是人面兽心，我们只要活着就行。</p>
+<p align="center"><b>🎯 English：</b>Whether he is human or not, we just need to live.</p>
+<p align="center"><sub>— 维庸之妻</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
