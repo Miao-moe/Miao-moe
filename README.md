@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=1bc59863" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=54ee1ab6" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=2b3f" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=af6b" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E5%BD%93%E4%B8%80%E4%B8%AA%E6%B0%91%E6%97%8F%E6%B2%A1%E6%9C%89%E9%80%80%E8%B7%AF%E7%9A%84%E6%97%B6%E5%80%99%EF%BC%8C%E5%AE%83%E7%9A%84%E5%94%AF%E4%B8%80%E7%9A%84%E9%80%80%E8%B7%AF%E5%B0%B1%E6%98%AF%E9%80%80%E5%9B%9E%E8%87%AA%E5%B7%B1%E7%9A%84%E5%86%85%E5%BF%83%E3%80%82;When%20a%20people%20has%20no%20way%20out%2C%20its%20only%20way%20out%20is%20back%20to%20its%20own%20heart." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E4%B8%96%E9%97%B4%E6%9C%AC%E6%97%A0%E5%85%AC%E5%B9%B3%E5%8F%AF%E8%A8%80%EF%BC%8C%E9%99%A4%E9%9D%9E%E5%85%AC%E5%B9%B3%E6%8E%8C%E6%8F%A1%E5%9C%A8%E8%87%AA%E5%B7%B1%E6%89%8B%E4%B8%AD%E3%80%82;There%20is%20no%20such%20thing%20as%20fairness%20unless%20it%20is%20in%20your%20own%20hands." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>当一个民族没有退路的时候，它的唯一的退路就是退回自己的内心。</p>
-<p align="center"><b>🎯 English：</b>When a people has no way out, its only way out is back to its own heart.</p>
-<p align="center"><sub>— 德国文化史</sub></p>
+<p align="center"><b>🎯 中文：</b>世间本无公平可言，除非公平掌握在自己手中。</p>
+<p align="center"><b>🎯 English：</b>There is no such thing as fairness unless it is in your own hands.</p>
+<p align="center"><sub>— 冰与火之歌</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
