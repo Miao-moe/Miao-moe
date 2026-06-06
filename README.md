@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=54ee1ab6" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=0292112a" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=af6b" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=262d" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E4%B8%96%E9%97%B4%E6%9C%AC%E6%97%A0%E5%85%AC%E5%B9%B3%E5%8F%AF%E8%A8%80%EF%BC%8C%E9%99%A4%E9%9D%9E%E5%85%AC%E5%B9%B3%E6%8E%8C%E6%8F%A1%E5%9C%A8%E8%87%AA%E5%B7%B1%E6%89%8B%E4%B8%AD%E3%80%82;There%20is%20no%20such%20thing%20as%20fairness%20unless%20it%20is%20in%20your%20own%20hands." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E6%AD%A3%E5%9B%A0%E4%B8%BA%E4%B8%8D%E8%83%BD%E7%A7%B0%E5%BF%83%E5%A6%82%E6%84%8F%EF%BC%8C%E4%BA%BA%E4%B8%96%E6%89%8D%E6%9C%89%E6%84%8F%E6%80%9D%E3%80%82;It%20is%20precisely%20because%20you%20can%27t%20satisfy%20your%20heart%20that%20the%20world%20is%20interesting." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>世间本无公平可言，除非公平掌握在自己手中。</p>
-<p align="center"><b>🎯 English：</b>There is no such thing as fairness unless it is in your own hands.</p>
-<p align="center"><sub>— 冰与火之歌</sub></p>
+<p align="center"><b>🎯 中文：</b>正因为不能称心如意，人世才有意思。</p>
+<p align="center"><b>🎯 English：</b>It is precisely because you can't satisfy your heart that the world is interesting.</p>
+<p align="center"><sub>— 海边的卡夫卡</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
