@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=0292112a" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=6e75b06f" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=262d" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=783a" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E6%AD%A3%E5%9B%A0%E4%B8%BA%E4%B8%8D%E8%83%BD%E7%A7%B0%E5%BF%83%E5%A6%82%E6%84%8F%EF%BC%8C%E4%BA%BA%E4%B8%96%E6%89%8D%E6%9C%89%E6%84%8F%E6%80%9D%E3%80%82;It%20is%20precisely%20because%20you%20can%27t%20satisfy%20your%20heart%20that%20the%20world%20is%20interesting." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E4%BD%A0%E9%94%99%E4%BA%86%EF%BC%8C%E7%AC%AC%E5%8D%81%E5%9B%9B%E4%BA%BA%EF%BC%8C%E4%BD%A0%E6%8A%8A%E6%8A%95%E5%9C%A8%E6%B9%96%E9%9D%A2%E7%9A%84%E5%80%92%E5%BD%B1%E9%94%99%E5%BD%93%E6%88%90%E4%BA%86%E5%A4%9C%E7%A9%BA%E7%9A%84%E7%B9%81%E6%98%9F%E3%80%82;You%27re%20wrong%2C%20Fourteenth%20Man%2C%20you%20mistake%20the%20reflections%20cast%20on%20the%20lake%20for%20the%20stars%20in%20the%20night%20sky." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>正因为不能称心如意，人世才有意思。</p>
-<p align="center"><b>🎯 English：</b>It is precisely because you can't satisfy your heart that the world is interesting.</p>
-<p align="center"><sub>— 海边的卡夫卡</sub></p>
+<p align="center"><b>🎯 中文：</b>你错了，第十四人，你把投在湖面的倒影错当成了夜空的繁星。</p>
+<p align="center"><b>🎯 English：</b>You're wrong, Fourteenth Man, you mistake the reflections cast on the lake for the stars in the night sky.</p>
+<p align="center"><sub>— 猎魔人Ⅲ：精灵之血</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
