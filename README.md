@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=6e75b06f" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=74e7622e" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=783a" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=4a5c" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E4%BD%A0%E9%94%99%E4%BA%86%EF%BC%8C%E7%AC%AC%E5%8D%81%E5%9B%9B%E4%BA%BA%EF%BC%8C%E4%BD%A0%E6%8A%8A%E6%8A%95%E5%9C%A8%E6%B9%96%E9%9D%A2%E7%9A%84%E5%80%92%E5%BD%B1%E9%94%99%E5%BD%93%E6%88%90%E4%BA%86%E5%A4%9C%E7%A9%BA%E7%9A%84%E7%B9%81%E6%98%9F%E3%80%82;You%27re%20wrong%2C%20Fourteenth%20Man%2C%20you%20mistake%20the%20reflections%20cast%20on%20the%20lake%20for%20the%20stars%20in%20the%20night%20sky." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E7%88%B1%E8%87%AA%E5%B7%B1%E6%98%AF%E7%BB%88%E8%BA%AB%E6%B5%AA%E6%BC%AB%E7%9A%84%E5%BC%80%E5%A7%8B%E3%80%82;Loving%20yourself%20is%20the%20beginning%20of%20a%20lifelong%20romance." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>你错了，第十四人，你把投在湖面的倒影错当成了夜空的繁星。</p>
-<p align="center"><b>🎯 English：</b>You're wrong, Fourteenth Man, you mistake the reflections cast on the lake for the stars in the night sky.</p>
-<p align="center"><sub>— 猎魔人Ⅲ：精灵之血</sub></p>
+<p align="center"><b>🎯 中文：</b>爱自己是终身浪漫的开始。</p>
+<p align="center"><b>🎯 English：</b>Loving yourself is the beginning of a lifelong romance.</p>
+<p align="center"><sub>— 王尔德</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
