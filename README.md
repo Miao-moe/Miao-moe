@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=74e7622e" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=131a6045" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=4a5c" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=3a59" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E7%88%B1%E8%87%AA%E5%B7%B1%E6%98%AF%E7%BB%88%E8%BA%AB%E6%B5%AA%E6%BC%AB%E7%9A%84%E5%BC%80%E5%A7%8B%E3%80%82;Loving%20yourself%20is%20the%20beginning%20of%20a%20lifelong%20romance." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E4%B8%87%E7%89%A9%E7%9A%86%E6%9C%89%E8%A3%82%E7%97%95%EF%BC%8C%E9%82%A3%E6%98%AF%E5%85%89%E7%85%A7%E8%BF%9B%E6%9D%A5%E7%9A%84%E5%9C%B0%E6%96%B9%E3%80%82;There%20are%20cracks%20in%20everything%2C%20that%27s%20where%20the%20light%20comes%20in." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>爱自己是终身浪漫的开始。</p>
-<p align="center"><b>🎯 English：</b>Loving yourself is the beginning of a lifelong romance.</p>
-<p align="center"><sub>— 王尔德</sub></p>
+<p align="center"><b>🎯 中文：</b>万物皆有裂痕，那是光照进来的地方。</p>
+<p align="center"><b>🎯 English：</b>There are cracks in everything, that's where the light comes in.</p>
+<p align="center"><sub>— 颂歌</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
