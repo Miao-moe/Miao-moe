@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=131a6045" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=9a7b4736" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=3a59" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=f079" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E4%B8%87%E7%89%A9%E7%9A%86%E6%9C%89%E8%A3%82%E7%97%95%EF%BC%8C%E9%82%A3%E6%98%AF%E5%85%89%E7%85%A7%E8%BF%9B%E6%9D%A5%E7%9A%84%E5%9C%B0%E6%96%B9%E3%80%82;There%20are%20cracks%20in%20everything%2C%20that%27s%20where%20the%20light%20comes%20in." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E8%AE%B0%E5%BF%86%E7%9A%84%E6%B5%81%E6%B2%99%E5%80%BE%E6%B4%92%EF%BC%8C%E6%89%80%E6%9C%89%E7%9A%84%E5%8F%AF%E7%88%B1%E6%A8%A1%E6%A0%B7%E9%83%BD%E5%8C%96%E4%B8%BA%E6%B5%AE%E5%8D%8E%E3%80%82;The%20quicksand%20of%20memory%20drains%2C%20and%20all%20the%20cute%20looks%20become%20flashy." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>万物皆有裂痕，那是光照进来的地方。</p>
-<p align="center"><b>🎯 English：</b>There are cracks in everything, that's where the light comes in.</p>
-<p align="center"><sub>— 颂歌</sub></p>
+<p align="center"><b>🎯 中文：</b>记忆的流沙倾洒，所有的可爱模样都化为浮华。</p>
+<p align="center"><b>🎯 English：</b>The quicksand of memory drains, and all the cute looks become flashy.</p>
+<p align="center"><sub>— 琥珀时光</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
