@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=9a7b4736" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=fb740a29" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=f079" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=7db2" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E8%AE%B0%E5%BF%86%E7%9A%84%E6%B5%81%E6%B2%99%E5%80%BE%E6%B4%92%EF%BC%8C%E6%89%80%E6%9C%89%E7%9A%84%E5%8F%AF%E7%88%B1%E6%A8%A1%E6%A0%B7%E9%83%BD%E5%8C%96%E4%B8%BA%E6%B5%AE%E5%8D%8E%E3%80%82;The%20quicksand%20of%20memory%20drains%2C%20and%20all%20the%20cute%20looks%20become%20flashy." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E5%BC%80%E6%88%90%E8%8A%B1%E7%81%BE%E7%9A%84%E7%8E%AB%E7%91%B0%E4%B8%8D%E6%98%AF%E7%81%BF%E7%83%82%EF%BC%8C%E8%80%8C%E6%98%AF%E8%8D%92%E5%87%89%E3%80%82;The%20roses%20that%20bloomed%20into%20flowers%20were%20not%20bright%2C%20but%20desolate." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>记忆的流沙倾洒，所有的可爱模样都化为浮华。</p>
-<p align="center"><b>🎯 English：</b>The quicksand of memory drains, and all the cute looks become flashy.</p>
-<p align="center"><sub>— 琥珀时光</sub></p>
+<p align="center"><b>🎯 中文：</b>开成花灾的玫瑰不是灿烂，而是荒凉。</p>
+<p align="center"><b>🎯 English：</b>The roses that bloomed into flowers were not bright, but desolate.</p>
+<p align="center"><sub>— 花儿与少年</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
