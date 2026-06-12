@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=fb740a29" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=b2a6d62d" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=7db2" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=8796" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E5%BC%80%E6%88%90%E8%8A%B1%E7%81%BE%E7%9A%84%E7%8E%AB%E7%91%B0%E4%B8%8D%E6%98%AF%E7%81%BF%E7%83%82%EF%BC%8C%E8%80%8C%E6%98%AF%E8%8D%92%E5%87%89%E3%80%82;The%20roses%20that%20bloomed%20into%20flowers%20were%20not%20bright%2C%20but%20desolate." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E9%B8%9F%E6%84%BF%E4%B8%BA%E4%B8%80%E7%89%87%E4%BA%91%EF%BC%8C%E4%BA%91%E6%84%BF%E5%81%9A%E4%B8%80%E5%8F%AA%E9%B8%9F%E3%80%82;A%20bird%20wishes%20to%20be%20a%20cloud%2C%20and%20a%20cloud%20wishes%20to%20be%20a%20bird." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>开成花灾的玫瑰不是灿烂，而是荒凉。</p>
-<p align="center"><b>🎯 English：</b>The roses that bloomed into flowers were not bright, but desolate.</p>
-<p align="center"><sub>— 花儿与少年</sub></p>
+<p align="center"><b>🎯 中文：</b>鸟愿为一片云，云愿做一只鸟。</p>
+<p align="center"><b>🎯 English：</b>A bird wishes to be a cloud, and a cloud wishes to be a bird.</p>
+<p align="center"><sub>— 飞鸟集</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
