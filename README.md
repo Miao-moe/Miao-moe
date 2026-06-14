@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=4fb566e0" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=bfaa8063" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=c98c" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=93b6" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E5%B9%B8%E6%97%A7%E9%A2%9C%E9%9A%94%E4%B8%96%E4%B8%8D%E6%9B%BE%E5%87%8B%E8%B0%A2%EF%BC%8C%E4%B8%94%E5%86%8D%E6%89%A7%E6%89%8B%E5%85%B1%E7%9C%8B%E5%A4%A9%E5%9C%B0%E9%9D%99%E5%88%87%E3%80%82;Fortunately%2C%20the%20old%20face%20did%20not%20fade%20after%20the%20death%2C%20and%20then%20looked%20at%20the%20heavens%20and%20the%20earth%20together." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E5%BF%8D%E6%97%A0%E5%8F%AF%E5%BF%8D%E6%84%8F%E5%91%B3%E7%9D%80%E8%87%AA%E6%9A%B4%E8%87%AA%E5%BC%83%E3%80%82;Being%20unbearable%20meant%20abandoning%20oneself." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>幸旧颜隔世不曾凋谢，且再执手共看天地静切。</p>
-<p align="center"><b>🎯 English：</b>Fortunately, the old face did not fade after the death, and then looked at the heavens and the earth together.</p>
-<p align="center"><sub>— 三体</sub></p>
+<p align="center"><b>🎯 中文：</b>忍无可忍意味着自暴自弃。</p>
+<p align="center"><b>🎯 English：</b>Being unbearable meant abandoning oneself.</p>
+<p align="center"><sub>— 秒速5厘米</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
