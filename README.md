@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=bfaa8063" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=5fdd4241" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=93b6" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=f8de" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E5%BF%8D%E6%97%A0%E5%8F%AF%E5%BF%8D%E6%84%8F%E5%91%B3%E7%9D%80%E8%87%AA%E6%9A%B4%E8%87%AA%E5%BC%83%E3%80%82;Being%20unbearable%20meant%20abandoning%20oneself." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E5%B0%B1%E5%83%8F%EF%BC%8C%E6%99%9A%E9%9C%9E%E7%9A%84%E7%9C%BC%E7%9D%9B%E3%80%82;Like%2C%20Sunset%27s%20eyes." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>忍无可忍意味着自暴自弃。</p>
-<p align="center"><b>🎯 English：</b>Being unbearable meant abandoning oneself.</p>
-<p align="center"><sub>— 秒速5厘米</sub></p>
+<p align="center"><b>🎯 中文：</b>就像，晚霞的眼睛。</p>
+<p align="center"><b>🎯 English：</b>Like, Sunset's eyes.</p>
+<p align="center"><sub>— 三体</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
