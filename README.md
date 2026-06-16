@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=5fdd4241" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=b10cea0b" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=f8de" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=11d2" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E5%B0%B1%E5%83%8F%EF%BC%8C%E6%99%9A%E9%9C%9E%E7%9A%84%E7%9C%BC%E7%9D%9B%E3%80%82;Like%2C%20Sunset%27s%20eyes." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E5%9C%A8%E9%9A%86%E5%86%AC%EF%BC%8C%E6%88%91%E7%BB%88%E4%BA%8E%E7%9F%A5%E9%81%93%EF%BC%8C%E6%88%91%E8%BA%AB%E4%B8%8A%E6%9C%89%E4%B8%80%E4%B8%AA%E4%B8%8D%E5%8F%AF%E6%88%98%E8%83%9C%E7%9A%84%E5%A4%8F%E5%A4%A9%E3%80%82;In%20the%20depths%20of%20winter%2C%20I%20finally%20knew%20that%20I%20had%20an%20invincible%20summer." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>就像，晚霞的眼睛。</p>
-<p align="center"><b>🎯 English：</b>Like, Sunset's eyes.</p>
-<p align="center"><sub>— 三体</sub></p>
+<p align="center"><b>🎯 中文：</b>在隆冬，我终于知道，我身上有一个不可战胜的夏天。</p>
+<p align="center"><b>🎯 English：</b>In the depths of winter, I finally knew that I had an invincible summer.</p>
+<p align="center"><sub>— 夏天集</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
