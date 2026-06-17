@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=b10cea0b" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=73b1fb2d" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=11d2" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=68e4" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E5%9C%A8%E9%9A%86%E5%86%AC%EF%BC%8C%E6%88%91%E7%BB%88%E4%BA%8E%E7%9F%A5%E9%81%93%EF%BC%8C%E6%88%91%E8%BA%AB%E4%B8%8A%E6%9C%89%E4%B8%80%E4%B8%AA%E4%B8%8D%E5%8F%AF%E6%88%98%E8%83%9C%E7%9A%84%E5%A4%8F%E5%A4%A9%E3%80%82;In%20the%20depths%20of%20winter%2C%20I%20finally%20knew%20that%20I%20had%20an%20invincible%20summer." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E8%AE%A9%E4%BA%BA%E7%B1%BB%E4%BF%9D%E6%8C%81%E7%90%86%E6%99%BA%EF%BC%8C%E7%A1%AE%E5%AE%9E%E6%98%AF%E7%A7%8D%E5%A5%A2%E6%B1%82%E3%80%82;It%20is%20indeed%20a%20luxury%20to%20keep%20mankind%20sane." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>在隆冬，我终于知道，我身上有一个不可战胜的夏天。</p>
-<p align="center"><b>🎯 English：</b>In the depths of winter, I finally knew that I had an invincible summer.</p>
-<p align="center"><sub>— 夏天集</sub></p>
+<p align="center"><b>🎯 中文：</b>让人类保持理智，确实是种奢求。</p>
+<p align="center"><b>🎯 English：</b>It is indeed a luxury to keep mankind sane.</p>
+<p align="center"><sub>— 流浪地球</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
