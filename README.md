@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=73b1fb2d" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=b457dcc7" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=68e4" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=d755" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E8%AE%A9%E4%BA%BA%E7%B1%BB%E4%BF%9D%E6%8C%81%E7%90%86%E6%99%BA%EF%BC%8C%E7%A1%AE%E5%AE%9E%E6%98%AF%E7%A7%8D%E5%A5%A2%E6%B1%82%E3%80%82;It%20is%20indeed%20a%20luxury%20to%20keep%20mankind%20sane." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E6%B3%B7%E7%99%BD%EF%BC%8C%E4%BD%A0%E7%9C%8B%E5%A5%BD%E4%BA%86%E2%80%A6%E2%80%A6%E8%BF%99%E4%B8%80%E5%89%91%EF%BC%8C%E6%96%A9%E7%9A%84%E6%98%AF%E5%AE%BF%E5%91%BD%EF%BC%81;Qiao%20Bai%2C%20look%20carefully...%20this%20sword%20is%20fate%21" alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>让人类保持理智，确实是种奢求。</p>
-<p align="center"><b>🎯 English：</b>It is indeed a luxury to keep mankind sane.</p>
-<p align="center"><sub>— 流浪地球</sub></p>
+<p align="center"><b>🎯 中文：</b>泷白，你看好了……这一剑，斩的是宿命！</p>
+<p align="center"><b>🎯 English：</b>Qiao Bai, look carefully... this sword is fate!</p>
+<p align="center"><sub>— 我在精神病院学斩神</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
