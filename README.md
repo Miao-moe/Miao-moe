@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=7d45be8a" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=cb672a82" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=e9f1" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=c0a5" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E5%AF%B9%E4%B8%8D%E7%88%B1%E6%88%91%E4%BB%AC%E7%9A%84%E4%BA%BA%EF%BC%8C%E4%B8%80%E6%97%A6%E4%BB%98%E5%87%BA%EF%BC%8C%E5%B0%B1%E7%BD%AA%E5%AD%BD%E6%B7%B1%E9%87%8D;Those%20who%20do%20not%20love%20us%2C%20once%20they%20give%2C%20they%20are%20guilty" alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E9%87%91%E9%92%B1%E6%98%AF%E6%9C%89%E5%8F%B2%E4%BB%A5%E6%9D%A5%E6%9C%80%E6%99%AE%E9%81%8D%E4%B9%9F%E6%98%AF%E6%9C%80%E6%9C%89%E6%95%88%E7%9A%84%E4%BA%92%E4%BF%A1%E7%B3%BB%E7%BB%9F%E3%80%82;Money%20is%20the%20most%20pervasive%20and%20effective%20mutual%20trust%20system%20ever." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>对不爱我们的人，一旦付出，就罪孽深重</p>
-<p align="center"><b>🎯 English：</b>Those who do not love us, once they give, they are guilty</p>
-<p align="center"><sub>— 八月未央</sub></p>
+<p align="center"><b>🎯 中文：</b>金钱是有史以来最普遍也是最有效的互信系统。</p>
+<p align="center"><b>🎯 English：</b>Money is the most pervasive and effective mutual trust system ever.</p>
+<p align="center"><sub>— 人类简史：从动物到上帝</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
