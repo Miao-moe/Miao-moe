@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=cb672a82" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=8dfd1e16" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=c0a5" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=926d" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E9%87%91%E9%92%B1%E6%98%AF%E6%9C%89%E5%8F%B2%E4%BB%A5%E6%9D%A5%E6%9C%80%E6%99%AE%E9%81%8D%E4%B9%9F%E6%98%AF%E6%9C%80%E6%9C%89%E6%95%88%E7%9A%84%E4%BA%92%E4%BF%A1%E7%B3%BB%E7%BB%9F%E3%80%82;Money%20is%20the%20most%20pervasive%20and%20effective%20mutual%20trust%20system%20ever." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E5%A6%82%E6%9E%9C%E6%9C%89%E6%9D%A5%E7%94%9F%EF%BC%8C%E8%A6%81%E5%81%9A%E4%B8%80%E6%A3%B5%E6%A0%91%EF%BC%8C%E7%AB%99%E6%88%90%E6%B0%B8%E6%81%92%EF%BC%8C%E6%B2%A1%E6%9C%89%E6%82%B2%E6%AC%A2%E7%9A%84%E5%A7%BF%E5%8A%BF%E3%80%82;If%20there%20is%20an%20afterlife%2C%20be%20a%20tree%20and%20stand%20as%20an%20eternal%2C%20without%20the%20posture%20of%20sadness%20and%20joy." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>金钱是有史以来最普遍也是最有效的互信系统。</p>
-<p align="center"><b>🎯 English：</b>Money is the most pervasive and effective mutual trust system ever.</p>
-<p align="center"><sub>— 人类简史：从动物到上帝</sub></p>
+<p align="center"><b>🎯 中文：</b>如果有来生，要做一棵树，站成永恒，没有悲欢的姿势。</p>
+<p align="center"><b>🎯 English：</b>If there is an afterlife, be a tree and stand as an eternal, without the posture of sadness and joy.</p>
+<p align="center"><sub>— 说给自己听</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
