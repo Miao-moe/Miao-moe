@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=548519c7" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=4fb7b2d2" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=0d09" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=e342" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E4%B8%80%E6%9B%B2%E5%87%84%E9%9F%B3%E6%82%B2%E9%B8%A3%EF%BC%8C%E4%B9%B1%E4%BA%86%E5%BF%83%E6%80%80%EF%BC%8C%E6%82%B2%E4%BA%86%E7%A7%8B%E6%84%8F%EF%BC%8C%E6%9C%80%E5%90%8E%E5%8F%AA%E5%89%A9%E4%B8%8B%E6%97%A0%E8%BE%B9%E7%9A%84%E8%90%A7%E7%B4%A2%E3%80%82;A%20mournful%20song%20groaned%2C%20chaotic%2C%20sad%20autumn%20intentions%2C%20and%20in%20the%20end%2C%20only%20boundless%20Xiao%20Suo%20was%20left." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E6%9C%8B%E5%8F%8B%E5%95%8A%E4%BD%A0%E8%A6%81%E6%98%8E%E7%99%BD%EF%BC%8C%E6%88%91%E4%BB%AC%E4%B8%8D%E8%83%BD%E7%94%A8%E6%B8%A9%E6%9F%94%E5%8E%BB%E5%BA%94%E5%AF%B9%E9%BB%91%E6%9A%97%EF%BC%8C%E8%A6%81%E7%94%A8%E7%81%AB%E3%80%82;Friends%2C%20you%20must%20understand%20that%20we%20cannot%20deal%20with%20the%20darkness%20with%20gentleness%2C%20but%20with%20fire." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>一曲凄音悲鸣，乱了心怀，悲了秋意，最后只剩下无边的萧索。</p>
-<p align="center"><b>🎯 English：</b>A mournful song groaned, chaotic, sad autumn intentions, and in the end, only boundless Xiao Suo was left.</p>
-<p align="center"><sub>— 遮天</sub></p>
+<p align="center"><b>🎯 中文：</b>朋友啊你要明白，我们不能用温柔去应对黑暗，要用火。</p>
+<p align="center"><b>🎯 English：</b>Friends, you must understand that we cannot deal with the darkness with gentleness, but with fire.</p>
+<p align="center"><sub>— 夜的命名术</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
