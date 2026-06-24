@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=4fb7b2d2" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=137f8c2a" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=e342" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=bdcc" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E6%9C%8B%E5%8F%8B%E5%95%8A%E4%BD%A0%E8%A6%81%E6%98%8E%E7%99%BD%EF%BC%8C%E6%88%91%E4%BB%AC%E4%B8%8D%E8%83%BD%E7%94%A8%E6%B8%A9%E6%9F%94%E5%8E%BB%E5%BA%94%E5%AF%B9%E9%BB%91%E6%9A%97%EF%BC%8C%E8%A6%81%E7%94%A8%E7%81%AB%E3%80%82;Friends%2C%20you%20must%20understand%20that%20we%20cannot%20deal%20with%20the%20darkness%20with%20gentleness%2C%20but%20with%20fire." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E5%A4%8F%EF%BC%8C%E5%8F%AA%E8%A6%81%E4%BD%A0%E5%9C%A8%E6%88%91%E8%BA%AB%E8%BE%B9%EF%BC%8C%E6%97%A0%E9%97%B4%E5%9C%B0%E7%8B%B1%E6%88%91%E4%B9%9F%E6%84%BF%E6%84%8F%E5%8E%BB%E3%80%82;Xia%2C%20as%20long%20as%20you%20are%20by%20my%20side%2C%20I%20am%20willing%20to%20go%20to%20hell." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>朋友啊你要明白，我们不能用温柔去应对黑暗，要用火。</p>
-<p align="center"><b>🎯 English：</b>Friends, you must understand that we cannot deal with the darkness with gentleness, but with fire.</p>
-<p align="center"><sub>— 夜的命名术</sub></p>
+<p align="center"><b>🎯 中文：</b>夏，只要你在我身边，无间地狱我也愿意去。</p>
+<p align="center"><b>🎯 English：</b>Xia, as long as you are by my side, I am willing to go to hell.</p>
+<p align="center"><sub>— 十日终焉</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
