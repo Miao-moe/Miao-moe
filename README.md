@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=ea79982c" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=9647c5fd" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=9d23" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=9846" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E6%9C%89%E4%BA%9B%E9%9D%A2%E5%85%B7%E6%88%B4%E7%9A%84%E5%A4%AA%E4%B9%85%EF%BC%8C%E5%B0%B1%E6%91%98%E4%B8%8D%E4%B8%8B%E6%9D%A5%E4%BA%86%E3%80%82;Some%20masks%20were%20too%20long%20to%20take%20off." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E9%BB%91%EF%BC%8C%E7%9C%9F%E4%BB%96%E5%A6%88%E9%BB%91%E5%95%8A;Black%2C%20it%27s%20so%20fucking%20black." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>有些面具戴的太久，就摘不下来了。</p>
-<p align="center"><b>🎯 English：</b>Some masks were too long to take off.</p>
-<p align="center"><sub>— 盗墓笔记</sub></p>
+<p align="center"><b>🎯 中文：</b>黑，真他妈黑啊</p>
+<p align="center"><b>🎯 English：</b>Black, it's so fucking black.</p>
+<p align="center"><sub>— 三体</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
