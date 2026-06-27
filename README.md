@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=9647c5fd" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=40989ed0" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=9846" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=4c63" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E9%BB%91%EF%BC%8C%E7%9C%9F%E4%BB%96%E5%A6%88%E9%BB%91%E5%95%8A;Black%2C%20it%27s%20so%20fucking%20black." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E8%87%AA%E7%AB%A5%E5%B9%B4%E8%B5%B7%EF%BC%8C%E6%88%91%E4%BE%BF%E7%8B%AC%E8%87%AA%E4%B8%80%E4%BA%BA%EF%BC%8C%E7%85%A7%E9%A1%BE%E7%9D%80%E5%8E%86%E4%BB%A3%E6%98%9F%E8%BE%B0%E3%80%82;Since%20childhood%2C%20I%20have%20been%20alone%2C%20caring%20for%20the%20stars." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>黑，真他妈黑啊</p>
-<p align="center"><b>🎯 English：</b>Black, it's so fucking black.</p>
-<p align="center"><sub>— 三体</sub></p>
+<p align="center"><b>🎯 中文：</b>自童年起，我便独自一人，照顾着历代星辰。</p>
+<p align="center"><b>🎯 English：</b>Since childhood, I have been alone, caring for the stars.</p>
+<p align="center"><sub>— 孤独</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
