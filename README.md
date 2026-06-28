@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=40989ed0" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=863d82aa" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=4c63" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=265a" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E8%87%AA%E7%AB%A5%E5%B9%B4%E8%B5%B7%EF%BC%8C%E6%88%91%E4%BE%BF%E7%8B%AC%E8%87%AA%E4%B8%80%E4%BA%BA%EF%BC%8C%E7%85%A7%E9%A1%BE%E7%9D%80%E5%8E%86%E4%BB%A3%E6%98%9F%E8%BE%B0%E3%80%82;Since%20childhood%2C%20I%20have%20been%20alone%2C%20caring%20for%20the%20stars." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E8%BD%BB%E8%BD%BB%E7%9A%84%E6%88%91%E8%B5%B0%E4%BA%86%EF%BC%8C%E6%AD%A3%E5%A6%82%E6%88%91%E8%BD%BB%E8%BD%BB%E7%9A%84%E6%9D%A5%E3%80%82;I%20left%20gently%2C%20just%20as%20I%20came%20gently." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>自童年起，我便独自一人，照顾着历代星辰。</p>
-<p align="center"><b>🎯 English：</b>Since childhood, I have been alone, caring for the stars.</p>
-<p align="center"><sub>— 孤独</sub></p>
+<p align="center"><b>🎯 中文：</b>轻轻的我走了，正如我轻轻的来。</p>
+<p align="center"><b>🎯 English：</b>I left gently, just as I came gently.</p>
+<p align="center"><sub>— 再别康桥</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
