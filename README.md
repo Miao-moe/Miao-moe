@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=cd8a56fd" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=c1f0e0b9" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=b468" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=861c" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E5%B1%B1%E9%A3%8E%E6%8B%82%E9%9D%A2%EF%BC%9B%E5%A6%82%E5%B1%B1%E5%9C%A8%E5%91%A2%E5%96%83%EF%BC%8C%E8%80%8C%E5%B0%91%E5%B9%B4%E6%97%A0%E8%A8%80%E3%80%82;The%20mountain%20breeze%20whispered%2C%20while%20the%20boy%20was%20speechless." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E6%BA%B6%E3%81%91%E8%A1%8C%E3%81%8F%E3%81%A8%E3%81%97%E3%81%A6%E3%81%B2%E3%82%8B%E3%81%8C%E3%81%B8%E3%82%8B%EF%BC%8C%E3%81%8D%E3%81%BF%E3%81%8C%E6%98%9F%E3%81%93%E3%81%9D%E3%81%8B%E3%81%AA%E3%81%97%E3%81%91%E3%82%8C%E3%80%82;The%20thawing%20procession%20is%20overwhelming%2C%20and%20I%27m%20glad%20you%27re%20here%2C%20Kimiga." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>山风拂面；如山在呢喃，而少年无言。</p>
-<p align="center"><b>🎯 English：</b>The mountain breeze whispered, while the boy was speechless.</p>
-<p align="center"><sub>— 剑来</sub></p>
+<p align="center"><b>🎯 中文：</b>溶け行くとしてひるがへる，きみが星こそかなしけれ。</p>
+<p align="center"><b>🎯 English：</b>The thawing procession is overwhelming, and I'm glad you're here, Kimiga.</p>
+<p align="center"><sub>— 败北少年之歌</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
