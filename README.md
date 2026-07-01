@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=c1f0e0b9" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=a23ff1e4" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=861c" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=1468" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E6%BA%B6%E3%81%91%E8%A1%8C%E3%81%8F%E3%81%A8%E3%81%97%E3%81%A6%E3%81%B2%E3%82%8B%E3%81%8C%E3%81%B8%E3%82%8B%EF%BC%8C%E3%81%8D%E3%81%BF%E3%81%8C%E6%98%9F%E3%81%93%E3%81%9D%E3%81%8B%E3%81%AA%E3%81%97%E3%81%91%E3%82%8C%E3%80%82;The%20thawing%20procession%20is%20overwhelming%2C%20and%20I%27m%20glad%20you%27re%20here%2C%20Kimiga." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E7%AD%89%E5%BE%85%E8%80%8C%E5%B7%B2%EF%BC%8C%E4%B9%9F%E5%8F%AB%E5%8A%AA%E5%8A%9B%EF%BC%9F%E6%98%AF%E5%9C%A8%E7%AD%89%E5%88%AB%E4%BA%BA%E7%A6%BB%E5%BC%80%EF%BC%8C%E8%BF%98%E6%98%AF%E5%9C%A8%E7%AD%89%E8%87%AA%E5%B7%B1%E6%94%BE%E5%BC%83%EF%BC%9F;Just%20waiting%2C%20also%20called%20hard%20work%3FAre%20you%20waiting%20for%20someone%20else%20to%20leave%2C%20or%20are%20you%20waiting%20for%20yourself%20to%20give%20up%3F" alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>溶け行くとしてひるがへる，きみが星こそかなしけれ。</p>
-<p align="center"><b>🎯 English：</b>The thawing procession is overwhelming, and I'm glad you're here, Kimiga.</p>
-<p align="center"><sub>— 败北少年之歌</sub></p>
+<p align="center"><b>🎯 中文：</b>等待而已，也叫努力？是在等别人离开，还是在等自己放弃？</p>
+<p align="center"><b>🎯 English：</b>Just waiting, also called hard work?Are you waiting for someone else to leave, or are you waiting for yourself to give up?</p>
+<p align="center"><sub>— 云边有个小卖部</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
