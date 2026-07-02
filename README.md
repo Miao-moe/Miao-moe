@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=a23ff1e4" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=f50a26d2" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=1468" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=5c57" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E7%AD%89%E5%BE%85%E8%80%8C%E5%B7%B2%EF%BC%8C%E4%B9%9F%E5%8F%AB%E5%8A%AA%E5%8A%9B%EF%BC%9F%E6%98%AF%E5%9C%A8%E7%AD%89%E5%88%AB%E4%BA%BA%E7%A6%BB%E5%BC%80%EF%BC%8C%E8%BF%98%E6%98%AF%E5%9C%A8%E7%AD%89%E8%87%AA%E5%B7%B1%E6%94%BE%E5%BC%83%EF%BC%9F;Just%20waiting%2C%20also%20called%20hard%20work%3FAre%20you%20waiting%20for%20someone%20else%20to%20leave%2C%20or%20are%20you%20waiting%20for%20yourself%20to%20give%20up%3F" alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E6%B2%89%E9%BB%98%E5%91%B5%EF%BC%8C%E6%B2%89%E9%BB%98%E5%91%B5%EF%BC%81%E4%B8%8D%E5%9C%A8%E6%B2%89%E9%BB%98%E4%B8%AD%E7%88%86%E5%8F%91%EF%BC%8C%E5%B0%B1%E5%9C%A8%E6%B2%89%E9%BB%98%E4%B8%AD%E7%81%AD%E4%BA%A1%E3%80%82;Silence%2C%20silence%21Do%20not%20erupt%20in%20silence%2C%20perish%20in%20silence." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>等待而已，也叫努力？是在等别人离开，还是在等自己放弃？</p>
-<p align="center"><b>🎯 English：</b>Just waiting, also called hard work?Are you waiting for someone else to leave, or are you waiting for yourself to give up?</p>
-<p align="center"><sub>— 云边有个小卖部</sub></p>
+<p align="center"><b>🎯 中文：</b>沉默呵，沉默呵！不在沉默中爆发，就在沉默中灭亡。</p>
+<p align="center"><b>🎯 English：</b>Silence, silence!Do not erupt in silence, perish in silence.</p>
+<p align="center"><sub>— 记念刘和珍君</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
