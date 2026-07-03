@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=f50a26d2" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=3f076178" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=5c57" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=37c3" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E6%B2%89%E9%BB%98%E5%91%B5%EF%BC%8C%E6%B2%89%E9%BB%98%E5%91%B5%EF%BC%81%E4%B8%8D%E5%9C%A8%E6%B2%89%E9%BB%98%E4%B8%AD%E7%88%86%E5%8F%91%EF%BC%8C%E5%B0%B1%E5%9C%A8%E6%B2%89%E9%BB%98%E4%B8%AD%E7%81%AD%E4%BA%A1%E3%80%82;Silence%2C%20silence%21Do%20not%20erupt%20in%20silence%2C%20perish%20in%20silence." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E5%AD%A4%E7%8B%AC%E5%8F%AF%E6%98%AF%E8%87%B4%E4%BA%BA%E4%BA%8E%E6%AD%BB%E7%9A%84%E7%96%BE%E7%97%85%E5%91%90%E3%80%82;Loneliness%20is%20a%20deadly%20disease." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>沉默呵，沉默呵！不在沉默中爆发，就在沉默中灭亡。</p>
-<p align="center"><b>🎯 English：</b>Silence, silence!Do not erupt in silence, perish in silence.</p>
-<p align="center"><sub>— 记念刘和珍君</sub></p>
+<p align="center"><b>🎯 中文：</b>孤独可是致人于死的疾病呐。</p>
+<p align="center"><b>🎯 English：</b>Loneliness is a deadly disease.</p>
+<p align="center"><sub>— 狼与香辛料</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
