@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=3f076178" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=9b5813f9" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=37c3" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=e423" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E5%AD%A4%E7%8B%AC%E5%8F%AF%E6%98%AF%E8%87%B4%E4%BA%BA%E4%BA%8E%E6%AD%BB%E7%9A%84%E7%96%BE%E7%97%85%E5%91%90%E3%80%82;Loneliness%20is%20a%20deadly%20disease." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E5%86%B2%E5%8A%A8%EF%BC%8C%E7%BB%9D%E4%B8%8D%E6%98%AF%E7%9C%9F%E6%AD%A3%E8%8B%B1%E9%9B%84%E7%9A%84%E6%80%A7%E6%A0%BC%E3%80%82;Impulsiveness%20is%20by%20no%20means%20a%20true%20hero%27s%20character." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>孤独可是致人于死的疾病呐。</p>
-<p align="center"><b>🎯 English：</b>Loneliness is a deadly disease.</p>
-<p align="center"><sub>— 狼与香辛料</sub></p>
+<p align="center"><b>🎯 中文：</b>冲动，绝不是真正英雄的性格。</p>
+<p align="center"><b>🎯 English：</b>Impulsiveness is by no means a true hero's character.</p>
+<p align="center"><sub>— 名言大全</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
