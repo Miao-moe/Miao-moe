@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=7c157196" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=ba41ba40" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=528b" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=c4b8" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E9%80%83%E7%A6%BB%E6%98%AF%E4%BA%8B%E5%AE%9E%EF%BC%8C%E4%BD%86%E6%88%91%E6%B2%A1%E6%9C%89%E8%83%8C%E5%8F%9B%E3%80%82;Escape%20is%20a%20fact%2C%20but%20I%20did%20not%20betray%20it." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E4%BA%BA%E7%9A%86%E5%8A%AB%E5%8A%AB%EF%BC%8C%E6%88%91%E7%8B%AC%E6%9C%89%E4%BD%99%E3%80%82;Everyone%20is%20robbing%2C%20I%20have%20more%20than%20one." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>逃离是事实，但我没有背叛。</p>
-<p align="center"><b>🎯 English：</b>Escape is a fact, but I did not betray it.</p>
-<p align="center"><sub>— 三体</sub></p>
+<p align="center"><b>🎯 中文：</b>人皆劫劫，我独有余。</p>
+<p align="center"><b>🎯 English：</b>Everyone is robbing, I have more than one.</p>
+<p align="center"><sub>— 贞曜先生墓志铭</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
