@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=ba41ba40" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=9556d468" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=c4b8" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=98d1" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E4%BA%BA%E7%9A%86%E5%8A%AB%E5%8A%AB%EF%BC%8C%E6%88%91%E7%8B%AC%E6%9C%89%E4%BD%99%E3%80%82;Everyone%20is%20robbing%2C%20I%20have%20more%20than%20one." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E4%BD%A0%E5%BF%83%E4%B8%AD%E6%97%A0%E7%88%B1%EF%BC%8C%E6%80%8E%E4%BC%9A%E6%87%82%E7%8F%8D%E6%83%9C%E4%BA%8C%E5%AD%97%E3%80%82;There%20is%20no%20love%20in%20your%20heart%2C%20how%20can%20you%20cherish%20the%20word." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>人皆劫劫，我独有余。</p>
-<p align="center"><b>🎯 English：</b>Everyone is robbing, I have more than one.</p>
-<p align="center"><sub>— 贞曜先生墓志铭</sub></p>
+<p align="center"><b>🎯 中文：</b>你心中无爱，怎会懂珍惜二字。</p>
+<p align="center"><b>🎯 English：</b>There is no love in your heart, how can you cherish the word.</p>
+<p align="center"><sub>— 悟空传</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
