@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=9556d468" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=18882085" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=98d1" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=3541" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E4%BD%A0%E5%BF%83%E4%B8%AD%E6%97%A0%E7%88%B1%EF%BC%8C%E6%80%8E%E4%BC%9A%E6%87%82%E7%8F%8D%E6%83%9C%E4%BA%8C%E5%AD%97%E3%80%82;There%20is%20no%20love%20in%20your%20heart%2C%20how%20can%20you%20cherish%20the%20word." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E5%A4%A7%E7%82%AE%E5%B0%84%E7%A8%8B%E4%B9%8B%E5%86%85%EF%BC%8C%E9%81%8D%E5%9C%B0%E7%9C%9F%E7%90%86%E3%80%82;Within%20the%20range%20of%20the%20cannon%2C%20the%20truth%20is%20everywhere." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>你心中无爱，怎会懂珍惜二字。</p>
-<p align="center"><b>🎯 English：</b>There is no love in your heart, how can you cherish the word.</p>
-<p align="center"><sub>— 悟空传</sub></p>
+<p align="center"><b>🎯 中文：</b>大炮射程之内，遍地真理。</p>
+<p align="center"><b>🎯 English：</b>Within the range of the cannon, the truth is everywhere.</p>
+<p align="center"><sub>— 夜的命名术</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
