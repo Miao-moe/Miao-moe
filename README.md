@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=18882085" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=45007676" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=3541" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=361d" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E5%A4%A7%E7%82%AE%E5%B0%84%E7%A8%8B%E4%B9%8B%E5%86%85%EF%BC%8C%E9%81%8D%E5%9C%B0%E7%9C%9F%E7%90%86%E3%80%82;Within%20the%20range%20of%20the%20cannon%2C%20the%20truth%20is%20everywhere." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E5%BD%93%E7%81%BE%E9%9A%BE%E6%9D%A5%E4%B8%B4%E6%97%B6%EF%BC%8C%E7%B2%BE%E7%A5%9E%E6%84%8F%E5%BF%97%E6%98%AF%E4%BA%BA%E7%B1%BB%E9%9D%A2%E4%B8%B4%E5%8D%B1%E9%99%A9%E7%9A%84%E7%AC%AC%E4%B8%80%E5%BA%8F%E5%88%97%E6%AD%A6%E5%99%A8%E3%80%82;When%20disaster%20strikes%2C%20spiritual%20will%20is%20the%20first%20sequence%20of%20weapons%20with%20which%20humanity%20is%20in%20danger." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>大炮射程之内，遍地真理。</p>
-<p align="center"><b>🎯 English：</b>Within the range of the cannon, the truth is everywhere.</p>
-<p align="center"><sub>— 夜的命名术</sub></p>
+<p align="center"><b>🎯 中文：</b>当灾难来临时，精神意志是人类面临危险的第一序列武器。</p>
+<p align="center"><b>🎯 English：</b>When disaster strikes, spiritual will is the first sequence of weapons with which humanity is in danger.</p>
+<p align="center"><sub>— 第一序列</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
