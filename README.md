@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=2df761de" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=b873720d" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=1a54" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=4a0d" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E6%83%B3%E5%B8%A6%E4%BD%A0%E5%8E%BB%E7%9C%8B%E7%94%B5%E5%BD%B1%EF%BC%8C%E6%98%8E%E5%A4%A9%E4%BD%A0%E5%B0%B1%E4%B8%8D%E6%98%AF%E6%88%91%E5%A5%B3%E6%9C%8B%E5%8F%8B%E4%BA%86%E3%80%82;If%20I%20want%20to%20take%20you%20to%20the%20movies%2C%20you%27re%20not%20my%20girlfriend%20tomorrow." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E6%9C%AA%E8%80%81%E5%B7%B2%E8%A1%B0%E4%B9%8B%E7%9F%B3%EF%BC%8C%E6%9C%AA%E5%86%B7%E5%B7%B2%E5%86%BB%E4%B9%8B%E6%B0%B4%EF%BC%8C%E6%9C%AA%E7%94%9F%E5%B7%B2%E6%AD%BB%E4%B9%8B%E8%BA%AB%EF%BC%8C%E6%9C%AA%E7%81%BC%E5%B7%B2%E5%8C%96%E4%B9%8B%E9%AD%82%E3%80%82;A%20stone%20that%20has%20not%20aged%20and%20decayed%2C%20a%20water%20that%20has%20not%20been%20frozen%20and%20frozen%2C%20a%20body%20that%20has%20not%20lived%20and%20has%20not%20died%2C%20and%20a%20soul%20that%20has%20not%20been%20burned." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>想带你去看电影，明天你就不是我女朋友了。</p>
-<p align="center"><b>🎯 English：</b>If I want to take you to the movies, you're not my girlfriend tomorrow.</p>
-<p align="center"><sub>— 撒哈拉的故事</sub></p>
+<p align="center"><b>🎯 中文：</b>未老已衰之石，未冷已冻之水，未生已死之身，未灼已化之魂。</p>
+<p align="center"><b>🎯 English：</b>A stone that has not aged and decayed, a water that has not been frozen and frozen, a body that has not lived and has not died, and a soul that has not been burned.</p>
+<p align="center"><sub>— 镇魂</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
