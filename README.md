@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=b873720d" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=b8540617" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=4a0d" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=738d" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E6%9C%AA%E8%80%81%E5%B7%B2%E8%A1%B0%E4%B9%8B%E7%9F%B3%EF%BC%8C%E6%9C%AA%E5%86%B7%E5%B7%B2%E5%86%BB%E4%B9%8B%E6%B0%B4%EF%BC%8C%E6%9C%AA%E7%94%9F%E5%B7%B2%E6%AD%BB%E4%B9%8B%E8%BA%AB%EF%BC%8C%E6%9C%AA%E7%81%BC%E5%B7%B2%E5%8C%96%E4%B9%8B%E9%AD%82%E3%80%82;A%20stone%20that%20has%20not%20aged%20and%20decayed%2C%20a%20water%20that%20has%20not%20been%20frozen%20and%20frozen%2C%20a%20body%20that%20has%20not%20lived%20and%20has%20not%20died%2C%20and%20a%20soul%20that%20has%20not%20been%20burned." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E7%94%9F%E5%9C%A8%E6%AD%A4%E4%BE%A7%EF%BC%8C%E6%AD%BB%E5%9C%A8%E5%BD%BC%E4%BE%A7%E3%80%82%E6%88%91%E5%9C%A8%E6%AD%A4%E4%BE%A7%EF%BC%8C%E4%B8%8D%E5%9C%A8%E5%BD%BC%E4%BE%A7%E3%80%82;Born%20on%20this%20side%2C%20died%20on%20the%20other%20side.I%27m%20on%20this%20side%2C%20not%20the%20other." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>未老已衰之石，未冷已冻之水，未生已死之身，未灼已化之魂。</p>
-<p align="center"><b>🎯 English：</b>A stone that has not aged and decayed, a water that has not been frozen and frozen, a body that has not lived and has not died, and a soul that has not been burned.</p>
-<p align="center"><sub>— 镇魂</sub></p>
+<p align="center"><b>🎯 中文：</b>生在此侧，死在彼侧。我在此侧，不在彼侧。</p>
+<p align="center"><b>🎯 English：</b>Born on this side, died on the other side.I'm on this side, not the other.</p>
+<p align="center"><sub>— 挪威的森林</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
