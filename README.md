@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=a35fe3cd" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=bb27b1ee" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=0063" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=7a60" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E9%86%89%E7%AC%91%E9%99%AA%E5%90%9B%E4%B8%89%E5%8D%83%E5%9C%BA%EF%BC%8C%E4%B8%8D%E8%AF%89%E7%A6%BB%E6%AE%87%E3%80%82;Drunken%20laughter%20accompanied%20the%20monarch%20for%203%2C000%20games%2C%20and%20did%20not%20complain%20about%20leaving." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=Wasshoi%EF%BC%81Wasshoi%EF%BC%81Wasshoi%EF%BC%81%E5%BF%8D%E8%80%85%E6%AE%BA%E7%84%A1%E8%B5%A6%EF%BC%81;Wasshoi%21%20Wasshoi%21%20Wasshoi%21%20Ninja%20kills%20without%20mercy%21" alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>醉笑陪君三千场，不诉离殇。</p>
-<p align="center"><b>🎯 English：</b>Drunken laughter accompanied the monarch for 3,000 games, and did not complain about leaving.</p>
-<p align="center"><sub>— 清醒纪</sub></p>
+<p align="center"><b>🎯 中文：</b>Wasshoi！Wasshoi！Wasshoi！忍者殺無赦！</p>
+<p align="center"><b>🎯 English：</b>Wasshoi! Wasshoi! Wasshoi! Ninja kills without mercy!</p>
+<p align="center"><sub>— 忍者杀手·新埼玉炎上</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
