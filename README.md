@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=bb27b1ee" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=5f591cc3" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=7a60" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=b47b" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=Wasshoi%EF%BC%81Wasshoi%EF%BC%81Wasshoi%EF%BC%81%E5%BF%8D%E8%80%85%E6%AE%BA%E7%84%A1%E8%B5%A6%EF%BC%81;Wasshoi%21%20Wasshoi%21%20Wasshoi%21%20Ninja%20kills%20without%20mercy%21" alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E7%94%A8%E7%9F%AD%E6%9A%82%E7%9A%84%E4%B8%80%E7%94%9F%EF%BC%8C%E4%B9%A6%E5%86%99%E6%97%A0%E6%95%B0%E7%A6%BB%E8%B0%B1%E7%9A%84%E6%95%85%E4%BA%8B%E3%80%82;Write%20countless%20outrageous%20stories%20in%20a%20short%20lifetime." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>Wasshoi！Wasshoi！Wasshoi！忍者殺無赦！</p>
-<p align="center"><b>🎯 English：</b>Wasshoi! Wasshoi! Wasshoi! Ninja kills without mercy!</p>
-<p align="center"><sub>— 忍者杀手·新埼玉炎上</sub></p>
+<p align="center"><b>🎯 中文：</b>用短暂的一生，书写无数离谱的故事。</p>
+<p align="center"><b>🎯 English：</b>Write countless outrageous stories in a short lifetime.</p>
+<p align="center"><sub>— 互联网</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
