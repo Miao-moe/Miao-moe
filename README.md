@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=5f591cc3" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=ba782aca" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=b47b" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=4473" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E7%94%A8%E7%9F%AD%E6%9A%82%E7%9A%84%E4%B8%80%E7%94%9F%EF%BC%8C%E4%B9%A6%E5%86%99%E6%97%A0%E6%95%B0%E7%A6%BB%E8%B0%B1%E7%9A%84%E6%95%85%E4%BA%8B%E3%80%82;Write%20countless%20outrageous%20stories%20in%20a%20short%20lifetime." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E5%AE%87%E5%AE%99%E7%9A%84%E7%BE%8E%E4%B8%BD%E5%92%8C%E5%A4%A7%E5%9C%B0%E7%9A%84%E7%89%B5%E6%8C%82%EF%BC%8C%E7%94%9F%E5%91%BD%E7%9A%84%E6%B8%BA%E5%B0%8F%E5%92%8C%E4%BA%BA%E7%9A%84%E4%BC%9F%E5%A4%A7%E3%80%82;The%20beauty%20of%20the%20universe%20and%20the%20care%20of%20the%20earth%2C%20the%20smallness%20of%20life%20and%20the%20greatness%20of%20man." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>用短暂的一生，书写无数离谱的故事。</p>
-<p align="center"><b>🎯 English：</b>Write countless outrageous stories in a short lifetime.</p>
-<p align="center"><sub>— 互联网</sub></p>
+<p align="center"><b>🎯 中文：</b>宇宙的美丽和大地的牵挂，生命的渺小和人的伟大。</p>
+<p align="center"><b>🎯 English：</b>The beauty of the universe and the care of the earth, the smallness of life and the greatness of man.</p>
+<p align="center"><sub>— 最合宜的位置</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
