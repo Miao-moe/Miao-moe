@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=90de336c" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=4457b87a" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=f7b0" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=7f92" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E5%AF%B9%E4%BA%8E%E6%99%BA%E6%85%A7%E6%96%87%E6%98%8E%E6%9D%A5%E8%AF%B4%EF%BC%8C%E5%AE%83%E4%BB%AC%E6%9C%80%E5%90%8E%E6%80%BB%E5%8F%98%E5%BE%97%E5%92%8C%E8%87%AA%E5%B7%B1%E7%9A%84%E6%80%9D%E6%83%B3%E4%B8%80%E6%A0%B7%E5%A4%A7%E3%80%82;For%20intelligent%20civilizations%2C%20they%20always%20end%20up%20being%20as%20big%20as%20their%20own%20minds." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E4%BD%A0%E7%9A%84%E6%97%A0%E7%95%8F%E6%9D%A5%E6%BA%90%E4%BA%8E%E6%97%A0%E7%9F%A5%E3%80%82;Your%20fearlessness%20comes%20from%20ignorance." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>对于智慧文明来说，它们最后总变得和自己的思想一样大。</p>
-<p align="center"><b>🎯 English：</b>For intelligent civilizations, they always end up being as big as their own minds.</p>
-<p align="center"><sub>— 三体III·死神永生</sub></p>
+<p align="center"><b>🎯 中文：</b>你的无畏来源于无知。</p>
+<p align="center"><b>🎯 English：</b>Your fearlessness comes from ignorance.</p>
+<p align="center"><sub>— 三体</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
