@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=4457b87a" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=71261974" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=7f92" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=e1b6" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E4%BD%A0%E7%9A%84%E6%97%A0%E7%95%8F%E6%9D%A5%E6%BA%90%E4%BA%8E%E6%97%A0%E7%9F%A5%E3%80%82;Your%20fearlessness%20comes%20from%20ignorance." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E6%A0%91%E6%A2%A2%E9%97%B4%E6%B3%BB%E4%B8%8B%E7%9A%84%E7%A7%8B%E6%97%A5%E9%98%B3%E5%85%89%EF%BC%8C%E5%9C%A8%E5%A5%B9%E8%82%A9%E9%83%A8%E4%B8%80%E9%97%AA%E4%B8%80%E9%97%AA%E5%9C%B0%E8%B7%B3%E8%B7%83%E7%9D%80%E3%80%82;The%20autumn%20sunlight%20pouring%20down%20from%20the%20trees%20leaped%20flickering%20on%20her%20shoulders." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>你的无畏来源于无知。</p>
-<p align="center"><b>🎯 English：</b>Your fearlessness comes from ignorance.</p>
-<p align="center"><sub>— 三体</sub></p>
+<p align="center"><b>🎯 中文：</b>树梢间泻下的秋日阳光，在她肩部一闪一闪地跳跃着。</p>
+<p align="center"><b>🎯 English：</b>The autumn sunlight pouring down from the trees leaped flickering on her shoulders.</p>
+<p align="center"><sub>— 挪威的森林</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
