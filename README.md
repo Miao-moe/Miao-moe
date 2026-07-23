@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=dafe133c" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=5e0b8d06" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=8b17" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=c180" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E5%AE%87%E5%AE%99%E5%BE%88%E5%A4%A7%EF%BC%8C%E7%94%9F%E6%B4%BB%E6%9B%B4%E5%A4%A7%EF%BC%8C%E4%B9%9F%E8%AE%B8%E4%BB%A5%E5%90%8E%E8%BF%98%E6%9C%89%E7%BC%98%E7%9B%B8%E8%A7%81%E3%80%82;The%20universe%20is%20big%2C%20life%20is%20bigger%2C%20and%20there%20may%20be%20fate%20to%20meet%20in%20the%20future." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E6%88%91%E6%80%BB%E6%98%AF%E5%9C%A8%E6%9C%80%E6%B7%B1%E7%9A%84%E7%BB%9D%E6%9C%9B%E9%87%8C%EF%BC%8C%E9%81%87%E8%A7%81%E6%9C%80%E7%BE%8E%E7%9A%84%E9%A3%8E%E6%99%AF%E3%80%82;I%20always%20meet%20the%20most%20beautiful%20scenery%20in%20the%20deepest%20despair." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>宇宙很大，生活更大，也许以后还有缘相见。</p>
-<p align="center"><b>🎯 English：</b>The universe is big, life is bigger, and there may be fate to meet in the future.</p>
-<p align="center"><sub>— 三体</sub></p>
+<p align="center"><b>🎯 中文：</b>我总是在最深的绝望里，遇见最美的风景。</p>
+<p align="center"><b>🎯 English：</b>I always meet the most beautiful scenery in the deepest despair.</p>
+<p align="center"><sub>— 我的心中每天开出一朵花</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
