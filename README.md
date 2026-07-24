@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=5e0b8d06" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=9d72f54f" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=c180" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=d8d6" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E6%88%91%E6%80%BB%E6%98%AF%E5%9C%A8%E6%9C%80%E6%B7%B1%E7%9A%84%E7%BB%9D%E6%9C%9B%E9%87%8C%EF%BC%8C%E9%81%87%E8%A7%81%E6%9C%80%E7%BE%8E%E7%9A%84%E9%A3%8E%E6%99%AF%E3%80%82;I%20always%20meet%20the%20most%20beautiful%20scenery%20in%20the%20deepest%20despair." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E7%9B%AE%E7%9A%84%E8%99%BD%E6%9C%89%EF%BC%8C%E5%8D%B4%E6%97%A0%E8%B7%AF%E5%8F%AF%E5%BE%AA%EF%BC%9B%E6%88%91%E4%BB%AC%E7%A7%B0%E4%B9%8B%E4%B8%BA%E8%B7%AF%E7%9A%84%EF%BC%8C%E6%97%A0%E9%9D%9E%E6%98%AF%E8%B8%8C%E8%BA%87%E3%80%82;Although%20there%20is%20a%20purpose%2C%20there%20is%20no%20way%3B%20what%20we%20call%20the%20road%20is%20nothing%20but%20hesitation." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>我总是在最深的绝望里，遇见最美的风景。</p>
-<p align="center"><b>🎯 English：</b>I always meet the most beautiful scenery in the deepest despair.</p>
-<p align="center"><sub>— 我的心中每天开出一朵花</sub></p>
+<p align="center"><b>🎯 中文：</b>目的虽有，却无路可循；我们称之为路的，无非是踌躇。</p>
+<p align="center"><b>🎯 English：</b>Although there is a purpose, there is no way; what we call the road is nothing but hesitation.</p>
+<p align="center"><sub>— 误入世界</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
