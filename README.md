@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=9d72f54f" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=8f6f0426" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=d8d6" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=cd3e" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E7%9B%AE%E7%9A%84%E8%99%BD%E6%9C%89%EF%BC%8C%E5%8D%B4%E6%97%A0%E8%B7%AF%E5%8F%AF%E5%BE%AA%EF%BC%9B%E6%88%91%E4%BB%AC%E7%A7%B0%E4%B9%8B%E4%B8%BA%E8%B7%AF%E7%9A%84%EF%BC%8C%E6%97%A0%E9%9D%9E%E6%98%AF%E8%B8%8C%E8%BA%87%E3%80%82;Although%20there%20is%20a%20purpose%2C%20there%20is%20no%20way%3B%20what%20we%20call%20the%20road%20is%20nothing%20but%20hesitation." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E5%8B%87%E8%80%85%E6%84%A4%E6%80%92%EF%BC%8C%E6%8A%BD%E5%88%83%E5%90%91%E6%9B%B4%E5%BC%BA%E8%80%85%EF%BC%9B%E6%80%AF%E8%80%85%E6%84%A4%E6%80%92%EF%BC%8C%E5%8D%B4%E6%8A%BD%E5%88%83%E5%90%91%E6%9B%B4%E5%BC%B1%E8%80%85%E3%80%82;The%20hero%20is%20angry%20and%20draws%20his%20blade%20toward%20the%20stronger%3B%20the%20timid%20is%20angry%20and%20draws%20his%20blade%20toward%20the%20weaker." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>目的虽有，却无路可循；我们称之为路的，无非是踌躇。</p>
-<p align="center"><b>🎯 English：</b>Although there is a purpose, there is no way; what we call the road is nothing but hesitation.</p>
-<p align="center"><sub>— 误入世界</sub></p>
+<p align="center"><b>🎯 中文：</b>勇者愤怒，抽刃向更强者；怯者愤怒，却抽刃向更弱者。</p>
+<p align="center"><b>🎯 English：</b>The hero is angry and draws his blade toward the stronger; the timid is angry and draws his blade toward the weaker.</p>
+<p align="center"><sub>— 华盖集·杂感</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
