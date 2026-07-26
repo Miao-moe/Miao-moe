@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=8f6f0426" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=da1e3e6c" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=cd3e" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=6afb" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E5%8B%87%E8%80%85%E6%84%A4%E6%80%92%EF%BC%8C%E6%8A%BD%E5%88%83%E5%90%91%E6%9B%B4%E5%BC%BA%E8%80%85%EF%BC%9B%E6%80%AF%E8%80%85%E6%84%A4%E6%80%92%EF%BC%8C%E5%8D%B4%E6%8A%BD%E5%88%83%E5%90%91%E6%9B%B4%E5%BC%B1%E8%80%85%E3%80%82;The%20hero%20is%20angry%20and%20draws%20his%20blade%20toward%20the%20stronger%3B%20the%20timid%20is%20angry%20and%20draws%20his%20blade%20toward%20the%20weaker." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E8%90%BD%E6%97%A5%E6%B2%89%E6%BA%BA%E4%BA%8E%E6%A9%98%E8%89%B2%E7%9A%84%E6%B5%B7%EF%BC%8C%E6%99%9A%E9%A3%8E%E6%B2%A6%E9%99%B7%E4%BA%8E%E8%B5%A4%E8%AF%9A%E7%9A%84%E7%88%B1%E3%80%82;The%20sunset%20drowned%20in%20the%20orange%20sea%2C%20and%20the%20evening%20breeze%20fell%20into%20sincere%20love." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>勇者愤怒，抽刃向更强者；怯者愤怒，却抽刃向更弱者。</p>
-<p align="center"><b>🎯 English：</b>The hero is angry and draws his blade toward the stronger; the timid is angry and draws his blade toward the weaker.</p>
-<p align="center"><sub>— 华盖集·杂感</sub></p>
+<p align="center"><b>🎯 中文：</b>落日沉溺于橘色的海，晚风沦陷于赤诚的爱。</p>
+<p align="center"><b>🎯 English：</b>The sunset drowned in the orange sea, and the evening breeze fell into sincere love.</p>
+<p align="center"><sub>— 人民日报</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
