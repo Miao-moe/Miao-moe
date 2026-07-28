@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=f2fda02a" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=a8434112" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=8999" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=1f8f" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E6%96%B9%E5%AF%B8%E4%B9%8B%E9%97%B4%EF%BC%8C%E6%B7%B1%E4%B8%8D%E8%A7%81%E5%BA%95%E5%95%8A%E3%80%82;Between%20square%20inches%2C%20there%20is%20no%20bottom." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E6%8A%8A%E8%87%AA%E6%9D%80%E6%97%B6%E5%B8%B8%E6%8C%82%E5%9C%A8%E5%98%B4%E8%BE%B9%E7%9A%84%E4%BA%BA%EF%BC%8C%E4%B9%9F%E8%AE%B8%E5%8F%AA%E6%98%AF%E9%9C%80%E8%A6%81%E4%B8%80%E7%82%B9%E7%88%B1%E3%80%82;People%20who%20talk%20about%20suicide%20all%20the%20time%20may%20just%20need%20a%20little%20love." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>方寸之间，深不见底啊。</p>
-<p align="center"><b>🎯 English：</b>Between square inches, there is no bottom.</p>
-<p align="center"><sub>— 三体</sub></p>
+<p align="center"><b>🎯 中文：</b>把自杀时常挂在嘴边的人，也许只是需要一点爱。</p>
+<p align="center"><b>🎯 English：</b>People who talk about suicide all the time may just need a little love.</p>
+<p align="center"><sub>— 务虚笔记</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
