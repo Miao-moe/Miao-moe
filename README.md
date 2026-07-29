@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=a8434112" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=798053e1" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=1f8f" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=1d90" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E6%8A%8A%E8%87%AA%E6%9D%80%E6%97%B6%E5%B8%B8%E6%8C%82%E5%9C%A8%E5%98%B4%E8%BE%B9%E7%9A%84%E4%BA%BA%EF%BC%8C%E4%B9%9F%E8%AE%B8%E5%8F%AA%E6%98%AF%E9%9C%80%E8%A6%81%E4%B8%80%E7%82%B9%E7%88%B1%E3%80%82;People%20who%20talk%20about%20suicide%20all%20the%20time%20may%20just%20need%20a%20little%20love." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E5%8F%96%E4%B9%89%E6%88%90%E4%BB%81%E4%BB%8A%E6%97%A5%E4%BA%8B%EF%BC%8C%E4%BA%BA%E9%97%B4%E9%81%8D%E7%A7%8D%E8%87%AA%E7%94%B1%E8%8A%B1%E3%80%82;The%20meaning%20is%20to%20become%20the%20present%20day%20event%20of%20Jin%2C%20and%20free%20flowers%20are%20planted%20all%20over%20the%20world." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>把自杀时常挂在嘴边的人，也许只是需要一点爱。</p>
-<p align="center"><b>🎯 English：</b>People who talk about suicide all the time may just need a little love.</p>
-<p align="center"><sub>— 务虚笔记</sub></p>
+<p align="center"><b>🎯 中文：</b>取义成仁今日事，人间遍种自由花。</p>
+<p align="center"><b>🎯 English：</b>The meaning is to become the present day event of Jin, and free flowers are planted all over the world.</p>
+<p align="center"><sub>— 梅岭三章</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
