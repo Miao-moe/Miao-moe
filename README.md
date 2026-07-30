@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=798053e1" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=9d9ffdbc" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=1d90" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=29d7" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E5%8F%96%E4%B9%89%E6%88%90%E4%BB%81%E4%BB%8A%E6%97%A5%E4%BA%8B%EF%BC%8C%E4%BA%BA%E9%97%B4%E9%81%8D%E7%A7%8D%E8%87%AA%E7%94%B1%E8%8A%B1%E3%80%82;The%20meaning%20is%20to%20become%20the%20present%20day%20event%20of%20Jin%2C%20and%20free%20flowers%20are%20planted%20all%20over%20the%20world." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E6%8E%A7%E5%85%84%E6%98%AF%E6%88%91%E7%9A%84%E4%B8%AA%E6%80%A7%E7%9A%84%E5%90%8C%E6%97%B6%EF%BC%8C%E4%B9%9F%E6%98%AF%E5%8B%8B%E7%AB%A0%EF%BC%81;Brother%20Control%20is%20my%20personality%2C%20but%20also%20a%20medal%21" alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>取义成仁今日事，人间遍种自由花。</p>
-<p align="center"><b>🎯 English：</b>The meaning is to become the present day event of Jin, and free flowers are planted all over the world.</p>
-<p align="center"><sub>— 梅岭三章</sub></p>
+<p align="center"><b>🎯 中文：</b>控兄是我的个性的同时，也是勋章！</p>
+<p align="center"><b>🎯 English：</b>Brother Control is my personality, but also a medal!</p>
+<p align="center"><sub>— 就算是哥只要有爱就没问题吧</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
