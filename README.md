@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=9d9ffdbc" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=9b41fc51" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=29d7" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=9779" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E6%8E%A7%E5%85%84%E6%98%AF%E6%88%91%E7%9A%84%E4%B8%AA%E6%80%A7%E7%9A%84%E5%90%8C%E6%97%B6%EF%BC%8C%E4%B9%9F%E6%98%AF%E5%8B%8B%E7%AB%A0%EF%BC%81;Brother%20Control%20is%20my%20personality%2C%20but%20also%20a%20medal%21" alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E6%88%91%E5%AF%B9%E4%B8%89%E4%BD%93%E4%B8%96%E7%95%8C%E8%AF%B4%E8%AF%9D%E3%80%82;MYMEMORY%20WARNING%3A%20YOU%20USED%20ALL%20AVAILABLE%20FREE%20TRANSLATIONS%20FOR%20TODAY.%20NEXT%20AVAILABLE%20IN%2006%20HOURS%2028%20MINUTES%2010%20SECONDS%20VISIT%20HTTPS%3A//MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP%20TO%20TRANSLATE%20MORE" alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>控兄是我的个性的同时，也是勋章！</p>
-<p align="center"><b>🎯 English：</b>Brother Control is my personality, but also a medal!</p>
-<p align="center"><sub>— 就算是哥只要有爱就没问题吧</sub></p>
+<p align="center"><b>🎯 中文：</b>我对三体世界说话。</p>
+<p align="center"><b>🎯 English：</b>MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN 06 HOURS 28 MINUTES 10 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE</p>
+<p align="center"><sub>— 三体</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
