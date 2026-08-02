@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=bd6adacd" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=5a7a8bd3" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=797c" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=6c4e" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E5%BD%93%E4%B8%A4%E9%A2%97%E5%8D%AB%E6%98%9F%E7%9A%84%E8%BD%A8%E9%81%93%E5%81%B6%E5%B0%94%E4%BA%A4%E5%8F%89%E6%97%B6%EF%BC%8C%E6%88%91%E4%BB%AC%E4%BE%BF%E8%BF%99%E6%A0%B7%E7%9B%B8%E4%BC%9A%E4%BA%86%E3%80%82;When%20the%20orbits%20of%20the%20two%20satellites%20occasionally%20cross%2C%20we%20meet%20like%20this." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E5%A6%82%E6%9E%9C%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E4%B8%8D%E5%96%9C%E6%AC%A2%E4%BD%A0%EF%BC%8C%E9%82%A3%E5%AE%83%E5%B0%B1%E6%98%AF%E6%88%91%E7%9A%84%E6%95%8C%E4%BA%BA%E4%BA%86%E3%80%82;If%20the%20world%20doesn%27t%20like%20you%2C%20it%27s%20my%20enemy." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>当两颗卫星的轨道偶尔交叉时，我们便这样相会了。</p>
-<p align="center"><b>🎯 English：</b>When the orbits of the two satellites occasionally cross, we meet like this.</p>
-<p align="center"><sub>— 斯普特尼克恋人</sub></p>
+<p align="center"><b>🎯 中文：</b>如果这个世界不喜欢你，那它就是我的敌人了。</p>
+<p align="center"><b>🎯 English：</b>If the world doesn't like you, it's my enemy.</p>
+<p align="center"><sub>— 龙族</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
