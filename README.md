@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=e825919f" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=3657b675" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=9722" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=0719" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E8%8A%B1%E5%BC%80%E4%B8%8D%E5%B9%B6%E7%99%BE%E8%8A%B1%E4%B8%9B%EF%BC%8C%E7%8B%AC%E7%AB%8B%E7%96%8F%E7%AF%B1%E8%B6%A3%E6%9C%AA%E7%A9%B7%E3%80%82;The%20flowers%20are%20not%20in%20full%20bloom%2C%20and%20the%20independent%20hedge%20is%20still%20interesting." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E8%A8%80%E8%AF%AD%E5%8C%96%E4%BD%9C%E6%B8%B8%E6%AD%8C%EF%BC%8C%E6%B8%B8%E6%AD%8C%E5%8C%96%E4%BD%9C%E5%9B%9E%E5%A3%B0%EF%BC%8C%E8%AE%B0%E5%BF%B5%E5%85%B6%E6%9B%BE%E6%89%80%E4%B8%BA%E4%B9%8B%E7%89%A9%E3%80%82;Words%20become%20songs%2C%20songs%20become%20echoes%2C%20remembered%20for%20what%20they%20once%20were." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>花开不并百花丛，独立疏篱趣未穷。</p>
-<p align="center"><b>🎯 English：</b>The flowers are not in full bloom, and the independent hedge is still interesting.</p>
-<p align="center"><sub>— 寒菊</sub></p>
+<p align="center"><b>🎯 中文：</b>言语化作游歌，游歌化作回声，记念其曾所为之物。</p>
+<p align="center"><b>🎯 English：</b>Words become songs, songs become echoes, remembered for what they once were.</p>
+<p align="center"><sub>— The Backrooms 回声间</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
