@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=3657b675" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=38ce3674" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=0719" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=eb71" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E8%A8%80%E8%AF%AD%E5%8C%96%E4%BD%9C%E6%B8%B8%E6%AD%8C%EF%BC%8C%E6%B8%B8%E6%AD%8C%E5%8C%96%E4%BD%9C%E5%9B%9E%E5%A3%B0%EF%BC%8C%E8%AE%B0%E5%BF%B5%E5%85%B6%E6%9B%BE%E6%89%80%E4%B8%BA%E4%B9%8B%E7%89%A9%E3%80%82;Words%20become%20songs%2C%20songs%20become%20echoes%2C%20remembered%20for%20what%20they%20once%20were." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E5%BD%93%E6%B5%91%E6%B5%8A%E6%88%90%E4%B8%BA%E4%B8%80%E7%A7%8D%E5%B8%B8%E6%80%81%EF%BC%8C%E6%B8%85%E7%99%BD%E5%B0%B1%E6%98%AF%E4%B8%80%E7%A7%8D%E7%BD%AA%E3%80%82;When%20turbidity%20becomes%20the%20norm%2C%20innocence%20is%20a%20sin." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>言语化作游歌，游歌化作回声，记念其曾所为之物。</p>
-<p align="center"><b>🎯 English：</b>Words become songs, songs become echoes, remembered for what they once were.</p>
-<p align="center"><sub>— The Backrooms 回声间</sub></p>
+<p align="center"><b>🎯 中文：</b>当浑浊成为一种常态，清白就是一种罪。</p>
+<p align="center"><b>🎯 English：</b>When turbidity becomes the norm, innocence is a sin.</p>
+<p align="center"><sub>— 长明灯</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
