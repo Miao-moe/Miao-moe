@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=38ce3674" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=391ae6e1" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=eb71" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=6446" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E5%BD%93%E6%B5%91%E6%B5%8A%E6%88%90%E4%B8%BA%E4%B8%80%E7%A7%8D%E5%B8%B8%E6%80%81%EF%BC%8C%E6%B8%85%E7%99%BD%E5%B0%B1%E6%98%AF%E4%B8%80%E7%A7%8D%E7%BD%AA%E3%80%82;When%20turbidity%20becomes%20the%20norm%2C%20innocence%20is%20a%20sin." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E5%A6%82%E6%9E%9C%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E4%B8%8D%E5%96%9C%E6%AC%A2%E4%BD%A0%EF%BC%8C%E9%82%A3%E5%AE%83%E5%B0%B1%E6%98%AF%E6%88%91%E7%9A%84%E6%95%8C%E4%BA%BA%E4%BA%86%E3%80%82;If%20the%20world%20doesn%27t%20like%20you%2C%20it%27s%20my%20enemy." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>当浑浊成为一种常态，清白就是一种罪。</p>
-<p align="center"><b>🎯 English：</b>When turbidity becomes the norm, innocence is a sin.</p>
-<p align="center"><sub>— 长明灯</sub></p>
+<p align="center"><b>🎯 中文：</b>如果这个世界不喜欢你，那它就是我的敌人了。</p>
+<p align="center"><b>🎯 English：</b>If the world doesn't like you, it's my enemy.</p>
+<p align="center"><sub>— 龙族</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
