@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=c8ed5073" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=428891cd" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=2c79" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=1a41" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E6%96%A9%E7%A5%9E%EF%BC%8C%E7%84%B6%E5%90%8E%EF%BC%8C%E5%B8%A6%E4%BD%A0%E4%BB%AC%E5%9B%9E%E5%AE%B6%E3%80%82;Kill%20the%20gods%20and%20then%20take%20you%20home." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E6%88%91%E8%A6%81%E8%B5%A2%E4%B8%80%E5%A3%B6%E9%85%92%EF%BC%8C%E6%8B%BF%E6%9D%A5%E5%A8%B6%E4%BD%A0%E3%80%82;I%27m%20going%20to%20win%20a%20pot%20of%20wine%20to%20marry%20you." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>斩神，然后，带你们回家。</p>
-<p align="center"><b>🎯 English：</b>Kill the gods and then take you home.</p>
-<p align="center"><sub>— 我在精神病院学斩神</sub></p>
+<p align="center"><b>🎯 中文：</b>我要赢一壶酒，拿来娶你。</p>
+<p align="center"><b>🎯 English：</b>I'm going to win a pot of wine to marry you.</p>
+<p align="center"><sub>— 撒野</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
