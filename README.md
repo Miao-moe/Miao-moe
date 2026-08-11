@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=428891cd" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=444122ca" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=1a41" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=e9c6" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E6%88%91%E8%A6%81%E8%B5%A2%E4%B8%80%E5%A3%B6%E9%85%92%EF%BC%8C%E6%8B%BF%E6%9D%A5%E5%A8%B6%E4%BD%A0%E3%80%82;I%27m%20going%20to%20win%20a%20pot%20of%20wine%20to%20marry%20you." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E8%AF%BB%E4%B9%A6%E5%BF%8C%E6%AD%BB%E8%AF%BB%EF%BC%8C%E6%AD%BB%E8%AF%BB%E9%92%BB%E7%89%9B%E8%A7%92%E3%80%82;Avoid%20reading%20books%20and%20read%20diamond%20horns." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>我要赢一壶酒，拿来娶你。</p>
-<p align="center"><b>🎯 English：</b>I'm going to win a pot of wine to marry you.</p>
-<p align="center"><sub>— 撒野</sub></p>
+<p align="center"><b>🎯 中文：</b>读书忌死读，死读钻牛角。</p>
+<p align="center"><b>🎯 English：</b>Avoid reading books and read diamond horns.</p>
+<p align="center"><sub>— 叶圣陶</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
