@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=444122ca" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=6b83ba64" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=e9c6" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=3f50" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E8%AF%BB%E4%B9%A6%E5%BF%8C%E6%AD%BB%E8%AF%BB%EF%BC%8C%E6%AD%BB%E8%AF%BB%E9%92%BB%E7%89%9B%E8%A7%92%E3%80%82;Avoid%20reading%20books%20and%20read%20diamond%20horns." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E4%B8%BA%E4%BD%A0%EF%BC%8C%E5%8D%83%E5%8D%83%E4%B8%87%E4%B8%87%E9%81%8D%E3%80%82;For%20you%2C%20a%20thousand%20times." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>读书忌死读，死读钻牛角。</p>
-<p align="center"><b>🎯 English：</b>Avoid reading books and read diamond horns.</p>
-<p align="center"><sub>— 叶圣陶</sub></p>
+<p align="center"><b>🎯 中文：</b>为你，千千万万遍。</p>
+<p align="center"><b>🎯 English：</b>For you, a thousand times.</p>
+<p align="center"><sub>— 追风筝的人</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
