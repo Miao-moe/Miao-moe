@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=6b83ba64" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=403bc46c" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=3f50" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=7dfd" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E4%B8%BA%E4%BD%A0%EF%BC%8C%E5%8D%83%E5%8D%83%E4%B8%87%E4%B8%87%E9%81%8D%E3%80%82;For%20you%2C%20a%20thousand%20times." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E4%B8%80%E4%BB%A5%E8%B4%AF%E4%B9%8B%E7%9A%84%E5%8A%AA%E5%8A%9B%EF%BC%8C%E4%B8%8D%E5%BE%97%E6%87%88%E6%80%A0%E7%9A%84%E4%BA%BA%E7%94%9F%E3%80%82;Consistent%20efforts%20shall%20not%20be%20slackened%20in%20life." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>为你，千千万万遍。</p>
-<p align="center"><b>🎯 English：</b>For you, a thousand times.</p>
-<p align="center"><sub>— 追风筝的人</sub></p>
+<p align="center"><b>🎯 中文：</b>一以贯之的努力，不得懈怠的人生。</p>
+<p align="center"><b>🎯 English：</b>Consistent efforts shall not be slackened in life.</p>
+<p align="center"><sub>— 天才基本法</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
