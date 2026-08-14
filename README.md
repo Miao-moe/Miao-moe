@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=403bc46c" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=2782df0b" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=7dfd" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=7d53" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E4%B8%80%E4%BB%A5%E8%B4%AF%E4%B9%8B%E7%9A%84%E5%8A%AA%E5%8A%9B%EF%BC%8C%E4%B8%8D%E5%BE%97%E6%87%88%E6%80%A0%E7%9A%84%E4%BA%BA%E7%94%9F%E3%80%82;Consistent%20efforts%20shall%20not%20be%20slackened%20in%20life." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E8%87%AA%E7%AB%A5%E5%B9%B4%E8%B5%B7%EF%BC%8C%E6%88%91%E4%BE%BF%E7%8B%AC%E8%87%AA%E4%B8%80%E4%BA%BA%EF%BC%8C%E7%85%A7%E9%A1%BE%E7%9D%80%E5%8E%86%E4%BB%A3%E6%98%9F%E8%BE%B0%E3%80%82;Since%20childhood%2C%20I%20have%20been%20alone%2C%20caring%20for%20the%20stars." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>一以贯之的努力，不得懈怠的人生。</p>
-<p align="center"><b>🎯 English：</b>Consistent efforts shall not be slackened in life.</p>
-<p align="center"><sub>— 天才基本法</sub></p>
+<p align="center"><b>🎯 中文：</b>自童年起，我便独自一人，照顾着历代星辰。</p>
+<p align="center"><b>🎯 English：</b>Since childhood, I have been alone, caring for the stars.</p>
+<p align="center"><sub>— 孤独</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
