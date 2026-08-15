@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=2782df0b" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=1fb6a615" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=7d53" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=4cd2" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E8%87%AA%E7%AB%A5%E5%B9%B4%E8%B5%B7%EF%BC%8C%E6%88%91%E4%BE%BF%E7%8B%AC%E8%87%AA%E4%B8%80%E4%BA%BA%EF%BC%8C%E7%85%A7%E9%A1%BE%E7%9D%80%E5%8E%86%E4%BB%A3%E6%98%9F%E8%BE%B0%E3%80%82;Since%20childhood%2C%20I%20have%20been%20alone%2C%20caring%20for%20the%20stars." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E5%90%9B%E5%AD%90%E6%8B%A9%E8%80%8C%E5%90%8E%E4%BA%A4%EF%BC%8C%E6%95%85%E5%AF%A1%E8%BF%87%EF%BC%9B%E5%B0%8F%E4%BA%BA%E4%BA%A4%E8%80%8C%E5%90%8E%E6%8B%A9%EF%BC%8C%E6%95%85%E5%A4%9A%E6%80%A8%E3%80%82;The%20gentleman%20chose%20to%20hand%20over%20afterwards%2C%20so%20he%20was%20overwhelmed%3B%20the%20villain%20chose%20to%20hand%20over%20afterwards%2C%20so%20he%20was%20resentful." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>自童年起，我便独自一人，照顾着历代星辰。</p>
-<p align="center"><b>🎯 English：</b>Since childhood, I have been alone, caring for the stars.</p>
-<p align="center"><sub>— 孤独</sub></p>
+<p align="center"><b>🎯 中文：</b>君子择而后交，故寡过；小人交而后择，故多怨。</p>
+<p align="center"><b>🎯 English：</b>The gentleman chose to hand over afterwards, so he was overwhelmed; the villain chose to hand over afterwards, so he was resentful.</p>
+<p align="center"><sub>— 解人颐</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
