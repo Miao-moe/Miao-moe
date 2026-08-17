@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=31c1ab18" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=769a121c" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=bacb" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=e36b" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E7%94%9F%E5%91%BD%E7%9A%84%E6%84%8F%E4%B9%89%E8%BF%99%E4%BB%B6%E4%BA%8B%EF%BC%8C%E6%83%B3%E5%BF%85%E4%BA%BA%E7%B1%BB%E8%87%AA%E5%B7%B1%E4%B9%9F%E4%B8%8D%E6%98%8E%E7%99%BD%E5%90%A7%E3%80%82;Perhaps%20human%20beings%20themselves%20do%20not%20understand%20the%20meaning%20of%20life." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E5%8F%B9%E9%A3%98%E6%B8%BA%EF%BC%8C%E8%8E%AB%E8%BF%87%E6%98%A5%E6%A8%B1%E8%BD%AC%E7%9E%AC%E9%80%9D%EF%BC%9B%E6%80%9C%E4%B8%96%E9%97%B4%2C%E4%B8%87%E5%8D%83%E7%B9%81%E5%8D%8E%E5%A7%8B%E5%BD%92%E5%B0%98%E3%80%82;Sighing%2C%20there%20is%20no%20spring%20cherry%20blossoms%20fleeting%3B%20pity%20the%20world%2C%20thousands%20of%20prosperity%20began%20to%20return%20to%20dust." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>生命的意义这件事，想必人类自己也不明白吧。</p>
-<p align="center"><b>🎯 English：</b>Perhaps human beings themselves do not understand the meaning of life.</p>
-<p align="center"><sub>— 雨天的艾莉丝</sub></p>
+<p align="center"><b>🎯 中文：</b>叹飘渺，莫过春樱转瞬逝；怜世间,万千繁华始归尘。</p>
+<p align="center"><b>🎯 English：</b>Sighing, there is no spring cherry blossoms fleeting; pity the world, thousands of prosperity began to return to dust.</p>
+<p align="center"><sub>— 绯弹的亚里亚</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
