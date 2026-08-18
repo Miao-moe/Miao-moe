@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=769a121c" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=6d6ed1b3" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=e36b" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=5f70" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E5%8F%B9%E9%A3%98%E6%B8%BA%EF%BC%8C%E8%8E%AB%E8%BF%87%E6%98%A5%E6%A8%B1%E8%BD%AC%E7%9E%AC%E9%80%9D%EF%BC%9B%E6%80%9C%E4%B8%96%E9%97%B4%2C%E4%B8%87%E5%8D%83%E7%B9%81%E5%8D%8E%E5%A7%8B%E5%BD%92%E5%B0%98%E3%80%82;Sighing%2C%20there%20is%20no%20spring%20cherry%20blossoms%20fleeting%3B%20pity%20the%20world%2C%20thousands%20of%20prosperity%20began%20to%20return%20to%20dust." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E6%88%91%E6%80%8E%E4%B9%88%E4%BC%9A%E7%9F%A5%E9%81%93%EF%BC%8C%E8%BF%99%E4%BA%9B%E7%89%A1%E8%9B%8E%E4%BA%A7%E8%87%AA%E5%93%AA%E4%B8%AA%E6%B5%B7%E5%B2%B8%E5%91%A2%EF%BC%9F;How%20do%20I%20know%20which%20coast%20these%20oysters%20come%20from%3F" alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>叹飘渺，莫过春樱转瞬逝；怜世间,万千繁华始归尘。</p>
-<p align="center"><b>🎯 English：</b>Sighing, there is no spring cherry blossoms fleeting; pity the world, thousands of prosperity began to return to dust.</p>
-<p align="center"><sub>— 绯弹的亚里亚</sub></p>
+<p align="center"><b>🎯 中文：</b>我怎么会知道，这些牡蛎产自哪个海岸呢？</p>
+<p align="center"><b>🎯 English：</b>How do I know which coast these oysters come from?</p>
+<p align="center"><sub>— 猎魔人Ⅴ：火之洗礼</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
