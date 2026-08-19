@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=6d6ed1b3" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=2028f1ad" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=5f70" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=f3f7" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E6%88%91%E6%80%8E%E4%B9%88%E4%BC%9A%E7%9F%A5%E9%81%93%EF%BC%8C%E8%BF%99%E4%BA%9B%E7%89%A1%E8%9B%8E%E4%BA%A7%E8%87%AA%E5%93%AA%E4%B8%AA%E6%B5%B7%E5%B2%B8%E5%91%A2%EF%BC%9F;How%20do%20I%20know%20which%20coast%20these%20oysters%20come%20from%3F" alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E8%AF%B7%E4%BD%A0%2C%E9%A9%AF%E5%85%BB%E6%88%91%E5%90%A7;Please%2C%20tame%20me" alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>我怎么会知道，这些牡蛎产自哪个海岸呢？</p>
-<p align="center"><b>🎯 English：</b>How do I know which coast these oysters come from?</p>
-<p align="center"><sub>— 猎魔人Ⅴ：火之洗礼</sub></p>
+<p align="center"><b>🎯 中文：</b>请你,驯养我吧</p>
+<p align="center"><b>🎯 English：</b>Please, tame me</p>
+<p align="center"><sub>— 小王子</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
