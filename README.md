@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=2028f1ad" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=2e06656c" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=f3f7" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=1d4a" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E8%AF%B7%E4%BD%A0%2C%E9%A9%AF%E5%85%BB%E6%88%91%E5%90%A7;Please%2C%20tame%20me" alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E8%BF%99%E6%98%AF%E8%AE%A1%E5%88%92%E7%9A%84%E4%B8%80%E9%83%A8%E5%88%86%E3%80%82;This%20is%20part%20of%20the%20plan." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>请你,驯养我吧</p>
-<p align="center"><b>🎯 English：</b>Please, tame me</p>
-<p align="center"><sub>— 小王子</sub></p>
+<p align="center"><b>🎯 中文：</b>这是计划的一部分。</p>
+<p align="center"><b>🎯 English：</b>This is part of the plan.</p>
+<p align="center"><sub>— 三体II</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
