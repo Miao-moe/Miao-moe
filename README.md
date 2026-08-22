@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=e3055d26" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=b47413cb" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=0b0d" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=7dd0" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E6%AD%A3%E4%B9%89%E4%B8%8D%E4%BC%9A%E5%9B%A0%E4%B8%BA%E6%97%A0%E4%BA%BA%E6%AD%8C%E9%A2%82%E8%80%8C%E5%8F%98%E6%88%90%E9%9D%9E%E8%AE%AE%E3%80%82;Justice%20does%20not%20become%20criticism%20because%20no%20one%20sings%20it." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E6%88%91%E4%BB%AC%E5%A5%8B%E5%8A%9B%E5%89%8D%E8%A1%8C%EF%BC%8C%E9%80%86%E6%B0%B4%E8%A1%8C%E8%88%9F%EF%BC%8C%E8%A2%AB%E4%B8%8D%E6%96%AD%E5%90%91%E5%90%8E%E6%8E%A8%EF%BC%8C%E7%9B%B4%E8%87%B3%E5%9B%9E%E5%88%B0%E5%BE%80%E6%98%94%E5%B2%81%E6%9C%88%E3%80%82;We%20fought%20hard%2C%20sailed%20against%20the%20water%2C%20and%20were%20pushed%20back%20until%20we%20returned%20to%20the%20past." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>正义不会因为无人歌颂而变成非议。</p>
-<p align="center"><b>🎯 English：</b>Justice does not become criticism because no one sings it.</p>
-<p align="center"><sub>— 阿亚罗克年代记</sub></p>
+<p align="center"><b>🎯 中文：</b>我们奋力前行，逆水行舟，被不断向后推，直至回到往昔岁月。</p>
+<p align="center"><b>🎯 English：</b>We fought hard, sailed against the water, and were pushed back until we returned to the past.</p>
+<p align="center"><sub>— 了不起的盖茨比</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
