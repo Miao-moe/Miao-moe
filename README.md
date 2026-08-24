@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=6a2918b6" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=cd4ecbd0" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=a4cd" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=a190" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E6%81%90%E6%83%A7%E6%84%8F%E5%91%B3%E7%9D%80%E2%80%9C%E8%BD%AF%E5%BC%B1%E2%80%9D%E3%80%82;Fear%20means%20%E2%80%9Cweakness.%E2%80%9D" alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E6%82%B2%E8%A7%82%E7%9A%84%E9%9D%A2%E5%AF%B9%E7%94%9F%E5%91%BD%EF%BC%8C%E4%B9%90%E8%A7%82%E7%9A%84%E9%9D%A2%E5%AF%B9%E7%94%9F%E6%B4%BB%E3%80%82;Face%20life%20pessimistically%2C%20face%20life%20optimistically." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>恐惧意味着“软弱”。</p>
-<p align="center"><b>🎯 English：</b>Fear means “weakness.”</p>
-<p align="center"><sub>— 秒速5厘米</sub></p>
+<p align="center"><b>🎯 中文：</b>悲观的面对生命，乐观的面对生活。</p>
+<p align="center"><b>🎯 English：</b>Face life pessimistically, face life optimistically.</p>
+<p align="center"><sub>— 张慧腾</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
