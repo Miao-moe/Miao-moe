@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=cd4ecbd0" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=0d6c1fb4" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=a190" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=f9e4" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E6%82%B2%E8%A7%82%E7%9A%84%E9%9D%A2%E5%AF%B9%E7%94%9F%E5%91%BD%EF%BC%8C%E4%B9%90%E8%A7%82%E7%9A%84%E9%9D%A2%E5%AF%B9%E7%94%9F%E6%B4%BB%E3%80%82;Face%20life%20pessimistically%2C%20face%20life%20optimistically." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E4%B8%80%E4%B8%AA%E4%BA%BA%E6%9C%89%E4%B8%A4%E4%B8%AA%E6%88%91%EF%BC%8C%E4%B8%80%E4%B8%AA%E5%9C%A8%E9%BB%91%E6%9A%97%E4%B8%AD%E9%86%92%E7%9D%80%EF%BC%8C%E4%B8%80%E4%B8%AA%E5%9C%A8%E5%85%89%E6%98%8E%E4%B8%AD%E7%9D%A1%E7%9D%80%E3%80%82;A%20person%20has%20two%20me%2C%20one%20awake%20in%20the%20dark%20and%20one%20asleep%20in%20the%20light." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>悲观的面对生命，乐观的面对生活。</p>
-<p align="center"><b>🎯 English：</b>Face life pessimistically, face life optimistically.</p>
-<p align="center"><sub>— 张慧腾</sub></p>
+<p align="center"><b>🎯 中文：</b>一个人有两个我，一个在黑暗中醒着，一个在光明中睡着。</p>
+<p align="center"><b>🎯 English：</b>A person has two me, one awake in the dark and one asleep in the light.</p>
+<p align="center"><sub>— 纪伯伦</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
