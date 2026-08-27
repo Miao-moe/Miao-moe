@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=b93ffb82" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=68c0cd19" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=47f9" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=9074" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E9%B8%9F%E6%84%BF%E4%B8%BA%E4%B8%80%E7%89%87%E4%BA%91%EF%BC%8C%E4%BA%91%E6%84%BF%E5%81%9A%E4%B8%80%E5%8F%AA%E9%B8%9F%E3%80%82;A%20bird%20wishes%20to%20be%20a%20cloud%2C%20and%20a%20cloud%20wishes%20to%20be%20a%20bird." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E6%88%91%E4%B8%80%E7%9B%B4%E4%BB%A5%E4%B8%BA%E4%BA%BA%E6%98%AF%E6%85%A2%E6%85%A2%E5%8F%98%E8%80%81%E7%9A%84%EF%BC%8C%E5%85%B6%E5%AE%9E%E4%B8%8D%E6%98%AF%EF%BC%8C%E4%BA%BA%E6%98%AF%E4%B8%80%E7%9E%AC%E9%97%B4%E5%8F%98%E8%80%81%E7%9A%84%E3%80%82;I%20always%20thought%20that%20people%20grow%20old%20slowly.%20In%20fact%2C%20they%20don%27t.%20People%20grow%20old%20in%20an%20instant." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>鸟愿为一片云，云愿做一只鸟。</p>
-<p align="center"><b>🎯 English：</b>A bird wishes to be a cloud, and a cloud wishes to be a bird.</p>
-<p align="center"><sub>— 飞鸟集</sub></p>
+<p align="center"><b>🎯 中文：</b>我一直以为人是慢慢变老的，其实不是，人是一瞬间变老的。</p>
+<p align="center"><b>🎯 English：</b>I always thought that people grow old slowly. In fact, they don't. People grow old in an instant.</p>
+<p align="center"><sub>— 舞！舞！舞！</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
