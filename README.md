@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=be259480" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=c90d324a" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=6905" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=384f" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E7%90%86%E6%99%BA%E4%B8%8D%E6%98%AF%E4%B8%80%E4%B8%AA%E7%BB%9F%E8%AE%A1%E5%AD%A6%E6%A6%82%E5%BF%B5%E3%80%82;Reason%20is%20not%20a%20statistical%20concept." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E8%BF%9C%E6%9C%9B%E5%A6%82%E6%A2%AF%E6%AD%A5%E6%AD%A5%E9%AB%98%EF%BC%8C%E8%BA%AB%E4%B8%B4%E8%B0%B7%E5%BA%95%E8%BF%9B%E5%B2%A9%E6%A7%BD%E3%80%82;From%20a%20distance%2C%20it%20is%20as%20high%20as%20a%20ladder%20and%20enters%20the%20rock%20groove%20at%20the%20bottom%20of%20the%20valley." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>理智不是一个统计学概念。</p>
-<p align="center"><b>🎯 English：</b>Reason is not a statistical concept.</p>
-<p align="center"><sub>— 1984</sub></p>
+<p align="center"><b>🎯 中文：</b>远望如梯步步高，身临谷底进岩槽。</p>
+<p align="center"><b>🎯 English：</b>From a distance, it is as high as a ladder and enters the rock groove at the bottom of the valley.</p>
+<p align="center"><sub>— 过三峡五级船闸</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
