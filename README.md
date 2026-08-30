@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=c90d324a" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=48342a1f" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=384f" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=d151" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E8%BF%9C%E6%9C%9B%E5%A6%82%E6%A2%AF%E6%AD%A5%E6%AD%A5%E9%AB%98%EF%BC%8C%E8%BA%AB%E4%B8%B4%E8%B0%B7%E5%BA%95%E8%BF%9B%E5%B2%A9%E6%A7%BD%E3%80%82;From%20a%20distance%2C%20it%20is%20as%20high%20as%20a%20ladder%20and%20enters%20the%20rock%20groove%20at%20the%20bottom%20of%20the%20valley." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E7%AC%91%E5%BE%97%E7%94%9C%E7%9A%84%E5%A5%B3%E4%BA%BA%EF%BC%8C%E5%B0%86%E6%9D%A5%E7%9A%84%E8%BF%90%E6%B0%94%E9%83%BD%E4%B8%8D%E4%BC%9A%E5%A4%AA%E5%9D%8F%E3%80%82;A%20woman%20who%20smiles%20sweetly%20can%27t%20be%20too%20unlucky%20in%20the%20future." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>远望如梯步步高，身临谷底进岩槽。</p>
-<p align="center"><b>🎯 English：</b>From a distance, it is as high as a ladder and enters the rock groove at the bottom of the valley.</p>
-<p align="center"><sub>— 过三峡五级船闸</sub></p>
+<p align="center"><b>🎯 中文：</b>笑得甜的女人，将来的运气都不会太坏。</p>
+<p align="center"><b>🎯 English：</b>A woman who smiles sweetly can't be too unlucky in the future.</p>
+<p align="center"><sub>— 大人物</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
