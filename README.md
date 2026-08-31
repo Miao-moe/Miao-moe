@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=48342a1f" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=fd782fc7" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=d151" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=2b69" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E7%AC%91%E5%BE%97%E7%94%9C%E7%9A%84%E5%A5%B3%E4%BA%BA%EF%BC%8C%E5%B0%86%E6%9D%A5%E7%9A%84%E8%BF%90%E6%B0%94%E9%83%BD%E4%B8%8D%E4%BC%9A%E5%A4%AA%E5%9D%8F%E3%80%82;A%20woman%20who%20smiles%20sweetly%20can%27t%20be%20too%20unlucky%20in%20the%20future." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E4%B8%BA%E9%81%87%E4%B8%80%E4%BA%BA%E8%80%8C%E5%85%A5%E7%BA%A2%E5%B0%98%EF%BC%8C%E4%BA%BA%E5%8E%BB%E6%88%91%E4%BA%A6%E5%8E%BB%EF%BC%8C%E6%AD%A4%E7%94%9F%E4%B8%8D%E7%95%99%E5%B0%98%E3%80%82;In%20order%20to%20meet%20one%20person%20and%20get%20into%20the%20red%20dust%2C%20if%20someone%20goes%2C%20I%20will%20go%20too%2C%20and%20there%20will%20be%20no%20dust%20in%20this%20life." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>笑得甜的女人，将来的运气都不会太坏。</p>
-<p align="center"><b>🎯 English：</b>A woman who smiles sweetly can't be too unlucky in the future.</p>
-<p align="center"><sub>— 大人物</sub></p>
+<p align="center"><b>🎯 中文：</b>为遇一人而入红尘，人去我亦去，此生不留尘。</p>
+<p align="center"><b>🎯 English：</b>In order to meet one person and get into the red dust, if someone goes, I will go too, and there will be no dust in this life.</p>
+<p align="center"><sub>— 魔道祖师</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
