@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=39fbbaa4" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=e2730519" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=f415" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=8399" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E5%BD%93%E6%88%91%E7%9A%84%E5%85%89%E6%9B%9D%E5%9C%A8%E4%BD%A0%E8%BA%AB%E4%B8%8A%EF%BC%8C%E9%87%8D%E9%80%A2%E5%B0%B1%E6%98%AF%E4%B8%80%E9%97%B4%E6%9A%97%E5%AE%A4%E3%80%82;When%20my%20light%20is%20exposed%20to%20you%2C%20the%20reunion%20is%20a%20dark%20room." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E6%97%B6%E9%97%B4%E4%B9%8B%E5%89%91%E6%96%A9%E4%B8%8D%E6%96%AD%E6%89%A7%E5%BF%B5%EF%BC%8C%E5%8D%B4%E8%83%BD%E6%96%A9%E7%81%AD%E7%A5%9E%E6%A0%BC%E3%80%82;The%20Sword%20of%20Time%20was%20constantly%20obsessed%2C%20but%20it%20could%20destroy%20the%20Divinity." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>当我的光曝在你身上，重逢就是一间暗室。</p>
-<p align="center"><b>🎯 English：</b>When my light is exposed to you, the reunion is a dark room.</p>
-<p align="center"><sub>— Kaili Blues</sub></p>
+<p align="center"><b>🎯 中文：</b>时间之剑斩不断执念，却能斩灭神格。</p>
+<p align="center"><b>🎯 English：</b>The Sword of Time was constantly obsessed, but it could destroy the Divinity.</p>
+<p align="center"><sub>— 我在精神病院学斩神</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
