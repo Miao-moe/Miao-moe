@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=e2730519" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=805be794" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=8399" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=62e0" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E6%97%B6%E9%97%B4%E4%B9%8B%E5%89%91%E6%96%A9%E4%B8%8D%E6%96%AD%E6%89%A7%E5%BF%B5%EF%BC%8C%E5%8D%B4%E8%83%BD%E6%96%A9%E7%81%AD%E7%A5%9E%E6%A0%BC%E3%80%82;The%20Sword%20of%20Time%20was%20constantly%20obsessed%2C%20but%20it%20could%20destroy%20the%20Divinity." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E8%99%9A%E7%A9%BA%EF%BC%8C%E5%AD%A4%E5%AF%82%E3%80%82;Void%2C%20lonely." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>时间之剑斩不断执念，却能斩灭神格。</p>
-<p align="center"><b>🎯 English：</b>The Sword of Time was constantly obsessed, but it could destroy the Divinity.</p>
-<p align="center"><sub>— 我在精神病院学斩神</sub></p>
+<p align="center"><b>🎯 中文：</b>虚空，孤寂。</p>
+<p align="center"><b>🎯 English：</b>Void, lonely.</p>
+<p align="center"><sub>— 原创</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
