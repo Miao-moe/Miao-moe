@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=805be794" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=fd466249" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=62e0" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=e814" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E8%99%9A%E7%A9%BA%EF%BC%8C%E5%AD%A4%E5%AF%82%E3%80%82;Void%2C%20lonely." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E4%B8%96%E7%95%8C%E4%BB%A5%E7%97%9B%E5%90%BB%E6%88%91%EF%BC%8C%E6%88%91%E5%8D%B4%E6%8A%A5%E4%B9%8B%E4%BB%A5%E6%AD%8C%E3%80%82;The%20world%20kissed%20me%20bitterly%2C%20but%20I%20sang%20it." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>虚空，孤寂。</p>
-<p align="center"><b>🎯 English：</b>Void, lonely.</p>
-<p align="center"><sub>— 原创</sub></p>
+<p align="center"><b>🎯 中文：</b>世界以痛吻我，我却报之以歌。</p>
+<p align="center"><b>🎯 English：</b>The world kissed me bitterly, but I sang it.</p>
+<p align="center"><sub>— 我有一座恐怖屋</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
