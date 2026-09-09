@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=65b0109f" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=200d6bcd" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=9459" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=e83f" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E4%B8%96%E7%95%8C%E4%BB%A5%E7%97%9B%E5%90%BB%E6%88%91%EF%BC%8C%E6%88%91%E5%8D%B4%E6%8A%A5%E4%B9%8B%E4%BB%A5%E6%AD%8C%E3%80%82;The%20world%20kissed%20me%20bitterly%2C%20but%20I%20sang%20it." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E4%B8%96%E4%B8%8A%E5%8F%AA%E6%9C%89%E4%B8%80%E7%A7%8D%E8%8B%B1%E9%9B%84%E4%B8%BB%E4%B9%89%EF%BC%8C%E9%82%A3%E5%B0%B1%E6%98%AF%E8%AE%A4%E6%B8%85%E7%94%9F%E6%B4%BB%E7%84%B6%E5%90%8E%E5%8E%BB%E7%83%AD%E7%88%B1%E7%94%9F%E6%B4%BB%E3%80%82;There%20is%20only%20one%20kind%20of%20heroism%20in%20the%20world%2C%20that%20is%2C%20to%20recognize%20life%20and%20then%20love%20life." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>世界以痛吻我，我却报之以歌。</p>
-<p align="center"><b>🎯 English：</b>The world kissed me bitterly, but I sang it.</p>
-<p align="center"><sub>— 我有一座恐怖屋</sub></p>
+<p align="center"><b>🎯 中文：</b>世上只有一种英雄主义，那就是认清生活然后去热爱生活。</p>
+<p align="center"><b>🎯 English：</b>There is only one kind of heroism in the world, that is, to recognize life and then love life.</p>
+<p align="center"><sub>— 米开朗基罗传</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
