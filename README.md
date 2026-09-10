@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=200d6bcd" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=17d63bea" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=e83f" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=7a32" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E4%B8%96%E4%B8%8A%E5%8F%AA%E6%9C%89%E4%B8%80%E7%A7%8D%E8%8B%B1%E9%9B%84%E4%B8%BB%E4%B9%89%EF%BC%8C%E9%82%A3%E5%B0%B1%E6%98%AF%E8%AE%A4%E6%B8%85%E7%94%9F%E6%B4%BB%E7%84%B6%E5%90%8E%E5%8E%BB%E7%83%AD%E7%88%B1%E7%94%9F%E6%B4%BB%E3%80%82;There%20is%20only%20one%20kind%20of%20heroism%20in%20the%20world%2C%20that%20is%2C%20to%20recognize%20life%20and%20then%20love%20life." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E7%94%9F%E5%91%BD%E5%A6%82%E5%90%8C%E5%AF%93%E8%A8%80%EF%BC%8C%E5%85%B6%E4%BB%B7%E5%80%BC%E4%B8%8D%E5%9C%A8%E4%B8%8E%E9%95%BF%E7%9F%AD%EF%BC%8C%E8%80%8C%E5%9C%A8%E4%B8%8E%E5%86%85%E5%AE%B9%E3%80%82;Life%20is%20like%20an%20allegory%2C%20its%20value%20is%20not%20in%20length%2C%20but%20in%20content." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>世上只有一种英雄主义，那就是认清生活然后去热爱生活。</p>
-<p align="center"><b>🎯 English：</b>There is only one kind of heroism in the world, that is, to recognize life and then love life.</p>
-<p align="center"><sub>— 米开朗基罗传</sub></p>
+<p align="center"><b>🎯 中文：</b>生命如同寓言，其价值不在与长短，而在与内容。</p>
+<p align="center"><b>🎯 English：</b>Life is like an allegory, its value is not in length, but in content.</p>
+<p align="center"><sub>— 塞涅卡</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
