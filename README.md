@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=17d63bea" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=648f39a4" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=7a32" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=713c" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E7%94%9F%E5%91%BD%E5%A6%82%E5%90%8C%E5%AF%93%E8%A8%80%EF%BC%8C%E5%85%B6%E4%BB%B7%E5%80%BC%E4%B8%8D%E5%9C%A8%E4%B8%8E%E9%95%BF%E7%9F%AD%EF%BC%8C%E8%80%8C%E5%9C%A8%E4%B8%8E%E5%86%85%E5%AE%B9%E3%80%82;Life%20is%20like%20an%20allegory%2C%20its%20value%20is%20not%20in%20length%2C%20but%20in%20content." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E5%88%80%E6%9C%AF%E4%B8%BB%E6%9D%80%EF%BC%8C%E6%AD%A4%E4%B8%BA%E6%9D%80%E6%88%AE%E4%B9%8B%E8%B7%AF%EF%BC%8C%E6%84%8F%E8%AF%86%E7%99%BE%E6%8A%98%E4%B8%8D%E6%8C%A0%EF%BC%8C%E5%BF%83%E5%A6%82%E7%A3%90%E7%9F%B3%E3%80%82;The%20blade%20spell%20master%20killed.%20This%20was%20the%20way%20to%20kill.%20His%20consciousness%20was%20unyielding%20and%20his%20heart%20was%20like%20a%20rock." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>生命如同寓言，其价值不在与长短，而在与内容。</p>
-<p align="center"><b>🎯 English：</b>Life is like an allegory, its value is not in length, but in content.</p>
-<p align="center"><sub>— 塞涅卡</sub></p>
+<p align="center"><b>🎯 中文：</b>刀术主杀，此为杀戮之路，意识百折不挠，心如磐石。</p>
+<p align="center"><b>🎯 English：</b>The blade spell master killed. This was the way to kill. His consciousness was unyielding and his heart was like a rock.</p>
+<p align="center"><sub>— 轮回乐园</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
