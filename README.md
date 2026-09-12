@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=648f39a4" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=41cd31d0" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=713c" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=4f67" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E5%88%80%E6%9C%AF%E4%B8%BB%E6%9D%80%EF%BC%8C%E6%AD%A4%E4%B8%BA%E6%9D%80%E6%88%AE%E4%B9%8B%E8%B7%AF%EF%BC%8C%E6%84%8F%E8%AF%86%E7%99%BE%E6%8A%98%E4%B8%8D%E6%8C%A0%EF%BC%8C%E5%BF%83%E5%A6%82%E7%A3%90%E7%9F%B3%E3%80%82;The%20blade%20spell%20master%20killed.%20This%20was%20the%20way%20to%20kill.%20His%20consciousness%20was%20unyielding%20and%20his%20heart%20was%20like%20a%20rock." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E4%B8%89%E7%99%BE%E5%80%8B%E6%97%A5%E5%A4%9C%E4%B9%8B%E5%A4%96%E7%9A%84%E5%A4%A7%E6%B5%B7%E8%AE%8A%E6%88%90%E4%BA%86%E7%81%AB%E3%80%82;Three%20hundred%20days%20and%20nights%20away%20the%20sea%20became%20a%20fire." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>刀术主杀，此为杀戮之路，意识百折不挠，心如磐石。</p>
-<p align="center"><b>🎯 English：</b>The blade spell master killed. This was the way to kill. His consciousness was unyielding and his heart was like a rock.</p>
-<p align="center"><sub>— 轮回乐园</sub></p>
+<p align="center"><b>🎯 中文：</b>三百個日夜之外的大海變成了火。</p>
+<p align="center"><b>🎯 English：</b>Three hundred days and nights away the sea became a fire.</p>
+<p align="center"><sub>— 文学作品</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
