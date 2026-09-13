@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=41cd31d0" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=feba079a" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=4f67" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=5f76" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E4%B8%89%E7%99%BE%E5%80%8B%E6%97%A5%E5%A4%9C%E4%B9%8B%E5%A4%96%E7%9A%84%E5%A4%A7%E6%B5%B7%E8%AE%8A%E6%88%90%E4%BA%86%E7%81%AB%E3%80%82;Three%20hundred%20days%20and%20nights%20away%20the%20sea%20became%20a%20fire." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E7%84%B6%E8%80%8C%EF%BC%8C%E5%A4%9C%E6%99%9A%E5%B0%86%E5%8C%85%E5%AE%B9%E4%B8%80%E5%88%87%EF%BC%8C%E6%9C%88%E5%85%89%E4%B9%9F%E5%B0%86%E4%B8%80%E5%A6%82%E5%BE%80%E5%B8%B8%E7%9A%84%E6%8C%A5%E6%B4%92%E5%9C%A8%E6%88%91%E4%BB%AC%E8%BA%AB%E4%B8%8A%E3%80%82;However%2C%20the%20night%20will%20be%20all-encompassing%20and%20the%20moonlight%20will%20shine%20on%20us%20as%20usual." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>三百個日夜之外的大海變成了火。</p>
-<p align="center"><b>🎯 English：</b>Three hundred days and nights away the sea became a fire.</p>
-<p align="center"><sub>— 文学作品</sub></p>
+<p align="center"><b>🎯 中文：</b>然而，夜晚将包容一切，月光也将一如往常的挥洒在我们身上。</p>
+<p align="center"><b>🎯 English：</b>However, the night will be all-encompassing and the moonlight will shine on us as usual.</p>
+<p align="center"><sub>— 文学少女</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
