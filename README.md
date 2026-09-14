@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=feba079a" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=194bb04b" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=5f76" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=8a3f" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E7%84%B6%E8%80%8C%EF%BC%8C%E5%A4%9C%E6%99%9A%E5%B0%86%E5%8C%85%E5%AE%B9%E4%B8%80%E5%88%87%EF%BC%8C%E6%9C%88%E5%85%89%E4%B9%9F%E5%B0%86%E4%B8%80%E5%A6%82%E5%BE%80%E5%B8%B8%E7%9A%84%E6%8C%A5%E6%B4%92%E5%9C%A8%E6%88%91%E4%BB%AC%E8%BA%AB%E4%B8%8A%E3%80%82;However%2C%20the%20night%20will%20be%20all-encompassing%20and%20the%20moonlight%20will%20shine%20on%20us%20as%20usual." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E5%AE%9E%E9%99%85%E4%B8%8A%E4%BB%96%E6%88%90%E5%8A%9F%E5%92%8C%E5%A4%B1%E8%B4%A5%E9%83%BD%E5%9B%A0%E4%B8%BA%E5%90%8C%E4%B8%80%E4%B8%AA%E5%8E%9F%E5%9B%A0%EF%BC%8C%E5%8D%B3%E7%BA%AF%E7%B2%B9%E7%9A%84%E3%80%81%E9%82%AA%E6%81%B6%E7%9A%84%E8%87%AA%E5%A4%A7%E3%80%82;In%20fact%2C%20he%20succeeded%20and%20failed%20for%20the%20same%20reason%2C%20that%20is%2C%20pure%2C%20evil%20arrogance." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>然而，夜晚将包容一切，月光也将一如往常的挥洒在我们身上。</p>
-<p align="center"><b>🎯 English：</b>However, the night will be all-encompassing and the moonlight will shine on us as usual.</p>
-<p align="center"><sub>— 文学少女</sub></p>
+<p align="center"><b>🎯 中文：</b>实际上他成功和失败都因为同一个原因，即纯粹的、邪恶的自大。</p>
+<p align="center"><b>🎯 English：</b>In fact, he succeeded and failed for the same reason, that is, pure, evil arrogance.</p>
+<p align="center"><sub>— 百年孤独</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
