@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=149330f3" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=75f6f0ac" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=c7ac" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=2f2e" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E5%A4%A7%E9%9A%90%E9%9A%90%E4%BA%8E%E5%B8%82%EF%BC%8C%E8%A6%81%E6%B8%85%E9%9D%99%E7%9C%81%E5%BF%83%EF%BC%8C%E8%87%AA%E5%B7%B1%E5%B0%B1%E5%BE%97%E7%A9%BA%E3%80%82;Great%20seclusion%20is%20hidden%20in%20the%20city%2C%20and%20if%20you%20want%20to%20be%20calm%20and%20relaxed%2C%20you%20will%20have%20to%20empty%20yourself." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E9%86%89%E7%AC%91%E9%99%AA%E5%90%9B%E4%B8%89%E5%8D%83%E5%9C%BA%EF%BC%8C%E4%B8%8D%E8%AF%89%E7%A6%BB%E6%AE%87%E3%80%82;Drunken%20laughter%20accompanied%20the%20monarch%20for%203%2C000%20games%2C%20and%20did%20not%20complain%20about%20leaving." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>大隐隐于市，要清静省心，自己就得空。</p>
-<p align="center"><b>🎯 English：</b>Great seclusion is hidden in the city, and if you want to be calm and relaxed, you will have to empty yourself.</p>
-<p align="center"><sub>— 三体I: 地球往事</sub></p>
+<p align="center"><b>🎯 中文：</b>醉笑陪君三千场，不诉离殇。</p>
+<p align="center"><b>🎯 English：</b>Drunken laughter accompanied the monarch for 3,000 games, and did not complain about leaving.</p>
+<p align="center"><sub>— 清醒纪</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
