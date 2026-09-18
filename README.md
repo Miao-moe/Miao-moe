@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=afa5d7aa" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=80d77d7f" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=ad97" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=dba6" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E9%A3%9E%E9%B8%9F%E4%B8%8D%E7%95%99%E7%97%95%EF%BC%8C%E4%BD%86%E6%88%91%E5%B7%B2%E9%A3%9E%E8%BF%87%E3%80%82;Birds%20don%27t%20leave%20marks%2C%20but%20I%27ve%20flown%20past." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E8%B5%B4%E6%AD%BB%E8%80%85%E5%90%91%E4%BD%A0%E8%87%B4%E6%95%AC%E3%80%82;To%20pay%20your%20respects%20to%20the%20dead." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>飞鸟不留痕，但我已飞过。</p>
-<p align="center"><b>🎯 English：</b>Birds don't leave marks, but I've flown past.</p>
-<p align="center"><sub>— 泰戈尔诗集</sub></p>
+<p align="center"><b>🎯 中文：</b>赴死者向你致敬。</p>
+<p align="center"><b>🎯 English：</b>To pay your respects to the dead.</p>
+<p align="center"><sub>— 拉丁语谚语</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
