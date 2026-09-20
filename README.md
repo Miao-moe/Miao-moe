@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=bda38e7d" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=6a60c9f0" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=33aa" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=f7c0" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E6%97%A0%E8%AE%BA%E5%AF%B9%E8%B0%81%E5%A4%AA%E8%BF%87%E7%83%AD%E6%83%85%EF%BC%8C%E5%B0%B1%E5%A2%9E%E5%8A%A0%E4%BA%86%E4%B8%8D%E8%A2%AB%E7%8F%8D%E6%83%9C%E7%9A%84%E6%A6%82%E7%8E%87%E3%80%82;Being%20too%20enthusiastic%20about%20anyone%20increases%20the%20likelihood%20of%20not%20being%20cherished." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E6%88%91%E6%97%A0%E5%9D%9A%E4%B8%8D%E6%91%A7%EF%BC%8C%E4%B9%9F%E6%97%A0%E6%89%80%E4%B8%8D%E8%83%BD%E3%80%82;I%20am%20indestructible%20and%20omnipotent." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>无论对谁太过热情，就增加了不被珍惜的概率。</p>
-<p align="center"><b>🎯 English：</b>Being too enthusiastic about anyone increases the likelihood of not being cherished.</p>
-<p align="center"><sub>— 人间失格</sub></p>
+<p align="center"><b>🎯 中文：</b>我无坚不摧，也无所不能。</p>
+<p align="center"><b>🎯 English：</b>I am indestructible and omnipotent.</p>
+<p align="center"><sub>— 某某</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
