@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=ae023850" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=988e13be" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=97a0" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=036a" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E6%84%BF%E6%9D%A5%E4%B8%96%EF%BC%8C%E4%BD%A0%E6%99%93%E5%A4%A9%EF%BC%8C%E6%99%93%E5%9C%B0%EF%BC%8C%E6%99%93%E6%98%9F%E5%B0%98%E3%80%82;May%20the%20afterlife%2C%20you%20know%20the%20heavens%2C%20the%20earth%2C%20and%20the%20stardust." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E8%8D%89%E9%95%BF%E8%8E%BA%E9%A3%9E%E6%85%B0%E8%97%89%E5%AD%A4%E5%8D%95%E7%9A%84%E6%AE%8B%E9%9B%AA%EF%BC%8C%E6%94%BE%E5%BC%80%E6%89%8B%E8%AE%A9%E5%AF%92%E5%86%B7%E8%83%86%E6%80%AF%E3%80%82;The%20grass%20warbler%20flew%20to%20comfort%20the%20lonely%20fractured%20snow%20and%20let%20go%20of%20his%20hands%20to%20make%20the%20cold%20timid." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>愿来世，你晓天，晓地，晓星尘。</p>
-<p align="center"><b>🎯 English：</b>May the afterlife, you know the heavens, the earth, and the stardust.</p>
-<p align="center"><sub>— 魔道祖师</sub></p>
+<p align="center"><b>🎯 中文：</b>草长莺飞慰藉孤单的残雪，放开手让寒冷胆怯。</p>
+<p align="center"><b>🎯 English：</b>The grass warbler flew to comfort the lonely fractured snow and let go of his hands to make the cold timid.</p>
+<p align="center"><sub>— 咏春</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
