@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=c8f798cc" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=33906877" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=2f94" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=cad0" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E6%97%B6%E9%97%B4%E8%83%BD%E6%B2%BB%E6%84%88%E4%B8%80%E5%88%87%EF%BC%8C%E8%AF%B7%E7%BB%99%E6%97%B6%E9%97%B4%E4%B8%80%E7%82%B9%E6%97%B6%E9%97%B4%E2%80%A6%E2%80%A6;Time%20can%20heal%20everything%2C%20please%20give%20it%20some%20time..." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E6%AF%8F%E4%B8%AA%E4%BA%BA%E9%83%BD%E5%9C%A8%E8%87%AA%E5%B7%B1%E7%9A%84%E7%94%9F%E5%91%BD%E4%B8%AD%E9%A2%91%E7%B9%81%E5%9C%B0%E6%8A%9B%E5%BC%83%E7%9D%80%E8%87%AA%E5%B7%B1%E7%9A%84%E8%BF%87%E5%8E%BB%E3%80%82;Everyone%20frequently%20throws%20away%20their%20past%20in%20their%20own%20lives." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>时间能治愈一切，请给时间一点时间……</p>
-<p align="center"><b>🎯 English：</b>Time can heal everything, please give it some time...</p>
-<p align="center"><sub>— 仿佛多年前</sub></p>
+<p align="center"><b>🎯 中文：</b>每个人都在自己的生命中频繁地抛弃着自己的过去。</p>
+<p align="center"><b>🎯 English：</b>Everyone frequently throws away their past in their own lives.</p>
+<p align="center"><sub>— 幽兰黛尔</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
