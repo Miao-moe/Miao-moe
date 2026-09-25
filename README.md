@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=33906877" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=8f7f855c" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=cad0" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=ca31" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E6%AF%8F%E4%B8%AA%E4%BA%BA%E9%83%BD%E5%9C%A8%E8%87%AA%E5%B7%B1%E7%9A%84%E7%94%9F%E5%91%BD%E4%B8%AD%E9%A2%91%E7%B9%81%E5%9C%B0%E6%8A%9B%E5%BC%83%E7%9D%80%E8%87%AA%E5%B7%B1%E7%9A%84%E8%BF%87%E5%8E%BB%E3%80%82;Everyone%20frequently%20throws%20away%20their%20past%20in%20their%20own%20lives." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E4%BD%A0%E6%88%91%E7%9B%B8%E9%80%A2%E5%9C%A8%E9%BB%91%E5%A4%9C%E7%9A%84%E6%B5%B7%E4%B8%8A%EF%BC%8C%E4%BD%A0%E6%9C%89%E4%BD%A0%E7%9A%84%EF%BC%8C%E6%88%91%E6%9C%89%E6%88%91%E7%9A%84%EF%BC%8C%E6%96%B9%E5%90%91%E3%80%82;You%20and%20I%20meet%20on%20the%20sea%20of%20night%2C%20you%20have%20yours%2C%20I%20have%20mine%2C%20direction." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>每个人都在自己的生命中频繁地抛弃着自己的过去。</p>
-<p align="center"><b>🎯 English：</b>Everyone frequently throws away their past in their own lives.</p>
-<p align="center"><sub>— 幽兰黛尔</sub></p>
+<p align="center"><b>🎯 中文：</b>你我相逢在黑夜的海上，你有你的，我有我的，方向。</p>
+<p align="center"><b>🎯 English：</b>You and I meet on the sea of night, you have yours, I have mine, direction.</p>
+<p align="center"><sub>— 偶然</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
