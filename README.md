@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=8f7f855c" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=afea1755" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=ca31" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=920a" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E4%BD%A0%E6%88%91%E7%9B%B8%E9%80%A2%E5%9C%A8%E9%BB%91%E5%A4%9C%E7%9A%84%E6%B5%B7%E4%B8%8A%EF%BC%8C%E4%BD%A0%E6%9C%89%E4%BD%A0%E7%9A%84%EF%BC%8C%E6%88%91%E6%9C%89%E6%88%91%E7%9A%84%EF%BC%8C%E6%96%B9%E5%90%91%E3%80%82;You%20and%20I%20meet%20on%20the%20sea%20of%20night%2C%20you%20have%20yours%2C%20I%20have%20mine%2C%20direction." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E5%81%87%E4%BD%9C%E7%9C%9F%E6%97%B6%E7%9C%9F%E4%BA%A6%E5%81%87%EF%BC%8C%E6%97%A0%E4%B8%BA%E6%9C%89%E5%A4%84%E6%9C%89%E8%BF%98%E6%97%A0%E3%80%82;%22When%20false%20is%20taken%20for%20true%2C%20true%20becomes%20false%3B%20If%20non-being%20turns%20into%20being%2C%20being%20becomes%20non-being." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>你我相逢在黑夜的海上，你有你的，我有我的，方向。</p>
-<p align="center"><b>🎯 English：</b>You and I meet on the sea of night, you have yours, I have mine, direction.</p>
-<p align="center"><sub>— 偶然</sub></p>
+<p align="center"><b>🎯 中文：</b>假作真时真亦假，无为有处有还无。</p>
+<p align="center"><b>🎯 English：</b>"When false is taken for true, true becomes false; If non-being turns into being, being becomes non-being.</p>
+<p align="center"><sub>— 红楼梦</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
