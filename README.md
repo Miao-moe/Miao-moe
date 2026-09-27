@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=afea1755" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=0ee996db" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=920a" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=e033" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E5%81%87%E4%BD%9C%E7%9C%9F%E6%97%B6%E7%9C%9F%E4%BA%A6%E5%81%87%EF%BC%8C%E6%97%A0%E4%B8%BA%E6%9C%89%E5%A4%84%E6%9C%89%E8%BF%98%E6%97%A0%E3%80%82;%22When%20false%20is%20taken%20for%20true%2C%20true%20becomes%20false%3B%20If%20non-being%20turns%20into%20being%2C%20being%20becomes%20non-being." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E4%B8%83%E5%B2%81%E6%96%AD%E6%8C%87%EF%BC%8C%E6%96%AD%E4%BA%86%E4%BB%96%E7%9A%84%E5%96%84%EF%BC%8C%E6%AD%BB%E5%89%8D%E6%96%AD%E8%87%82%EF%BC%8C%E6%96%AD%E4%BA%86%E4%BB%96%E7%9A%84%E6%81%B6%E3%80%82;Seven%20years%20old%20severed%20his%20finger%2C%20broke%20his%20good%2C%20broke%20his%20arm%20before%20death%2C%20broke%20his%20evil." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>假作真时真亦假，无为有处有还无。</p>
-<p align="center"><b>🎯 English：</b>"When false is taken for true, true becomes false; If non-being turns into being, being becomes non-being.</p>
-<p align="center"><sub>— 红楼梦</sub></p>
+<p align="center"><b>🎯 中文：</b>七岁断指，断了他的善，死前断臂，断了他的恶。</p>
+<p align="center"><b>🎯 English：</b>Seven years old severed his finger, broke his good, broke his arm before death, broke his evil.</p>
+<p align="center"><sub>— 魔道祖师</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
