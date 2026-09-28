@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=0ee996db" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=2dc746dd" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=e033" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=6922" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E4%B8%83%E5%B2%81%E6%96%AD%E6%8C%87%EF%BC%8C%E6%96%AD%E4%BA%86%E4%BB%96%E7%9A%84%E5%96%84%EF%BC%8C%E6%AD%BB%E5%89%8D%E6%96%AD%E8%87%82%EF%BC%8C%E6%96%AD%E4%BA%86%E4%BB%96%E7%9A%84%E6%81%B6%E3%80%82;Seven%20years%20old%20severed%20his%20finger%2C%20broke%20his%20good%2C%20broke%20his%20arm%20before%20death%2C%20broke%20his%20evil." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E5%B2%81%E6%9C%88%E6%AC%A2%E5%96%9C%E4%B8%80%E6%AD%A5%E6%AD%A5%EF%BC%8C%E6%88%90%E5%B0%B1%E4%BA%BA%E9%97%B4%E4%B8%8E%E6%9C%9D%E6%9A%AE%E3%80%82;The%20years%20are%20joyful%20step%20by%20step%2C%20and%20the%20world%20and%20dusk%20are%20achieved." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>七岁断指，断了他的善，死前断臂，断了他的恶。</p>
-<p align="center"><b>🎯 English：</b>Seven years old severed his finger, broke his good, broke his arm before death, broke his evil.</p>
-<p align="center"><sub>— 魔道祖师</sub></p>
+<p align="center"><b>🎯 中文：</b>岁月欢喜一步步，成就人间与朝暮。</p>
+<p align="center"><b>🎯 English：</b>The years are joyful step by step, and the world and dusk are achieved.</p>
+<p align="center"><sub>— 天光</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
