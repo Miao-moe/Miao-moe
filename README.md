@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=c6d7d72b" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=7922edd3" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=983e" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=cb6a" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E9%97%AD%E4%B8%8A%E4%BD%A0%E7%9A%84%E6%B7%B1%E9%82%83%E5%8F%8C%E7%9C%BC%E3%80%82%E9%82%A3%E9%87%8C%E5%A4%9C%E8%89%B2%E9%A3%98%E6%95%A3%E3%80%82;Close%20your%20deep%20eyes.The%20night%20was%20drifting%20there." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E4%BA%BA%E4%BB%AC%EF%BC%8C%E4%BD%A0%E4%BB%AC%E6%80%8E%E4%B9%88%E8%83%BD%E5%9B%A0%E4%B8%BA%E8%B4%AB%E7%A9%B7%EF%BC%8C%E5%B0%B1%E4%BB%A5%E7%89%A9%E9%81%AE%E7%9B%AE%EF%BC%8C%E8%80%8C%E5%8F%98%E5%8C%96%E5%BE%97%E5%A6%82%E6%AD%A4%E6%84%9A%E8%A0%A2%E5%91%A2%EF%BC%9F;People%2C%20how%20can%20you%20change%20so%20foolishly%20by%20covering%20your%20eyes%20with%20things%20because%20of%20poverty%3F" alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>闭上你的深邃双眼。那里夜色飘散。</p>
-<p align="center"><b>🎯 English：</b>Close your deep eyes.The night was drifting there.</p>
-<p align="center"><sub>— 二十首情诗和一支绝望的歌</sub></p>
+<p align="center"><b>🎯 中文：</b>人们，你们怎么能因为贫穷，就以物遮目，而变化得如此愚蠢呢？</p>
+<p align="center"><b>🎯 English：</b>People, how can you change so foolishly by covering your eyes with things because of poverty?</p>
+<p align="center"><sub>— 平凡的世界</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
