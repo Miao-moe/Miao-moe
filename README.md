@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=80c793fc" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=758a9b9c" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=5ba9" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=161f" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E6%9C%89%E4%BB%80%E4%B9%88%E8%83%9C%E5%88%A9%E5%8F%AF%E8%A8%80%EF%BC%8C%E6%8C%BA%E4%BD%8F%E6%84%8F%E5%91%B3%E7%9D%80%E4%B8%80%E5%88%87%E3%80%82;What%20a%20victory%2C%20holding%20on%20means%20everything." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E4%BA%BA%E4%BB%AC%E4%B9%8B%E6%89%80%E4%BB%A5%E4%BC%9A%E6%80%80%E5%BF%B5%E6%95%85%E4%B9%A1%EF%BC%8C%E6%98%AF%E5%9B%A0%E4%B8%BA%E5%BF%83%E7%88%B1%E7%9A%84%E4%BA%BA%E5%B0%B1%E5%9C%A8%E6%95%85%E4%B9%A1%E3%80%82;People%20miss%20their%20hometown%20because%20their%20loved%20ones%20are%20there." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>有什么胜利可言，挺住意味着一切。</p>
-<p align="center"><b>🎯 English：</b>What a victory, holding on means everything.</p>
-<p align="center"><sub>— 里尔克</sub></p>
+<p align="center"><b>🎯 中文：</b>人们之所以会怀念故乡，是因为心爱的人就在故乡。</p>
+<p align="center"><b>🎯 English：</b>People miss their hometown because their loved ones are there.</p>
+<p align="center"><sub>— 狼与香辛料</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
