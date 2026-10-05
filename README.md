@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=758a9b9c" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=3adf78c4" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=161f" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=c8ac" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E4%BA%BA%E4%BB%AC%E4%B9%8B%E6%89%80%E4%BB%A5%E4%BC%9A%E6%80%80%E5%BF%B5%E6%95%85%E4%B9%A1%EF%BC%8C%E6%98%AF%E5%9B%A0%E4%B8%BA%E5%BF%83%E7%88%B1%E7%9A%84%E4%BA%BA%E5%B0%B1%E5%9C%A8%E6%95%85%E4%B9%A1%E3%80%82;People%20miss%20their%20hometown%20because%20their%20loved%20ones%20are%20there." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E5%BE%AA%E6%AD%A4%E8%8B%A6%E6%97%85%EF%BC%8C%E7%9B%B4%E6%8A%B5%E7%BE%A4%E6%98%9F;Follow%20this%20bitter%20journey%20to%20the%20stars" alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>人们之所以会怀念故乡，是因为心爱的人就在故乡。</p>
-<p align="center"><b>🎯 English：</b>People miss their hometown because their loved ones are there.</p>
-<p align="center"><sub>— 狼与香辛料</sub></p>
+<p align="center"><b>🎯 中文：</b>循此苦旅，直抵群星</p>
+<p align="center"><b>🎯 English：</b>Follow this bitter journey to the stars</p>
+<p align="center"><sub>— SCP基金会</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
