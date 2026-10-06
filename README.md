@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=3adf78c4" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=12f3aaeb" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=c8ac" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=fca2" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E5%BE%AA%E6%AD%A4%E8%8B%A6%E6%97%85%EF%BC%8C%E7%9B%B4%E6%8A%B5%E7%BE%A4%E6%98%9F;Follow%20this%20bitter%20journey%20to%20the%20stars" alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E7%94%9F%E5%89%8D%E5%93%AA%E7%AE%A1%E8%BA%AB%E5%90%8E%E4%BA%8B%EF%BC%8C%E6%B5%AA%E5%BE%97%E5%87%A0%E6%97%A5%E6%98%AF%E5%87%A0%E6%97%A5%E3%80%82;Who%20cares%20about%20what%20happens%20afterwards%2C%20a%20few%20days%20is%20a%20few%20days." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>循此苦旅，直抵群星</p>
-<p align="center"><b>🎯 English：</b>Follow this bitter journey to the stars</p>
-<p align="center"><sub>— SCP基金会</sub></p>
+<p align="center"><b>🎯 中文：</b>生前哪管身后事，浪得几日是几日。</p>
+<p align="center"><b>🎯 English：</b>Who cares about what happens afterwards, a few days is a few days.</p>
+<p align="center"><sub>— 魔道祖师</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
