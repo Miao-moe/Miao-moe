@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=12f3aaeb" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=9f80fd94" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=fca2" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=ec55" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E7%94%9F%E5%89%8D%E5%93%AA%E7%AE%A1%E8%BA%AB%E5%90%8E%E4%BA%8B%EF%BC%8C%E6%B5%AA%E5%BE%97%E5%87%A0%E6%97%A5%E6%98%AF%E5%87%A0%E6%97%A5%E3%80%82;Who%20cares%20about%20what%20happens%20afterwards%2C%20a%20few%20days%20is%20a%20few%20days." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E4%B8%80%E6%97%A6%E4%BD%A0%E5%B0%9D%E8%AF%95%E8%BF%87%E5%A4%A9%E7%A9%BA%E7%9A%84%E5%91%B3%E9%81%93%EF%BC%8C%E4%BD%A0%E5%B0%B1%E4%BC%9A%E6%B0%B8%E8%BF%9C%E4%BB%B0%E6%9C%9B%E5%AE%83%E3%80%82;Once%20you%20have%20tried%20the%20taste%20of%20the%20sky%2C%20you%20will%20always%20look%20up%20at%20it." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>生前哪管身后事，浪得几日是几日。</p>
-<p align="center"><b>🎯 English：</b>Who cares about what happens afterwards, a few days is a few days.</p>
-<p align="center"><sub>— 魔道祖师</sub></p>
+<p align="center"><b>🎯 中文：</b>一旦你尝试过天空的味道，你就会永远仰望它。</p>
+<p align="center"><b>🎯 English：</b>Once you have tried the taste of the sky, you will always look up at it.</p>
+<p align="center"><sub>— 列奥纳多·达芬奇</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
