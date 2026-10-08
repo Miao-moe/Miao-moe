@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=9f80fd94" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=d220de94" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=ec55" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=cf35" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E4%B8%80%E6%97%A6%E4%BD%A0%E5%B0%9D%E8%AF%95%E8%BF%87%E5%A4%A9%E7%A9%BA%E7%9A%84%E5%91%B3%E9%81%93%EF%BC%8C%E4%BD%A0%E5%B0%B1%E4%BC%9A%E6%B0%B8%E8%BF%9C%E4%BB%B0%E6%9C%9B%E5%AE%83%E3%80%82;Once%20you%20have%20tried%20the%20taste%20of%20the%20sky%2C%20you%20will%20always%20look%20up%20at%20it." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E5%86%B2%E5%8A%A8%EF%BC%8C%E7%BB%9D%E4%B8%8D%E6%98%AF%E7%9C%9F%E6%AD%A3%E8%8B%B1%E9%9B%84%E7%9A%84%E6%80%A7%E6%A0%BC%E3%80%82;Impulsiveness%20is%20by%20no%20means%20a%20true%20hero%27s%20character." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>一旦你尝试过天空的味道，你就会永远仰望它。</p>
-<p align="center"><b>🎯 English：</b>Once you have tried the taste of the sky, you will always look up at it.</p>
-<p align="center"><sub>— 列奥纳多·达芬奇</sub></p>
+<p align="center"><b>🎯 中文：</b>冲动，绝不是真正英雄的性格。</p>
+<p align="center"><b>🎯 English：</b>Impulsiveness is by no means a true hero's character.</p>
+<p align="center"><sub>— 名言大全</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
