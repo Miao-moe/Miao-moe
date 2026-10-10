@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=aa618cba" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=f0a7e572" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=58c5" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=e8f1" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E6%88%91%E5%BE%88%E5%96%9C%E6%AC%A2%E4%BD%A0%EF%BC%8C%E4%BD%86%E4%BD%A0%E6%98%AF%E8%87%AA%E7%94%B1%E7%9A%84%E3%80%82;I%20like%20you%20very%20much%2C%20but%20you%20are%20free." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E5%87%A1%E5%89%8D%E5%91%BC%E5%90%8E%E6%8B%A5%E6%89%8D%E6%95%A2%E8%AF%B4%E8%AF%9D%E7%9A%84%E4%BA%BA%EF%BC%8C%E5%BF%83%E5%BA%95%E5%BF%85%E7%84%B6%E8%97%8F%E7%9D%80%E6%80%AF%E5%BC%B1%E3%80%82;Those%20who%20dared%20to%20speak%20before%20and%20after%2C%20must%20hide%20their%20weakness%20in%20their%20hearts." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>我很喜欢你，但你是自由的。</p>
-<p align="center"><b>🎯 English：</b>I like you very much, but you are free.</p>
-<p align="center"><sub>— 附加遗产</sub></p>
+<p align="center"><b>🎯 中文：</b>凡前呼后拥才敢说话的人，心底必然藏着怯弱。</p>
+<p align="center"><b>🎯 English：</b>Those who dared to speak before and after, must hide their weakness in their hearts.</p>
+<p align="center"><sub>— 龙族</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
