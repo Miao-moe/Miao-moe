@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=9390503b" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=8bd200c4" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=1f0b" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=9933" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E6%89%80%E8%B0%93%E4%B8%96%E4%BA%BA%EF%BC%8C%E4%B8%8D%E5%B0%B1%E6%98%AF%E4%BD%A0%E5%90%97%EF%BC%9F;The%20so-called%20world%2C%20isn%27t%20it%20you%3F" alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E8%B7%AF%E8%99%BD%E8%BF%9C%EF%BC%8C%E8%A1%8C%E5%88%99%E5%B0%86%E8%87%B3%EF%BC%9B%E4%BA%8B%E8%99%BD%E9%9A%BE%EF%BC%8C%E5%81%9A%E5%88%99%E5%BF%85%E6%88%90%E3%80%82;Although%20the%20road%20is%20far%20away%2C%20the%20line%20will%20come%3B%20although%20it%20is%20difficult%2C%20it%20will%20be%20done." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>所谓世人，不就是你吗？</p>
-<p align="center"><b>🎯 English：</b>The so-called world, isn't it you?</p>
-<p align="center"><sub>— 人间失格</sub></p>
+<p align="center"><b>🎯 中文：</b>路虽远，行则将至；事虽难，做则必成。</p>
+<p align="center"><b>🎯 English：</b>Although the road is far away, the line will come; although it is difficult, it will be done.</p>
+<p align="center"><sub>— 荀子</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
