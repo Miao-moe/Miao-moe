@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=8bd200c4" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=afc9bc7b" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=9933" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=f9c5" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E8%B7%AF%E8%99%BD%E8%BF%9C%EF%BC%8C%E8%A1%8C%E5%88%99%E5%B0%86%E8%87%B3%EF%BC%9B%E4%BA%8B%E8%99%BD%E9%9A%BE%EF%BC%8C%E5%81%9A%E5%88%99%E5%BF%85%E6%88%90%E3%80%82;Although%20the%20road%20is%20far%20away%2C%20the%20line%20will%20come%3B%20although%20it%20is%20difficult%2C%20it%20will%20be%20done." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E4%B8%89%E4%B8%AA%E4%BA%BA%E6%B2%90%E6%B5%B4%E5%9C%A8%E7%94%9F%E5%91%BD%E7%9A%84%E6%9A%B4%E9%9B%A8%E4%B9%8B%E4%B8%AD%EF%BC%8C%E6%84%9F%E5%8F%97%E7%9D%80%E5%9C%B0%E7%90%83%E7%94%9F%E5%91%BD%E7%9A%84%E5%B0%8A%E4%B8%A5%E3%80%82;Three%20people%20bathed%20in%20the%20torrential%20rain%20of%20life%2C%20feeling%20the%20dignity%20of%20life%20on%20Earth." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>路虽远，行则将至；事虽难，做则必成。</p>
-<p align="center"><b>🎯 English：</b>Although the road is far away, the line will come; although it is difficult, it will be done.</p>
-<p align="center"><sub>— 荀子</sub></p>
+<p align="center"><b>🎯 中文：</b>三个人沐浴在生命的暴雨之中，感受着地球生命的尊严。</p>
+<p align="center"><b>🎯 English：</b>Three people bathed in the torrential rain of life, feeling the dignity of life on Earth.</p>
+<p align="center"><sub>— 三体I: 地球往事</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
