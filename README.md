@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=afc9bc7b" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=2b061319" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=f9c5" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=fee5" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E4%B8%89%E4%B8%AA%E4%BA%BA%E6%B2%90%E6%B5%B4%E5%9C%A8%E7%94%9F%E5%91%BD%E7%9A%84%E6%9A%B4%E9%9B%A8%E4%B9%8B%E4%B8%AD%EF%BC%8C%E6%84%9F%E5%8F%97%E7%9D%80%E5%9C%B0%E7%90%83%E7%94%9F%E5%91%BD%E7%9A%84%E5%B0%8A%E4%B8%A5%E3%80%82;Three%20people%20bathed%20in%20the%20torrential%20rain%20of%20life%2C%20feeling%20the%20dignity%20of%20life%20on%20Earth." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E7%9C%9F%E5%AE%9E%E8%99%9A%E5%B9%BB%E4%B8%AD%EF%BC%8C%E5%9B%9E%E8%8D%A1%E7%9D%80%E6%97%A0%E5%B0%BD%E5%BA%8F%E7%AB%A0%EF%BC%8C%E5%A2%9F%E5%A2%93%E9%87%8C%EF%BC%8C%E8%BD%A8%E8%BF%B9%E5%9C%A8%E6%B5%AE%E7%8E%B0%E3%80%82;In%20the%20real%20illusion%2C%20the%20endless%20prelude%20echoed.%20In%20the%20ruin%20tomb%2C%20the%20trajectory%20was%20emerging." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>三个人沐浴在生命的暴雨之中，感受着地球生命的尊严。</p>
-<p align="center"><b>🎯 English：</b>Three people bathed in the torrential rain of life, feeling the dignity of life on Earth.</p>
-<p align="center"><sub>— 三体I: 地球往事</sub></p>
+<p align="center"><b>🎯 中文：</b>真实虚幻中，回荡着无尽序章，墟墓里，轨迹在浮现。</p>
+<p align="center"><b>🎯 English：</b>In the real illusion, the endless prelude echoed. In the ruin tomb, the trajectory was emerging.</p>
+<p align="center"><sub>— 盗墓笔记·无尽人间</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
