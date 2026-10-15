@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=2b061319" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=dfed0798" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=fee5" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=69fd" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E7%9C%9F%E5%AE%9E%E8%99%9A%E5%B9%BB%E4%B8%AD%EF%BC%8C%E5%9B%9E%E8%8D%A1%E7%9D%80%E6%97%A0%E5%B0%BD%E5%BA%8F%E7%AB%A0%EF%BC%8C%E5%A2%9F%E5%A2%93%E9%87%8C%EF%BC%8C%E8%BD%A8%E8%BF%B9%E5%9C%A8%E6%B5%AE%E7%8E%B0%E3%80%82;In%20the%20real%20illusion%2C%20the%20endless%20prelude%20echoed.%20In%20the%20ruin%20tomb%2C%20the%20trajectory%20was%20emerging." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E4%BD%A0...%E7%9C%9F%E6%98%AF%E6%9C%AC%E6%9C%AB%E5%80%92%E7%BD%AE%EF%BC%8C%E7%BD%94%E9%A1%BE%E4%BA%BA%E4%BC%A6%EF%BC%81;You...%20are%20really%20upside%20down%2C%20reckless%21" alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>真实虚幻中，回荡着无尽序章，墟墓里，轨迹在浮现。</p>
-<p align="center"><b>🎯 English：</b>In the real illusion, the endless prelude echoed. In the ruin tomb, the trajectory was emerging.</p>
-<p align="center"><sub>— 盗墓笔记·无尽人间</sub></p>
+<p align="center"><b>🎯 中文：</b>你...真是本末倒置，罔顾人伦！</p>
+<p align="center"><b>🎯 English：</b>You... are really upside down, reckless!</p>
+<p align="center"><sub>— 魔道祖师</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
