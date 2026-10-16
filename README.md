@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=dfed0798" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=eeb86346" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=69fd" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=8f9b" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E4%BD%A0...%E7%9C%9F%E6%98%AF%E6%9C%AC%E6%9C%AB%E5%80%92%E7%BD%AE%EF%BC%8C%E7%BD%94%E9%A1%BE%E4%BA%BA%E4%BC%A6%EF%BC%81;You...%20are%20really%20upside%20down%2C%20reckless%21" alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E5%B8%8C%E6%9C%9B%E8%BF%9F%E8%BF%9F%E4%B8%8D%E6%9D%A5%EF%BC%8C%E8%8B%A6%E6%AD%BB%E4%BA%86%E7%AD%89%E7%9A%84%E4%BA%BA%E3%80%82;Hoping%20that%20those%20who%20were%20belated%20and%20waiting%20would%20die." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>你...真是本末倒置，罔顾人伦！</p>
-<p align="center"><b>🎯 English：</b>You... are really upside down, reckless!</p>
-<p align="center"><sub>— 魔道祖师</sub></p>
+<p align="center"><b>🎯 中文：</b>希望迟迟不来，苦死了等的人。</p>
+<p align="center"><b>🎯 English：</b>Hoping that those who were belated and waiting would die.</p>
+<p align="center"><sub>— 等待戈多</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
