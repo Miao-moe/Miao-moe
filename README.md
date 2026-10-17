@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=eeb86346" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=a1288f97" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=8f9b" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=e189" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E5%B8%8C%E6%9C%9B%E8%BF%9F%E8%BF%9F%E4%B8%8D%E6%9D%A5%EF%BC%8C%E8%8B%A6%E6%AD%BB%E4%BA%86%E7%AD%89%E7%9A%84%E4%BA%BA%E3%80%82;Hoping%20that%20those%20who%20were%20belated%20and%20waiting%20would%20die." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E8%A7%81%E8%BF%87%E9%93%B6%E6%B2%B3%EF%BC%8C%E5%8F%AA%E6%83%B3%E8%A6%81%E4%BD%A0%E8%BF%99%E9%A2%97%E6%98%9F%E3%80%82;I%20have%20seen%20the%20Milky%20Way%20and%20only%20want%20your%20star." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>希望迟迟不来，苦死了等的人。</p>
-<p align="center"><b>🎯 English：</b>Hoping that those who were belated and waiting would die.</p>
-<p align="center"><sub>— 等待戈多</sub></p>
+<p align="center"><b>🎯 中文：</b>见过银河，只想要你这颗星。</p>
+<p align="center"><b>🎯 English：</b>I have seen the Milky Way and only want your star.</p>
+<p align="center"><sub>— 我已见过银河，却仍只爱你这一颗星</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
