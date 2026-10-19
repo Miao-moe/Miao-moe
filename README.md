@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=5ce3f4fe" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=4d9a901a" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=74d5" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=1763" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E8%BF%BD%E9%80%90%E5%BD%B1%E5%AD%90%E7%9A%84%E4%BA%BA%EF%BC%8C%E8%87%AA%E5%B7%B1%E5%B0%B1%E6%98%AF%E5%BD%B1%E5%AD%90%E3%80%82;Those%20who%20chase%20the%20shadows%20are%20the%20shadows%20themselves." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E4%B8%80%E6%98%9F%E9%99%A8%E8%90%BD%EF%BC%8C%E6%9A%97%E6%B7%A1%E4%B8%8D%E4%BA%86%E6%98%9F%E7%A9%BA%E7%81%BF%E7%83%82%EF%BC%9B%E4%B8%80%E8%8A%B1%E5%87%8B%E9%9B%B6%EF%BC%8C%E8%8D%92%E8%8A%9C%E4%B8%8D%E4%BA%86%E6%98%A5%E5%85%89%E6%BB%A1%E5%9B%AD%E3%80%82;A%20star%20fell%2C%20and%20the%20starry%20sky%20could%20not%20shine%20brightly%3B%20a%20flower%20withered%2C%20and%20the%20garden%20could%20not%20be%20filled%20with%20spring%20light." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>追逐影子的人，自己就是影子。</p>
-<p align="center"><b>🎯 English：</b>Those who chase the shadows are the shadows themselves.</p>
-<p align="center"><sub>— 荷马史诗</sub></p>
+<p align="center"><b>🎯 中文：</b>一星陨落，暗淡不了星空灿烂；一花凋零，荒芜不了春光满园。</p>
+<p align="center"><b>🎯 English：</b>A star fell, and the starry sky could not shine brightly; a flower withered, and the garden could not be filled with spring light.</p>
+<p align="center"><sub>— 直面苦难</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
