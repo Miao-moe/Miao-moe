@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=4d9a901a" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=a33650f1" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=1763" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=5711" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E4%B8%80%E6%98%9F%E9%99%A8%E8%90%BD%EF%BC%8C%E6%9A%97%E6%B7%A1%E4%B8%8D%E4%BA%86%E6%98%9F%E7%A9%BA%E7%81%BF%E7%83%82%EF%BC%9B%E4%B8%80%E8%8A%B1%E5%87%8B%E9%9B%B6%EF%BC%8C%E8%8D%92%E8%8A%9C%E4%B8%8D%E4%BA%86%E6%98%A5%E5%85%89%E6%BB%A1%E5%9B%AD%E3%80%82;A%20star%20fell%2C%20and%20the%20starry%20sky%20could%20not%20shine%20brightly%3B%20a%20flower%20withered%2C%20and%20the%20garden%20could%20not%20be%20filled%20with%20spring%20light." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E5%B1%B1%E5%B7%9D%E4%BF%A1%E7%BE%8E%E9%9D%9E%E5%90%BE%E5%9C%9F%EF%BC%8C%E6%BC%82%E6%B3%8A%E5%A4%A9%E6%B6%AF%E8%83%A1%E4%B8%8D%E5%BD%92%E3%80%82;Shanchuan%20Shinmei%20is%20not%20my%20land%2C%20and%20the%20end%20of%20the%20wandering%20world%20is%20irrevocable." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>一星陨落，暗淡不了星空灿烂；一花凋零，荒芜不了春光满园。</p>
-<p align="center"><b>🎯 English：</b>A star fell, and the starry sky could not shine brightly; a flower withered, and the garden could not be filled with spring light.</p>
-<p align="center"><sub>— 直面苦难</sub></p>
+<p align="center"><b>🎯 中文：</b>山川信美非吾土，漂泊天涯胡不归。</p>
+<p align="center"><b>🎯 English：</b>Shanchuan Shinmei is not my land, and the end of the wandering world is irrevocable.</p>
+<p align="center"><sub>— 留德十年</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
