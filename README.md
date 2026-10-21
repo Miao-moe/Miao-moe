@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=a33650f1" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=0298c267" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=5711" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=5b69" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E5%B1%B1%E5%B7%9D%E4%BF%A1%E7%BE%8E%E9%9D%9E%E5%90%BE%E5%9C%9F%EF%BC%8C%E6%BC%82%E6%B3%8A%E5%A4%A9%E6%B6%AF%E8%83%A1%E4%B8%8D%E5%BD%92%E3%80%82;Shanchuan%20Shinmei%20is%20not%20my%20land%2C%20and%20the%20end%20of%20the%20wandering%20world%20is%20irrevocable." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E6%88%96%E8%AE%B8%E4%BD%A0%E5%B7%B2%E7%BB%8F%E4%B8%8D%E8%AE%B0%E5%BE%97%E4%BA%86%EF%BC%8C%E4%BD%A0%E5%85%B6%E5%AE%9E%E8%B7%9F%E7%A6%BB%E5%BC%80%E7%9A%84%E4%BA%BA%E5%A5%BD%E5%A5%BD%E9%81%93%E8%BF%87%E5%88%AB%EF%BC%8C%E4%B8%8E%E6%9F%90%E4%B8%AA%E9%95%BF%E5%A4%9C%E3%80%82;Perhaps%20you%20don%27t%20remember%2C%20in%20fact%2C%20you%20have%20said%20goodbye%20to%20the%20person%20who%20left%2C%20and%20have%20a%20long%20night." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>山川信美非吾土，漂泊天涯胡不归。</p>
-<p align="center"><b>🎯 English：</b>Shanchuan Shinmei is not my land, and the end of the wandering world is irrevocable.</p>
-<p align="center"><sub>— 留德十年</sub></p>
+<p align="center"><b>🎯 中文：</b>或许你已经不记得了，你其实跟离开的人好好道过别，与某个长夜。</p>
+<p align="center"><b>🎯 English：</b>Perhaps you don't remember, in fact, you have said goodbye to the person who left, and have a long night.</p>
+<p align="center"><sub>— 判官</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
