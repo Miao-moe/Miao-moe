@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=abced2d3" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=897166a9" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=4b8e" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=8595" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E7%9C%9F%E6%AD%A3%E7%9A%84%E6%96%87%E5%AD%A6%E6%98%AF%E5%AF%B9%E7%94%9F%E5%91%BD%E7%9A%84%E7%9C%9F%E8%AF%9A%EF%BC%8C%E8%80%8C%E4%B8%8D%E4%BB%85%E4%BB%85%E6%98%AF%E8%BE%9E%E8%97%BB%E3%80%82;True%20literature%20is%20the%20sincerity%20of%20life%2C%20not%20just%20rhetoric." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E4%B8%8D%E7%9F%A5%E6%B8%A1%E4%BA%BA%EF%BC%8C%E4%BD%95%E4%BB%A5%E6%B8%A1%E5%B7%B1%E3%80%82;I%20don%27t%20know%20why%20he%20crossed%20over." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>真正的文学是对生命的真诚，而不仅仅是辞藻。</p>
-<p align="center"><b>🎯 English：</b>True literature is the sincerity of life, not just rhetoric.</p>
-<p align="center"><sub>— 吉檀迦利</sub></p>
+<p align="center"><b>🎯 中文：</b>不知渡人，何以渡己。</p>
+<p align="center"><b>🎯 English：</b>I don't know why he crossed over.</p>
+<p align="center"><sub>— 二哈和他的白猫师尊</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
