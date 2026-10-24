@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=897166a9" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=9fd3e809" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=8595" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=1000" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E4%B8%8D%E7%9F%A5%E6%B8%A1%E4%BA%BA%EF%BC%8C%E4%BD%95%E4%BB%A5%E6%B8%A1%E5%B7%B1%E3%80%82;I%20don%27t%20know%20why%20he%20crossed%20over." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E7%94%9F%E5%91%BD%E7%9A%84%E6%84%8F%E4%B9%89%E8%BF%99%E4%BB%B6%E4%BA%8B%EF%BC%8C%E6%83%B3%E5%BF%85%E4%BA%BA%E7%B1%BB%E8%87%AA%E5%B7%B1%E4%B9%9F%E4%B8%8D%E6%98%8E%E7%99%BD%E5%90%A7%E3%80%82;Perhaps%20human%20beings%20themselves%20do%20not%20understand%20the%20meaning%20of%20life." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>不知渡人，何以渡己。</p>
-<p align="center"><b>🎯 English：</b>I don't know why he crossed over.</p>
-<p align="center"><sub>— 二哈和他的白猫师尊</sub></p>
+<p align="center"><b>🎯 中文：</b>生命的意义这件事，想必人类自己也不明白吧。</p>
+<p align="center"><b>🎯 English：</b>Perhaps human beings themselves do not understand the meaning of life.</p>
+<p align="center"><sub>— 雨天的艾莉丝</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
