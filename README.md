@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=6f79e1cd" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=599391f1" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=49ce" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=1b74" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E6%84%BF%E6%9D%A5%E4%B8%96%EF%BC%8C%E4%BD%A0%E6%99%93%E5%A4%A9%EF%BC%8C%E6%99%93%E5%9C%B0%EF%BC%8C%E6%99%93%E6%98%9F%E5%B0%98%E3%80%82;May%20the%20afterlife%2C%20you%20know%20the%20heavens%2C%20the%20earth%2C%20and%20the%20stardust." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E8%8A%B1%E8%B8%8C%E8%BA%87%E6%9F%B3%E8%BD%BB%E5%8F%B9%E6%95%A2%E9%97%AE%E6%83%85%E4%BD%95%E4%BB%A5%E5%A0%AA%EF%BC%8C%E5%BE%92%E4%BC%A4%E6%82%B2%E9%9D%92%E6%98%A5%E5%B9%B4%E6%9C%88%E3%80%82;Hua%20Yi%20Liu%20gently%20sighed%20and%20dared%20to%20ask%20why%20he%20was%20so%20happy%2C%20sad%20and%20sad%20about%20his%20youth." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>愿来世，你晓天，晓地，晓星尘。</p>
-<p align="center"><b>🎯 English：</b>May the afterlife, you know the heavens, the earth, and the stardust.</p>
-<p align="center"><sub>— 魔道祖师</sub></p>
+<p align="center"><b>🎯 中文：</b>花踌躇柳轻叹敢问情何以堪，徒伤悲青春年月。</p>
+<p align="center"><b>🎯 English：</b>Hua Yi Liu gently sighed and dared to ask why he was so happy, sad and sad about his youth.</p>
+<p align="center"><sub>— 咏春</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
