@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=599391f1" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=0348d5bf" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=1b74" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=ca4f" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E8%8A%B1%E8%B8%8C%E8%BA%87%E6%9F%B3%E8%BD%BB%E5%8F%B9%E6%95%A2%E9%97%AE%E6%83%85%E4%BD%95%E4%BB%A5%E5%A0%AA%EF%BC%8C%E5%BE%92%E4%BC%A4%E6%82%B2%E9%9D%92%E6%98%A5%E5%B9%B4%E6%9C%88%E3%80%82;Hua%20Yi%20Liu%20gently%20sighed%20and%20dared%20to%20ask%20why%20he%20was%20so%20happy%2C%20sad%20and%20sad%20about%20his%20youth." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E4%BB%A5%E6%A2%A6%E4%B8%BA%E9%A9%AC%EF%BC%8C%E4%BB%A5%E6%B1%97%E4%B8%BA%E6%B3%89%EF%BC%9B%E4%B8%8D%E5%BF%98%E5%88%9D%E5%BF%83%20%EF%BC%8C%E4%B8%8D%E8%B4%9F%E9%9F%B6%E5%8D%8E%E3%80%82;Dreams%20as%20horses%20and%20sweat%20as%20fountains%3B%20do%20not%20forget%20the%20original%20heart%20and%20live%20up%20to%20Shaohua." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>花踌躇柳轻叹敢问情何以堪，徒伤悲青春年月。</p>
-<p align="center"><b>🎯 English：</b>Hua Yi Liu gently sighed and dared to ask why he was so happy, sad and sad about his youth.</p>
-<p align="center"><sub>— 咏春</sub></p>
+<p align="center"><b>🎯 中文：</b>以梦为马，以汗为泉；不忘初心 ，不负韶华。</p>
+<p align="center"><b>🎯 English：</b>Dreams as horses and sweat as fountains; do not forget the original heart and live up to Shaohua.</p>
+<p align="center"><sub>— 以梦为马</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
