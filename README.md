@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=06535697" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=47124742" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=381e" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=6e34" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E8%88%B9%E5%A4%AB%E8%99%BD%E7%9C%8B%E4%B8%8D%E8%A7%81%E6%B0%B4%E9%87%8C%E7%9A%84%E9%B1%BC%E7%BE%A4%EF%BC%8C%E5%8D%B4%E5%8F%AF%E4%BB%A5%E7%94%A8%E8%87%AA%E5%B7%B1%E7%9A%84%E7%BD%91%E6%89%93%E6%8D%9E%E4%B8%B0%E6%94%B6%EF%BC%8C%E8%80%8C%E9%9D%9E%E8%8B%8D%E7%99%BD%E3%80%82;Although%20the%20boatman%20could%20not%20see%20the%20fish%20in%20the%20water%2C%20he%20could%20salvage%20the%20harvest%20with%20his%20own%20net%20instead%20of%20pale." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E5%A6%82%E6%9E%9C%E4%BD%A0%E6%B2%89%E6%B9%8E%E8%99%9A%E6%97%A0%EF%BC%8C%E9%82%A3%E5%BE%80%E5%BE%80%E5%8F%AA%E8%83%BD%E6%8D%A2%E6%9D%A5%E8%99%9A%E6%97%A0%E3%80%82;If%20you%20indulge%20in%20nothingness%2C%20then%20often%20nothingness%20can%20only%20be%20exchanged%20for%20nothingness." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>船夫虽看不见水里的鱼群，却可以用自己的网打捞丰收，而非苍白。</p>
-<p align="center"><b>🎯 English：</b>Although the boatman could not see the fish in the water, he could salvage the harvest with his own net instead of pale.</p>
-<p align="center"><sub>— 趁着雾霾出海</sub></p>
+<p align="center"><b>🎯 中文：</b>如果你沉湎虚无，那往往只能换来虚无。</p>
+<p align="center"><b>🎯 English：</b>If you indulge in nothingness, then often nothingness can only be exchanged for nothingness.</p>
+<p align="center"><sub>— 绿灯</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
