@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=47124742" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=362032ca" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=6e34" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=300f" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E5%A6%82%E6%9E%9C%E4%BD%A0%E6%B2%89%E6%B9%8E%E8%99%9A%E6%97%A0%EF%BC%8C%E9%82%A3%E5%BE%80%E5%BE%80%E5%8F%AA%E8%83%BD%E6%8D%A2%E6%9D%A5%E8%99%9A%E6%97%A0%E3%80%82;If%20you%20indulge%20in%20nothingness%2C%20then%20often%20nothingness%20can%20only%20be%20exchanged%20for%20nothingness." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E4%B8%BA%E4%BD%A0%E6%88%98%E6%AD%BB%E6%98%AF%E6%88%91%E8%87%B3%E9%AB%98%E6%97%A0%E4%B8%8A%E7%9A%84%E8%8D%A3%E8%80%80%E3%80%82;Fighting%20for%20you%20is%20my%20supreme%20honor." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>如果你沉湎虚无，那往往只能换来虚无。</p>
-<p align="center"><b>🎯 English：</b>If you indulge in nothingness, then often nothingness can only be exchanged for nothingness.</p>
-<p align="center"><sub>— 绿灯</sub></p>
+<p align="center"><b>🎯 中文：</b>为你战死是我至高无上的荣耀。</p>
+<p align="center"><b>🎯 English：</b>Fighting for you is my supreme honor.</p>
+<p align="center"><sub>— 天官赐福</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
