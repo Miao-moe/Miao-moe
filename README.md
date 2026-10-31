@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=362032ca" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=9d487798" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=300f" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=2ec6" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E4%B8%BA%E4%BD%A0%E6%88%98%E6%AD%BB%E6%98%AF%E6%88%91%E8%87%B3%E9%AB%98%E6%97%A0%E4%B8%8A%E7%9A%84%E8%8D%A3%E8%80%80%E3%80%82;Fighting%20for%20you%20is%20my%20supreme%20honor." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E5%AE%81%E9%B8%A3%E8%80%8C%E6%AD%BB%EF%BC%8C%E4%B8%8D%E9%BB%98%E8%80%8C%E7%94%9F%E3%80%82;Ning%20Ming%20died%20and%20lived%20in%20silence." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>为你战死是我至高无上的荣耀。</p>
-<p align="center"><b>🎯 English：</b>Fighting for you is my supreme honor.</p>
-<p align="center"><sub>— 天官赐福</sub></p>
+<p align="center"><b>🎯 中文：</b>宁鸣而死，不默而生。</p>
+<p align="center"><b>🎯 English：</b>Ning Ming died and lived in silence.</p>
+<p align="center"><sub>— 《灵乌赋》</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
