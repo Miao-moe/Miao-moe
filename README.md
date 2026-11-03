@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=0cf3c2da" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=68d6766b" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=f09e" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=b83a" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E9%86%92%E6%9D%A5%EF%BC%8C%E6%96%B9%E7%9F%A5%E6%98%AF%E6%A2%A6%EF%BC%8C%E5%A4%A9%E8%89%B2%E5%B9%BD%E5%B9%BD%EF%BC%8C%E6%80%85%E7%84%B6%E4%B8%8D%E5%B7%B2%E3%80%82;When%20he%20woke%20up%2C%20Fang%20knew%20that%20it%20was%20a%20dream%2C%20and%20the%20sky%20was%20faint%20and%20faint." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E8%8B%A5%E5%86%8D%E8%AE%B8%E6%88%91%E5%B0%91%E5%B9%B4%E6%97%B6%EF%BC%8C%E4%B8%80%E4%B8%A4%E9%BB%84%E9%87%91%E4%B8%80%E4%B8%A4%E9%A3%8E%E3%80%82;If%20I%27m%20allowed%20to%20be%20a%20teenager%20again%2C%20one%20or%20two%20gold%20and%20one%20or%20two%20winds." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>醒来，方知是梦，天色幽幽，怅然不已。</p>
-<p align="center"><b>🎯 English：</b>When he woke up, Fang knew that it was a dream, and the sky was faint and faint.</p>
-<p align="center"><sub>— 目送</sub></p>
+<p align="center"><b>🎯 中文：</b>若再许我少年时，一两黄金一两风。</p>
+<p align="center"><b>🎯 English：</b>If I'm allowed to be a teenager again, one or two gold and one or two winds.</p>
+<p align="center"><sub>— 夜的命名术</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
