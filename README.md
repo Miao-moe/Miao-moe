@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=4a19c975" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=71ca0537" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=ce1f" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=6f2e" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E4%BD%A0%E4%B8%80%E4%B8%96%EF%BC%8C%E6%88%91%E4%B8%80%E4%B8%96%EF%BC%8C%E8%A6%81%E4%B9%85%E8%A6%81%E4%B9%85%EF%BC%8C%E4%B8%8D%E8%A6%81%E7%A6%BB%EF%BC%81;Your%20life%2C%20my%20life%2C%20will%20take%20a%20long%20time%2C%20don%27t%20leave%21" alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E5%BE%88%E5%A4%9A%E4%BA%BA%E5%9C%A8%E5%96%A7%E5%9A%A3%E5%A3%B0%E4%B8%AD%E7%99%BB%E5%9C%BA%EF%BC%8C%E4%B9%9F%E6%9C%89%E5%B0%91%E6%95%B0%E4%BA%BA%E5%9C%A8%E9%9D%99%E9%BB%98%E4%B8%AD%E9%80%80%E5%87%BA%E3%80%82;Many%20made%20appearances%20in%20the%20hustle%20and%20bustle%2C%20and%20a%20few%20quit%20in%20the%20silence." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>你一世，我一世，要久要久，不要离！</p>
-<p align="center"><b>🎯 English：</b>Your life, my life, will take a long time, don't leave!</p>
-<p align="center"><sub>— 田所浩二</sub></p>
+<p align="center"><b>🎯 中文：</b>很多人在喧嚣声中登场，也有少数人在静默中退出。</p>
+<p align="center"><b>🎯 English：</b>Many made appearances in the hustle and bustle, and a few quit in the silence.</p>
+<p align="center"><sub>— 单独中的洞见2，作家出版社</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
