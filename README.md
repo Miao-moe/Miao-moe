@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=71ca0537" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=65bc9028" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=6f2e" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=03e2" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E5%BE%88%E5%A4%9A%E4%BA%BA%E5%9C%A8%E5%96%A7%E5%9A%A3%E5%A3%B0%E4%B8%AD%E7%99%BB%E5%9C%BA%EF%BC%8C%E4%B9%9F%E6%9C%89%E5%B0%91%E6%95%B0%E4%BA%BA%E5%9C%A8%E9%9D%99%E9%BB%98%E4%B8%AD%E9%80%80%E5%87%BA%E3%80%82;Many%20made%20appearances%20in%20the%20hustle%20and%20bustle%2C%20and%20a%20few%20quit%20in%20the%20silence." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E5%87%A1%E5%89%8D%E5%91%BC%E5%90%8E%E6%8B%A5%E6%89%8D%E6%95%A2%E8%AF%B4%E8%AF%9D%E7%9A%84%E4%BA%BA%EF%BC%8C%E5%BF%83%E5%BA%95%E5%BF%85%E7%84%B6%E8%97%8F%E7%9D%80%E6%80%AF%E5%BC%B1%E3%80%82;Those%20who%20dared%20to%20speak%20before%20and%20after%2C%20must%20hide%20their%20weakness%20in%20their%20hearts." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>很多人在喧嚣声中登场，也有少数人在静默中退出。</p>
-<p align="center"><b>🎯 English：</b>Many made appearances in the hustle and bustle, and a few quit in the silence.</p>
-<p align="center"><sub>— 单独中的洞见2，作家出版社</sub></p>
+<p align="center"><b>🎯 中文：</b>凡前呼后拥才敢说话的人，心底必然藏着怯弱。</p>
+<p align="center"><b>🎯 English：</b>Those who dared to speak before and after, must hide their weakness in their hearts.</p>
+<p align="center"><sub>— 龙族</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
