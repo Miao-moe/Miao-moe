@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=65bc9028" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=12ae1388" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=03e2" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=ce20" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E5%87%A1%E5%89%8D%E5%91%BC%E5%90%8E%E6%8B%A5%E6%89%8D%E6%95%A2%E8%AF%B4%E8%AF%9D%E7%9A%84%E4%BA%BA%EF%BC%8C%E5%BF%83%E5%BA%95%E5%BF%85%E7%84%B6%E8%97%8F%E7%9D%80%E6%80%AF%E5%BC%B1%E3%80%82;Those%20who%20dared%20to%20speak%20before%20and%20after%2C%20must%20hide%20their%20weakness%20in%20their%20hearts." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E6%8C%BD%E7%8B%82%E6%BE%9C%E4%BA%8E%E6%97%A2%E5%80%92%EF%BC%8C%E6%89%B6%E5%A4%A7%E5%8E%A6%E4%B9%8B%E5%B0%86%E5%80%BE%E3%80%82;Turning%20the%20madness%20upside%20down%2C%20supporting%20the%20building%20will%20be%20tilted." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>凡前呼后拥才敢说话的人，心底必然藏着怯弱。</p>
-<p align="center"><b>🎯 English：</b>Those who dared to speak before and after, must hide their weakness in their hearts.</p>
-<p align="center"><sub>— 龙族</sub></p>
+<p align="center"><b>🎯 中文：</b>挽狂澜于既倒，扶大厦之将倾。</p>
+<p align="center"><b>🎯 English：</b>Turning the madness upside down, supporting the building will be tilted.</p>
+<p align="center"><sub>— 文天祥千秋祭</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
