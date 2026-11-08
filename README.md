@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=12ae1388" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=1057ef34" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=ce20" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=06e0" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E6%8C%BD%E7%8B%82%E6%BE%9C%E4%BA%8E%E6%97%A2%E5%80%92%EF%BC%8C%E6%89%B6%E5%A4%A7%E5%8E%A6%E4%B9%8B%E5%B0%86%E5%80%BE%E3%80%82;Turning%20the%20madness%20upside%20down%2C%20supporting%20the%20building%20will%20be%20tilted." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E8%AE%A9%E7%BE%8E%E4%B8%BD%E7%9A%84%E5%A4%9C%E7%A9%BA%E5%B8%A6%E6%88%91%E4%BB%AC%E8%B8%8F%E8%BF%87%E5%B9%B3%E5%BA%B8%E3%80%82;Let%20the%20beautiful%20night%20sky%20take%20us%20through%20the%20mediocrity." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>挽狂澜于既倒，扶大厦之将倾。</p>
-<p align="center"><b>🎯 English：</b>Turning the madness upside down, supporting the building will be tilted.</p>
-<p align="center"><sub>— 文天祥千秋祭</sub></p>
+<p align="center"><b>🎯 中文：</b>让美丽的夜空带我们踏过平庸。</p>
+<p align="center"><b>🎯 English：</b>Let the beautiful night sky take us through the mediocrity.</p>
+<p align="center"><sub>— 追记“时代楷模”南仁东</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
