@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=1057ef34" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=a2dd032a" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=06e0" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=97a7" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E8%AE%A9%E7%BE%8E%E4%B8%BD%E7%9A%84%E5%A4%9C%E7%A9%BA%E5%B8%A6%E6%88%91%E4%BB%AC%E8%B8%8F%E8%BF%87%E5%B9%B3%E5%BA%B8%E3%80%82;Let%20the%20beautiful%20night%20sky%20take%20us%20through%20the%20mediocrity." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E4%BB%8E%E6%AD%A4%E4%BB%A5%E5%90%8E%EF%BC%8C%E6%9C%89%E5%85%AC%E4%B9%89%E7%9A%84%E5%86%A0%E5%86%95%E4%B8%BA%E4%BD%A0%E7%95%99%E5%AD%98%E3%80%82;From%20now%20on%2C%20a%20crown%20of%20righteousness%20is%20reserved%20for%20you." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>让美丽的夜空带我们踏过平庸。</p>
-<p align="center"><b>🎯 English：</b>Let the beautiful night sky take us through the mediocrity.</p>
-<p align="center"><sub>— 追记“时代楷模”南仁东</sub></p>
+<p align="center"><b>🎯 中文：</b>从此以后，有公义的冠冕为你留存。</p>
+<p align="center"><b>🎯 English：</b>From now on, a crown of righteousness is reserved for you.</p>
+<p align="center"><sub>— 提摩太后书</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
