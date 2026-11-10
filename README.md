@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=a2dd032a" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=2499a770" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=97a7" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=5d05" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E4%BB%8E%E6%AD%A4%E4%BB%A5%E5%90%8E%EF%BC%8C%E6%9C%89%E5%85%AC%E4%B9%89%E7%9A%84%E5%86%A0%E5%86%95%E4%B8%BA%E4%BD%A0%E7%95%99%E5%AD%98%E3%80%82;From%20now%20on%2C%20a%20crown%20of%20righteousness%20is%20reserved%20for%20you." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E9%B9%B0%E5%87%BB%E9%95%BF%E7%A9%BA%EF%BC%8C%E9%B1%BC%E7%BF%94%E6%B5%85%E5%BA%95%EF%BC%8C%E4%B8%87%E7%B1%BB%E9%9C%9C%E5%A4%A9%E7%AB%9E%E8%87%AA%E7%94%B1%E3%80%82;Eagles%20are%20soaring%20high%20in%20the%20sky%2C%20fishes%20are%20surfing%20in%20the%20water%2C%20and%20all%20lifes%20are%20free%20in%20the%20season%20of%20Autumn.%20%E2%80%9D" alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>从此以后，有公义的冠冕为你留存。</p>
-<p align="center"><b>🎯 English：</b>From now on, a crown of righteousness is reserved for you.</p>
-<p align="center"><sub>— 提摩太后书</sub></p>
+<p align="center"><b>🎯 中文：</b>鹰击长空，鱼翔浅底，万类霜天竞自由。</p>
+<p align="center"><b>🎯 English：</b>Eagles are soaring high in the sky, fishes are surfing in the water, and all lifes are free in the season of Autumn. ”</p>
+<p align="center"><sub>— 沁园春·长沙</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
