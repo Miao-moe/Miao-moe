@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=dfe15056" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=0b5c0ab8" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=dea9" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=4a05" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E8%A7%81%E8%BF%87%E9%93%B6%E6%B2%B3%EF%BC%8C%E5%8F%AA%E6%83%B3%E8%A6%81%E4%BD%A0%E8%BF%99%E9%A2%97%E6%98%9F%E3%80%82;I%20have%20seen%20the%20Milky%20Way%20and%20only%20want%20your%20star." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E6%88%91%E8%BF%BD%E7%B4%A2%E4%BA%BA%E5%BF%83%E7%9A%84%E6%B7%B1%E5%BA%A6%EF%BC%8C%E5%8D%B4%E7%9C%8B%E5%88%B0%E4%BA%86%E4%BA%BA%E5%BF%83%E7%9A%84%E6%B5%85%E8%96%84%E3%80%82;I%20sought%20the%20depths%20of%20the%20human%20heart%2C%20but%20instead%20saw%20its%20shallowness." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>见过银河，只想要你这颗星。</p>
-<p align="center"><b>🎯 English：</b>I have seen the Milky Way and only want your star.</p>
-<p align="center"><sub>— 我已见过银河，却仍只爱你这一颗星</sub></p>
+<p align="center"><b>🎯 中文：</b>我追索人心的深度，却看到了人心的浅薄。</p>
+<p align="center"><b>🎯 English：</b>I sought the depths of the human heart, but instead saw its shallowness.</p>
+<p align="center"><sub>— 云雀叫了一整天》</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
