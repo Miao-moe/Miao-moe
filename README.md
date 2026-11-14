@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=a2224c7c" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=06428193" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=695d" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=ef83" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E5%BE%97%E6%9D%A5%E4%B8%8D%E6%98%93%E7%9A%84%E6%9C%BA%E4%BC%9A%EF%BC%8C%E4%BC%9A%E8%AE%A9%E6%89%80%E6%9C%89%E7%9A%84%E5%8A%A8%E7%89%A9%E5%8E%BB%E5%81%9A%E5%8E%9F%E6%9D%A5%E4%B8%8D%E5%96%9C%E6%AC%A2%E5%81%9A%E7%9A%84%E4%BA%8B%E3%80%82;Hard-won%20opportunities%20can%20make%20all%20animals%20do%20things%20they%20didn%27t%20like%20doing%20before." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E4%BA%BA%E7%B1%BB%E8%B5%B7%E6%BA%90%E4%BA%8E%E4%BF%A1%E4%BB%B0%EF%BC%8C%E6%AF%81%E4%BA%8E%E4%BF%A1%E4%BB%B0%EF%BC%8C%E4%BA%BA%E4%BB%AC%E5%9C%A8%E4%BF%A1%E4%BB%B0%E7%9A%84%E4%BD%99%E7%83%AC%E9%87%8C%E9%87%8D%E7%94%9F%E3%80%82;Humanity%20originated%20from%20faith%2C%20was%20destroyed%20by%20faith%2C%20and%20people%20were%20reborn%20in%20the%20embers%20of%20faith." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>得来不易的机会，会让所有的动物去做原来不喜欢做的事。</p>
-<p align="center"><b>🎯 English：</b>Hard-won opportunities can make all animals do things they didn't like doing before.</p>
-<p align="center"><sub>— 我是猫</sub></p>
+<p align="center"><b>🎯 中文：</b>人类起源于信仰，毁于信仰，人们在信仰的余烬里重生。</p>
+<p align="center"><b>🎯 English：</b>Humanity originated from faith, was destroyed by faith, and people were reborn in the embers of faith.</p>
+<p align="center"><sub>— 《残次品》</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
