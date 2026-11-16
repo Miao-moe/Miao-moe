@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=4d4c1072" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=2f1509e4" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=d48a" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=a9af" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E5%8F%AA%E6%9C%89%E5%9D%A6%E7%84%B6%E6%8E%A5%E5%8F%97%E5%91%BD%E8%BF%90%E7%9A%84%E4%B8%8D%E5%85%AC%EF%BC%8C%E6%89%8D%E8%83%BD%E5%AE%89%E7%84%B6%E4%BA%AB%E5%8F%97%E7%94%9F%E5%91%BD%E7%9A%84%E5%B9%B3%E7%AD%89%E3%80%82;Only%20by%20calmly%20accepting%20the%20injustice%20of%20fate%20can%20one%20peacefully%20enjoy%20the%20equality%20of%20life." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E4%BD%86%E4%BD%BF%E6%96%87%E7%AB%A0%E6%9C%89%E9%A3%8E%E9%AA%A8%EF%BC%8C%E5%B2%82%E5%87%AD%E6%97%B6%E9%97%B4%E5%BA%B8%E4%BA%BA%E8%BE%B1%E3%80%82;But%20to%20give%20an%20article%20character%2C%20it%20cannot%20be%20left%20to%20the%20mercy%20of%20time%20and%20mediocrity." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>只有坦然接受命运的不公，才能安然享受生命的平等。</p>
-<p align="center"><b>🎯 English：</b>Only by calmly accepting the injustice of fate can one peacefully enjoy the equality of life.</p>
-<p align="center"><sub>— 站在两个世界的边缘</sub></p>
+<p align="center"><b>🎯 中文：</b>但使文章有风骨，岂凭时间庸人辱。</p>
+<p align="center"><b>🎯 English：</b>But to give an article character, it cannot be left to the mercy of time and mediocrity.</p>
+<p align="center"><sub>— 知乎</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
