@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=2f1509e4" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=056d29f6" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=a9af" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=00b5" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E4%BD%86%E4%BD%BF%E6%96%87%E7%AB%A0%E6%9C%89%E9%A3%8E%E9%AA%A8%EF%BC%8C%E5%B2%82%E5%87%AD%E6%97%B6%E9%97%B4%E5%BA%B8%E4%BA%BA%E8%BE%B1%E3%80%82;But%20to%20give%20an%20article%20character%2C%20it%20cannot%20be%20left%20to%20the%20mercy%20of%20time%20and%20mediocrity." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E7%94%9F%E5%91%BD%E4%B8%AD%E6%89%80%E6%9C%89%E7%9A%84%E7%BB%9A%E7%83%82%EF%BC%8C%E5%8E%9F%E6%9D%A5%E7%BB%88%E7%A9%B6%EF%BC%8C%E9%83%BD%E8%A6%81%E7%94%A8%E5%AF%82%E5%AF%9E%E6%9D%A5%E5%81%BF%E8%BF%98%E3%80%82;All%20the%20splendor%20in%20life%2C%20in%20the%20end%2C%20must%20be%20repaid%20with%20loneliness." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>但使文章有风骨，岂凭时间庸人辱。</p>
-<p align="center"><b>🎯 English：</b>But to give an article character, it cannot be left to the mercy of time and mediocrity.</p>
-<p align="center"><sub>— 知乎</sub></p>
+<p align="center"><b>🎯 中文：</b>生命中所有的绚烂，原来终究，都要用寂寞来偿还。</p>
+<p align="center"><b>🎯 English：</b>All the splendor in life, in the end, must be repaid with loneliness.</p>
+<p align="center"><sub>— 百年孤独</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
