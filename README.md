@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=056d29f6" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=3b46ed1d" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=00b5" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=72ba" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E7%94%9F%E5%91%BD%E4%B8%AD%E6%89%80%E6%9C%89%E7%9A%84%E7%BB%9A%E7%83%82%EF%BC%8C%E5%8E%9F%E6%9D%A5%E7%BB%88%E7%A9%B6%EF%BC%8C%E9%83%BD%E8%A6%81%E7%94%A8%E5%AF%82%E5%AF%9E%E6%9D%A5%E5%81%BF%E8%BF%98%E3%80%82;All%20the%20splendor%20in%20life%2C%20in%20the%20end%2C%20must%20be%20repaid%20with%20loneliness." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E4%B8%80%E5%8D%8A%E7%83%9F%E7%81%AB%E4%BB%A5%E8%B0%8B%E7%94%9F%EF%BC%8C%E4%B8%80%E5%8D%8A%E8%AF%97%E6%84%8F%E4%BB%A5%E8%B0%8B%E7%88%B1%E3%80%82;Half%20of%20life%20is%20about%20making%20a%20living%2C%20and%20half%20is%20about%20finding%20love." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>生命中所有的绚烂，原来终究，都要用寂寞来偿还。</p>
-<p align="center"><b>🎯 English：</b>All the splendor in life, in the end, must be repaid with loneliness.</p>
-<p align="center"><sub>— 百年孤独</sub></p>
+<p align="center"><b>🎯 中文：</b>一半烟火以谋生，一半诗意以谋爱。</p>
+<p align="center"><b>🎯 English：</b>Half of life is about making a living, and half is about finding love.</p>
+<p align="center"><sub>— 人民日报</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
