@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=3b46ed1d" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=fa34cba6" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=72ba" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=b68e" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E4%B8%80%E5%8D%8A%E7%83%9F%E7%81%AB%E4%BB%A5%E8%B0%8B%E7%94%9F%EF%BC%8C%E4%B8%80%E5%8D%8A%E8%AF%97%E6%84%8F%E4%BB%A5%E8%B0%8B%E7%88%B1%E3%80%82;Half%20of%20life%20is%20about%20making%20a%20living%2C%20and%20half%20is%20about%20finding%20love." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E8%8D%92%E8%AF%9E%E4%B9%9F%E5%A5%BD%EF%BC%8C%E6%84%9A%E7%AC%A8%E4%B9%9F%E5%A5%BD%EF%BC%8C%E6%80%BB%E4%BC%9A%E8%BF%87%E5%8E%BB%E7%9A%84%E3%80%82;Whether%20it%27s%20absurd%20or%20foolish%2C%20it%20will%20always%20pass." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>一半烟火以谋生，一半诗意以谋爱。</p>
-<p align="center"><b>🎯 English：</b>Half of life is about making a living, and half is about finding love.</p>
-<p align="center"><sub>— 人民日报</sub></p>
+<p align="center"><b>🎯 中文：</b>荒诞也好，愚笨也好，总会过去的。</p>
+<p align="center"><b>🎯 English：</b>Whether it's absurd or foolish, it will always pass.</p>
+<p align="center"><sub>— 一瞬的光和永远</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
