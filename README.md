@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=fa34cba6" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=ee7be9a3" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=b68e" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=a37d" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E8%8D%92%E8%AF%9E%E4%B9%9F%E5%A5%BD%EF%BC%8C%E6%84%9A%E7%AC%A8%E4%B9%9F%E5%A5%BD%EF%BC%8C%E6%80%BB%E4%BC%9A%E8%BF%87%E5%8E%BB%E7%9A%84%E3%80%82;Whether%20it%27s%20absurd%20or%20foolish%2C%20it%20will%20always%20pass." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E6%9C%AA%E7%BB%8F%E5%85%81%E8%AE%B8%EF%BC%8C%E6%93%85%E8%87%AA%E7%89%B9%E5%88%AB%E5%96%9C%E6%AC%A2%E4%BD%A0%EF%BC%8C%E4%B8%8D%E5%A5%BD%E6%84%8F%E6%80%9D%E4%BA%86%E3%80%82;I%27m%20sorry%20for%20liking%20you%20without%20permission." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>荒诞也好，愚笨也好，总会过去的。</p>
-<p align="center"><b>🎯 English：</b>Whether it's absurd or foolish, it will always pass.</p>
-<p align="center"><sub>— 一瞬的光和永远</sub></p>
+<p align="center"><b>🎯 中文：</b>未经允许，擅自特别喜欢你，不好意思了。</p>
+<p align="center"><b>🎯 English：</b>I'm sorry for liking you without permission.</p>
+<p align="center"><sub>— 默读</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
