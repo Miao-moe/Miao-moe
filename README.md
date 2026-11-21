@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=ee7be9a3" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=a8a474f4" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=a37d" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=f7c8" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E6%9C%AA%E7%BB%8F%E5%85%81%E8%AE%B8%EF%BC%8C%E6%93%85%E8%87%AA%E7%89%B9%E5%88%AB%E5%96%9C%E6%AC%A2%E4%BD%A0%EF%BC%8C%E4%B8%8D%E5%A5%BD%E6%84%8F%E6%80%9D%E4%BA%86%E3%80%82;I%27m%20sorry%20for%20liking%20you%20without%20permission." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E6%85%A2%E5%93%81%E4%BA%BA%E9%97%B4%E7%83%9F%E7%81%AB%E8%89%B2%EF%BC%8C%E9%97%B2%E8%A7%82%E4%B8%87%E4%BA%8B%E5%B2%81%E6%9C%88%E9%95%BF%E3%80%82;Slowly%20savoring%20the%20vibrant%20colors%20of%20everyday%20life%2C%20leisurely%20observing%20the%20passage%20of%20time%20and%20all%20things." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>未经允许，擅自特别喜欢你，不好意思了。</p>
-<p align="center"><b>🎯 English：</b>I'm sorry for liking you without permission.</p>
-<p align="center"><sub>— 默读</sub></p>
+<p align="center"><b>🎯 中文：</b>慢品人间烟火色，闲观万事岁月长。</p>
+<p align="center"><b>🎯 English：</b>Slowly savoring the vibrant colors of everyday life, leisurely observing the passage of time and all things.</p>
+<p align="center"><sub>— 人民日报</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
