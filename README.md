@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=a8a474f4" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=b6c0016d" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=f7c8" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=00e7" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E6%85%A2%E5%93%81%E4%BA%BA%E9%97%B4%E7%83%9F%E7%81%AB%E8%89%B2%EF%BC%8C%E9%97%B2%E8%A7%82%E4%B8%87%E4%BA%8B%E5%B2%81%E6%9C%88%E9%95%BF%E3%80%82;Slowly%20savoring%20the%20vibrant%20colors%20of%20everyday%20life%2C%20leisurely%20observing%20the%20passage%20of%20time%20and%20all%20things." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E5%90%BE%E5%BF%B5%E6%89%80%E5%BD%92%EF%BC%8C%E6%97%A0%E6%83%A7%E6%97%A0%E9%80%80%EF%BC%81;I%20will%20follow%20my%20heart%2C%20without%20fear%20or%20hesitation%21" alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>慢品人间烟火色，闲观万事岁月长。</p>
-<p align="center"><b>🎯 English：</b>Slowly savoring the vibrant colors of everyday life, leisurely observing the passage of time and all things.</p>
-<p align="center"><sub>— 人民日报</sub></p>
+<p align="center"><b>🎯 中文：</b>吾念所归，无惧无退！</p>
+<p align="center"><b>🎯 English：</b>I will follow my heart, without fear or hesitation!</p>
+<p align="center"><sub>— 冰与火之歌</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
