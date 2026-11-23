@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=b6c0016d" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=717d8586" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=00e7" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=7ac8" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E5%90%BE%E5%BF%B5%E6%89%80%E5%BD%92%EF%BC%8C%E6%97%A0%E6%83%A7%E6%97%A0%E9%80%80%EF%BC%81;I%20will%20follow%20my%20heart%2C%20without%20fear%20or%20hesitation%21" alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E4%B8%8D%E7%9F%A5%E6%B8%A1%E4%BA%BA%EF%BC%8C%E4%BD%95%E4%BB%A5%E6%B8%A1%E5%B7%B1%E3%80%82;If%20you%20don%27t%20know%20how%20to%20help%20others%2C%20how%20can%20you%20help%20yourself%3F" alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>吾念所归，无惧无退！</p>
-<p align="center"><b>🎯 English：</b>I will follow my heart, without fear or hesitation!</p>
-<p align="center"><sub>— 冰与火之歌</sub></p>
+<p align="center"><b>🎯 中文：</b>不知渡人，何以渡己。</p>
+<p align="center"><b>🎯 English：</b>If you don't know how to help others, how can you help yourself?</p>
+<p align="center"><sub>— 二哈和他的白猫师尊</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
