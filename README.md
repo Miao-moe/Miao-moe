@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=c9234483" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=7ca0c441" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=cae8" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=5a2d" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E8%87%AA%E7%84%B6%E9%80%89%E6%8B%A9%E5%8F%B7%EF%BC%8C%E5%89%8D%E8%BF%9B%E5%9B%9B%E3%80%82;Natural%20Selection%2C%20ahead%20full%20speed." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E5%8E%9F%E6%9D%A5%EF%BC%8C%E5%A4%A9%E4%B8%8A%E7%9A%84%E6%98%9F%EF%BC%8C%E9%83%BD%E6%98%AF%E6%9B%BE%E8%A2%AB%E4%BA%BA%E6%83%A6%E5%BF%B5%E8%80%8C%E5%8F%88%E9%81%97%E5%BF%98%E7%9A%84%E6%A2%A6%E5%95%8A%E3%80%82;It%20turns%20out%20that%20the%20stars%20in%20the%20sky%20are%20all%20dreams%20that%20were%20once%20cherished%20and%20then%20forgotten." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>自然选择号，前进四。</p>
-<p align="center"><b>🎯 English：</b>Natural Selection, ahead full speed.</p>
-<p align="center"><sub>— 三体</sub></p>
+<p align="center"><b>🎯 中文：</b>原来，天上的星，都是曾被人惦念而又遗忘的梦啊。</p>
+<p align="center"><b>🎯 English：</b>It turns out that the stars in the sky are all dreams that were once cherished and then forgotten.</p>
+<p align="center"><sub>— 小荷</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
