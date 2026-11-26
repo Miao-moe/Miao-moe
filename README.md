@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=7ca0c441" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=d53ffb9d" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=5a2d" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=b7e0" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E5%8E%9F%E6%9D%A5%EF%BC%8C%E5%A4%A9%E4%B8%8A%E7%9A%84%E6%98%9F%EF%BC%8C%E9%83%BD%E6%98%AF%E6%9B%BE%E8%A2%AB%E4%BA%BA%E6%83%A6%E5%BF%B5%E8%80%8C%E5%8F%88%E9%81%97%E5%BF%98%E7%9A%84%E6%A2%A6%E5%95%8A%E3%80%82;It%20turns%20out%20that%20the%20stars%20in%20the%20sky%20are%20all%20dreams%20that%20were%20once%20cherished%20and%20then%20forgotten." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E5%A4%A9%E4%B8%8D%E7%94%9F%E6%88%91%E6%9D%8E%E6%B7%B3%E7%BD%A1%EF%BC%8C%E5%89%91%E9%81%93%E4%B8%87%E5%8F%A4%E5%A6%82%E9%95%BF%E5%A4%9C%E3%80%82;If%20Li%20Chungang%20had%20not%20been%20born%2C%20the%20path%20of%20the%20sword%20would%20have%20been%20as%20long%20as%20an%20eternal%20night." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>原来，天上的星，都是曾被人惦念而又遗忘的梦啊。</p>
-<p align="center"><b>🎯 English：</b>It turns out that the stars in the sky are all dreams that were once cherished and then forgotten.</p>
-<p align="center"><sub>— 小荷</sub></p>
+<p align="center"><b>🎯 中文：</b>天不生我李淳罡，剑道万古如长夜。</p>
+<p align="center"><b>🎯 English：</b>If Li Chungang had not been born, the path of the sword would have been as long as an eternal night.</p>
+<p align="center"><sub>— 雪中悍刀行</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
