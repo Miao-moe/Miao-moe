@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=d53ffb9d" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=d36ead19" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=b7e0" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=1f02" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E5%A4%A9%E4%B8%8D%E7%94%9F%E6%88%91%E6%9D%8E%E6%B7%B3%E7%BD%A1%EF%BC%8C%E5%89%91%E9%81%93%E4%B8%87%E5%8F%A4%E5%A6%82%E9%95%BF%E5%A4%9C%E3%80%82;If%20Li%20Chungang%20had%20not%20been%20born%2C%20the%20path%20of%20the%20sword%20would%20have%20been%20as%20long%20as%20an%20eternal%20night." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E8%8D%89%E9%95%BF%E8%8E%BA%E9%A3%9E%E6%85%B0%E8%97%89%E5%AD%A4%E5%8D%95%E7%9A%84%E6%AE%8B%E9%9B%AA%EF%BC%8C%E6%94%BE%E5%BC%80%E6%89%8B%E8%AE%A9%E5%AF%92%E5%86%B7%E8%83%86%E6%80%AF%E3%80%82;As%20grass%20grows%20and%20warblers%20fly%2C%20they%20bring%20solace%20to%20the%20lonely%20remnants%20of%20snow%2C%20and%20the%20cold%20is%20allowed%20to%20retreat." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>天不生我李淳罡，剑道万古如长夜。</p>
-<p align="center"><b>🎯 English：</b>If Li Chungang had not been born, the path of the sword would have been as long as an eternal night.</p>
-<p align="center"><sub>— 雪中悍刀行</sub></p>
+<p align="center"><b>🎯 中文：</b>草长莺飞慰藉孤单的残雪，放开手让寒冷胆怯。</p>
+<p align="center"><b>🎯 English：</b>As grass grows and warblers fly, they bring solace to the lonely remnants of snow, and the cold is allowed to retreat.</p>
+<p align="center"><sub>— 咏春</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
