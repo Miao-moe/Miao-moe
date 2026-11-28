@@ -27,7 +27,7 @@
 
 <!-- MOE_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/moez?r=d36ead19" width="400" alt="萌图" />
+  <img src="https://t.alcy.cc/moez?r=0f17eccf" width="400" alt="萌图" />
 </p>
 <!-- MOE_IMG_END -->
 
@@ -40,7 +40,7 @@
 
 <!-- FOX_IMG_START -->
 <p align="center">
-  <img src="https://t.alcy.cc/xhl?r=1f02" width="400" alt="小狐狸" />
+  <img src="https://t.alcy.cc/xhl?r=bf45" width="400" alt="小狐狸" />
 </p>
 <!-- FOX_IMG_END -->
 
@@ -53,12 +53,12 @@
 
 <!-- DAILY_QUOTE_START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E8%8D%89%E9%95%BF%E8%8E%BA%E9%A3%9E%E6%85%B0%E8%97%89%E5%AD%A4%E5%8D%95%E7%9A%84%E6%AE%8B%E9%9B%AA%EF%BC%8C%E6%94%BE%E5%BC%80%E6%89%8B%E8%AE%A9%E5%AF%92%E5%86%B7%E8%83%86%E6%80%AF%E3%80%82;As%20grass%20grows%20and%20warblers%20fly%2C%20they%20bring%20solace%20to%20the%20lonely%20remnants%20of%20snow%2C%20and%20the%20cold%20is%20allowed%20to%20retreat." alt="Daily Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E8%88%B9%E5%A4%AB%E8%99%BD%E7%9C%8B%E4%B8%8D%E8%A7%81%E6%B0%B4%E9%87%8C%E7%9A%84%E9%B1%BC%E7%BE%A4%EF%BC%8C%E5%8D%B4%E5%8F%AF%E4%BB%A5%E7%94%A8%E8%87%AA%E5%B7%B1%E7%9A%84%E7%BD%91%E6%89%93%E6%8D%9E%E4%B8%B0%E6%94%B6%EF%BC%8C%E8%80%8C%E9%9D%9E%E8%8B%8D%E7%99%BD%E3%80%82;Although%20the%20boatman%20cannot%20see%20the%20schools%20of%20fish%20in%20the%20water%2C%20he%20can%20still%20use%20his%20net%20to%20haul%20in%20a%20bountiful%20catch%2C%20rather%20than%20coming%20up%20empty-handed." alt="Daily Quote" />
 </p>
 
-<p align="center"><b>🎯 中文：</b>草长莺飞慰藉孤单的残雪，放开手让寒冷胆怯。</p>
-<p align="center"><b>🎯 English：</b>As grass grows and warblers fly, they bring solace to the lonely remnants of snow, and the cold is allowed to retreat.</p>
-<p align="center"><sub>— 咏春</sub></p>
+<p align="center"><b>🎯 中文：</b>船夫虽看不见水里的鱼群，却可以用自己的网打捞丰收，而非苍白。</p>
+<p align="center"><b>🎯 English：</b>Although the boatman cannot see the schools of fish in the water, he can still use his net to haul in a bountiful catch, rather than coming up empty-handed.</p>
+<p align="center"><sub>— 趁着雾霾出海</sub></p>
 <!-- DAILY_QUOTE_END -->
 
 <p align="center"><sub>✨ 来源于 <a href="https://hitokoto.cn">一言 API</a> ✨</sub></p>
